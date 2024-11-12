@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-11-12T10:42:19+00:00\n"
+"POT-Creation-Date: 2024-11-12T10:42:57+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: ramadan-2025\n"
@@ -844,11 +844,11 @@ msgid "“Do not lay up for yourselves treasures on earth, where moth and rust d
 msgstr ""
 
 #: admin/prayer-field-content.php:460
-msgid "May the believers of this place fix their eyes on Jesus. As they gaze on his bright glory, may the light of Christ enter their eyes and fill their whole bodies with light. When the things of earth begin to draw their attention away from the eternal unseen, remind each one that the treasures of this earth will rust, decay, be destroyed. To treasure temporal things is like trying to capture waves as they lap the sand. Impossible. Futile. Exhausting. Lord, we pray for the parents who are overwhelmed trying to get enough money to feed their children, to help them learn. Let them take your hand each morning as they wake and go to work and delight in your presence as they trust in you to care for them and their loved ones."
+msgid "Most Muslims (and many Christians) believe that material wealth is evidence of being favored by God. Therefore, they believe the converse is also true: lack of material wealth is evidence of not being favored by God. In this passage, Jesus encourages His followers to invest their lives in laying up treasures in heaven and not material wealth. Pray for Muslims today to ponder if they are serving God or money. Ask that the Holy Spirit would convict them that serving money ultimately leads to bondage and death."
 msgstr ""
 
 #: admin/prayer-field-content.php:461
-msgid "Most Muslims (and many Christians) believe that material wealth is evidence of being favored by God. Therefore, they believe the converse is also true: lack of material wealth is evidence of not being favored by God. In this passage, Jesus encourages His followers to invest their lives in laying up treasures in heaven and not material wealth. Pray for Muslims today to ponder if they are serving God or money. Ask that the Holy Spirit would convict them that serving money ultimately leads to bondage and death."
+msgid "May the believers of this place fix their eyes on Jesus. As they gaze on his bright glory, may the light of Christ enter their eyes and fill their whole bodies with light. When the things of earth begin to draw their attention away from the eternal unseen, remind each one that the treasures of this earth will rust, decay, be destroyed. To treasure temporal things is like trying to capture waves as they lap the sand. Impossible. Futile. Exhausting. Lord, we pray for the parents who are overwhelmed trying to get enough money to feed their children, to help them learn. Let them take your hand each morning as they wake and go to work and delight in your presence as they trust in you to care for them and their loved ones."
 msgstr ""
 
 #: admin/prayer-field-content.php:462
