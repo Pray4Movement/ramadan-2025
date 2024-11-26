@@ -55,14 +55,7 @@ class Ramadan_2025_Tab_General {
         $campaign = DT_Campaign_Landing_Settings::get_campaign();
         $languages = $languages_manager->get_enabled_languages( $campaign['ID'] );
 
-        $translations = [];
         $installed_languages = get_available_languages( Ramadan_2025::$plugin_dir .'languages/' );
-        foreach ( $installed_languages as $language ) {
-            $mo = new MO();
-            if ( $mo->import_from_file( Ramadan_2025::$plugin_dir . 'languages/' . $language . '.mo' ) ){
-                $translations[$language] = $mo->entries;
-            }
-        }
 
         global $wpdb;
         $installed_langs_query = $wpdb->get_results( $wpdb->prepare("
@@ -85,7 +78,7 @@ class Ramadan_2025_Tab_General {
         }
 
 
-        $prayer_fuel_ready = [ 'en_US', 'pt_BR', 'fr_FR', 'ar', 'de_DE' ];
+        $prayer_fuel_ready = [ 'en_US' ];
 
         ?>
         <table class="widefat striped">
@@ -121,18 +114,18 @@ class Ramadan_2025_Tab_General {
                             <tbody>
 
                             <?php foreach ( $languages as $code => $language ):
-                                $fuel_available = $code === 'en_US' || isset( $translations['ramadan-2025-' . $code] );
+                                $fuel_available = $code === 'en_US' || in_array( 'ramadan-2025-' . $code, $installed_languages );
                                 ?>
 
                                 <tr>
                                     <td><?php echo esc_html( $language['flag'] ) ?> <?php echo esc_html( $language['english_name'] ) ?></td>
                                     <td>
-                                        <button class="button install-ramadan-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( !$fuel_available || !in_array( $code, $prayer_fuel_ready ) ) ?>>
+                                        <button class="button install-2025-ramadan-content" value="<?php echo esc_html( $code ) ?>" <?php disabled( !$fuel_available || !in_array( $code, $prayer_fuel_ready ) ) ?>>
                                             Install prayer fuel in <?php echo esc_html( $language['flag'] ) ?>
                                         </button>
                                     </td>
                                     <td>
-                                        <button class="button install-ramadan-content" value="<?php echo esc_html( $code ) ?>" data-default="true" >
+                                        <button class="button install-2025-ramadan-content" value="<?php echo esc_html( $code ) ?>" data-default="true" >
                                             Install prayer fuel in English
                                         </button>
                                     </td>
@@ -153,15 +146,15 @@ class Ramadan_2025_Tab_General {
                 </tr>
             </tbody>
         </table>
-        <div id="ramadan-dialog" title="Install Prayer Fuel" style="display: none">
-            <form id="ramadan-install-form">
+        <div id="ramadan-2025-dialog" title="Install Prayer Fuel" style="display: none">
+            <form id="ramadan-2025-install-form">
                 <h3>Install Ramadan Prayer Fuel in <span class="ramadan-new-language">French</span></h3>
                 <br>
                 <p>
                     This will create a post for each of the 30 days of Ramadan.
                 </p>
                 <button class="button" type="submit" id="ramadan-install-language">
-                    Install Prayer Fuel in <span class="ramadan-new-language">French</span> <img id="ramadan-install-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
+                    Install Prayer Fuel in <span class="ramadan-new-language">French</span> <img class="ramadan-install-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
                 </button>
                 <p>
     <!--                Please review the posts here: link @todo-->
@@ -169,49 +162,41 @@ class Ramadan_2025_Tab_General {
             </form>
         </div>
 
-        <div id="ramadan-delete-fuel" title="Delete Fuel">
+        <div id="ramadan-2025-delete-fuel" title="Delete Fuel">
             <p>Are you sure you want to delete Prayer Fuel in <span class="ramadan-new-language">French</span></p>
             <button class="button button-primary" id="confirm-ramadan-delete">Delete
-                <img id="ramadan-delete-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
+                <img class="ramadan-delete-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
             </button>
             <button class="button" id="ramadan-close-delete">Cancel</button>
         </div>
 
         <script type="application/javascript">
-            let translations = <?php echo json_encode( $translations ) ?>;
-            let languages = <?php echo json_encode( $languages ) ?>;
+            let languages_2025 = <?php echo json_encode( $languages ) ?>;
 
             jQuery(document).ready(function ($){
                 let code = null;
                 let default_content = false
-                $( "#ramadan-dialog" ).dialog({ autoOpen: false, minWidth: 600 }).show()
-                $( "#ramadan-delete-fuel" ).dialog({ autoOpen: false });
+                $( "#ramadan-2025-dialog" ).dialog({ autoOpen: false, minWidth: 600 }).show()
+                $( "#ramadan-2025-delete-fuel" ).dialog({ autoOpen: false });
 
-                $('.install-ramadan-content').on('click', function (){
-                    $( "#ramadan-dialog" ).dialog( "open" );
+                $('.install-2025-ramadan-content').on('click', function (){
+                    $( "#ramadan-2025-dialog" ).dialog( "open" );
                     code = $(this).val();
                     default_content = $(this).data('default');
 
 
-                    $('.ramadan-new-language').html(languages[code]?.label || code)
+                    $('.ramadan-new-language').html(languages_2025[code]?.label || code)
 
-                    if ( translations[`ramadan-2025-${code}`] && translations[`ramadan-2025-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']){
-                        $('#ramadan-in-location').html( translations[`ramadan-2025-${code}`]['Jesus, give the church [in location] grace to cherish your name above all else']['translations'][0] )
-                    }
-
-                    if ( translations[`ramadan-2025-${code}`] && translations[`ramadan-2025-${code}`]['let the people [of location] grasp the Good News']){
-                        $('#ramadan-of-location').html( translations[`ramadan-2025-${code}`]['let the people [of location] grasp the Good News']['translations'][0] )
-                    }
                 })
 
-                $('#ramadan-install-form').on('submit', function (e){
+                $('#ramadan-2025-install-form').on('submit', function (e){
                     e.preventDefault()
                     let in_location = $('#ramadan-in-location-input').val();
                     let of_location = $('#ramadan-of-location-input').val();
                     let location = $('#ramadan-location-input').val();
                     let ppl_group = $('#ramadan-people-group-input').val();
 
-                    $('#ramadan-install-spinner').show()
+                    $('.ramadan-install-spinner').show()
                     $.ajax({
                         type: 'POST',
                         contentType: 'application/json; charset=utf-8',
@@ -230,7 +215,7 @@ class Ramadan_2025_Tab_General {
                             default_content: !!default_content
                         })
                     }).then(()=>{
-                        // $('#ramadan-install-spinner').hide()
+                        // $('.ramadan-install-spinner').hide()
                         window.location.reload()
                     })
                 })
@@ -240,13 +225,13 @@ class Ramadan_2025_Tab_General {
                     delete_code = $(this).val();
 
                     $('.ramadan-new-language').html(languages[delete_code]?.label || delete_code)
-                    $( "#ramadan-delete-fuel" ).dialog( "open" );
+                    $( "#ramadan-2025-delete-fuel" ).dialog( "open" );
                 })
                 $('#ramadan-close-delete').on('click', function (){
-                    $( "#ramadan-delete-fuel" ).dialog( "close" );
+                    $( "#ramadan-2025-delete-fuel" ).dialog( "close" );
                 })
                 $('#confirm-ramadan-delete').on('click', function (){
-                    $('#ramadan-delete-spinner').show()
+                    $('.ramadan-delete-spinner').show()
                     $.ajax({
                         type: 'POST',
                         contentType: 'application/json; charset=utf-8',
@@ -260,7 +245,7 @@ class Ramadan_2025_Tab_General {
                             lang: delete_code,
                         })
                     }).then(()=>{
-                        // $('#ramadan-delete-spinner').hide()
+                        // $('.ramadan-delete-spinner').hide()
                         window.location.reload()
                     })
                 })
