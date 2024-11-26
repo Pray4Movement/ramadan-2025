@@ -5,7 +5,7 @@
  * Description: Disciple.Tools - Ramadan 2025 prayer fuel content.
  * Text Domain: ramadan-2025
  * Domain Path: /languages
- * Version:  1.5.2
+ * Version:  1.0.0
  * Author URI: https://github.com/Pray4Movement
  * GitHub Plugin URI: https://github.com/Pray4Movement/ramadan-2025
  * Requires at least: 4.7.0
