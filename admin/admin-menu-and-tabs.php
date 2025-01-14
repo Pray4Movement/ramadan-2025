@@ -150,7 +150,7 @@ class Ramadan_2025_Tab_General {
                 <h3>Install Ramadan Prayer Fuel in <span class="ramadan-new-language">French</span></h3>
                 <br>
                 <p>
-                    This will create a post for each of the 30 days of Ramadan.
+                    This will create a post for day of the month of Ramadan.
                 </p>
                 <button class="button" type="submit" id="ramadan-install-language">
                     Install Prayer Fuel in <span class="ramadan-new-language">French</span> <img class="ramadan-install-spinner" style="height:15px; vertical-align: middle; display: none" src="<?php echo esc_html( get_template_directory_uri() . '/spinner.svg' ) ?>"/>
@@ -182,10 +182,11 @@ class Ramadan_2025_Tab_General {
                     $( "#ramadan-2025-dialog" ).dialog( "open" );
                     code = $(this).val();
                     default_content = $(this).data('default');
-
-
-                    $('.ramadan-new-language').html(languages_2025[code]?.label || code)
-
+                    if ( default_content ){
+                        $('.ramadan-new-language').html('English')
+                    } else {
+                        $('.ramadan-new-language').html(languages_2025[code]?.label || code)
+                    }
                 })
 
                 $('#ramadan-2025-install-form').on('submit', function (e){
@@ -223,7 +224,7 @@ class Ramadan_2025_Tab_General {
                 $('.delete-ramadan-content').on('click', function (){
                     delete_code = $(this).val();
 
-                    $('.ramadan-new-language').html(languages[delete_code]?.label || delete_code)
+                    $('.ramadan-new-language').html(languages_2025[delete_code]?.label || delete_code)
                     $( "#ramadan-2025-delete-fuel" ).dialog( "open" );
                 })
                 $('#ramadan-close-delete').on('click', function (){
