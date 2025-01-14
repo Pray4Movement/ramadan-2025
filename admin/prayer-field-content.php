@@ -21,12 +21,10 @@ class P4_Ramadan_2025_Content {
         $content = self::content( $language, $names, $from_translation ?? $language );
         foreach ( $content as $i => $day ) {
 
-            $title = gmdate( 'F j Y', strtotime( $start . ' + ' . $i . ' day' ) );
-            $date = gmdate( 'Y-m-d', strtotime( $start . ' + ' . $i . ' day' ) );
+            $title = DT_Time_Utilities::display_date_localized( strtotime( $start . ' + ' . $i . ' day' ), $language );
+
             $slug = str_replace( ' ', '-', strtolower( gmdate( 'F j Y', strtotime( $start . ' + ' . $i . ' day' ) ) ) );
             $post_content = implode( '', wp_unslash( $day['content'] ) );
-
-//            $day = DT_Campaign_Fuel::what_day_in_campaign( $post_date );
 
             $args = [
                 'post_title'    => $title,
