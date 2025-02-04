@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple.Tools - Ramadan 2025 1.5.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2025\n"
-"POT-Creation-Date: 2025-01-14T09:36:30+00:00\n"
+"POT-Creation-Date: 2025-02-04T14:38:41+00:00\n"
 "PO-Revision-Date: 2024-12-25 16:00+0000\n"
 "Last-Translator: Kevin Fallah <kevin@christianlingua.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://translate.disciple."
@@ -17,13 +17,13 @@ msgstr ""
 "X-Generator: Weblate 5.9.2\n"
 "X-Domain: ramadan-2025\n"
 
-#: admin/prayer-field-content.php:71
+#: admin/prayer-field-content.php:69
 msgid ""
 "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven."
 "\" (Matthew 5:3) ESV"
 msgstr "“虚心的人有福了，因为天国是他们的。” （马太福音 5:3）"
 
-#: admin/prayer-field-content.php:72
+#: admin/prayer-field-content.php:70
 msgid ""
 "Islam is a works-based religion. The more faithfully Muslims practice the "
 "five pillars of Islam, the better their chances are of entering paradise. "
@@ -35,7 +35,7 @@ msgstr ""
 "进入天堂的机会就越大。今天，当我们通过马太福音 5:3 为这里的穆斯林祈祷时，请特"
 "别关注心灵贫乏（虚心）对于进入天国是多么重要。"
 
-#: admin/prayer-field-content.php:73
+#: admin/prayer-field-content.php:71
 msgid ""
 "Dina did everything she could to make herself clean before God, including "
 "wearing the niqab, her traditional Muslim head covering. She was so "
@@ -55,7 +55,7 @@ msgstr ""
 "我们为信徒祷告，求圣灵引导信徒如何在他们的邻里、工作场所、家庭和社区中效仿耶"
 "稣的这些话，成为“虚心”的人。"
 
-#: admin/prayer-field-content.php:74
+#: admin/prayer-field-content.php:72
 msgid ""
 "Hejer said yes to being a housecleaner for one more household. The extra "
 "money would get her one step closer to the amount she needed to pay for the "
@@ -75,7 +75,7 @@ msgstr ""
 "会。让我们为海杰和许多像她一样的人祷告，让他们能够“心灵贫乏”，意识到自己完全"
 "无法赢得真神的恩惠。"
 
-#: admin/prayer-field-content.php:75
+#: admin/prayer-field-content.php:73
 msgid ""
 "Throughout the Muslim world, churches and believers within those churches "
 "are viewed as inferior. Often, they have fewer rights and resources than the "
@@ -90,7 +90,7 @@ msgstr ""
 "句话中得到安慰。愿他们有意向周围的穆斯林传福音，像早期教会那样带来繁衍和成"
 "长，为自己的软弱感到喜乐，因为耶稣的能力在他们身上显得完全。"
 
-#: admin/prayer-field-content.php:76
+#: admin/prayer-field-content.php:74
 msgid ""
 "Pray for places of education in this area. Pray for students who hope that "
 "an education will lead to better jobs and better lives than their parents "
@@ -102,7 +102,7 @@ msgstr ""
 "的学生祷告。求圣灵与他们相遇。求他同时向他们展示他们作为神形象承载者的不可估"
 "量的价值，并且“他荣耀基业的丰盛”只属于心灵贫乏的人。"
 
-#: admin/prayer-field-content.php:77
+#: admin/prayer-field-content.php:75
 msgid ""
 "We declare your teaching, Jesus, that the poor in spirit are blessed among "
 "these people, for theirs is the kingdom of heaven. We pray for you to "
@@ -114,13 +114,13 @@ msgstr ""
 "我们祈求你能在这个地方兴起更多门徒，他们在你身上有如此清晰的身份，能够谦卑地"
 "活出“虚心”的含义。最后，我们为自己祷告。求你使我们心灵贫乏。"
 
-#: admin/prayer-field-content.php:81
+#: admin/prayer-field-content.php:79
 msgid ""
 "\"Blessed are those who mourn, for they shall be comforted.\" (Matthew 5:4) "
 "ESV"
 msgstr "“哀恸的人有福了！因为他们必得安慰。”（马太福音 5:4）"
 
-#: admin/prayer-field-content.php:82
+#: admin/prayer-field-content.php:80
 msgid ""
 "Excessive wailing and mourning at the death of a relative is prohibited in "
 "Islam. Each culture defines “excessive” differently. However, it's not rare "
@@ -135,7 +135,7 @@ msgstr ""
 "穆斯林祷告时，请想一想你生命中所经历的深深的悲伤，以及耶稣如何安慰你。想一想"
 "穆斯林可能如何面临毁灭性的损失，以及耶稣的这些话如何带来盼望。"
 
-#: admin/prayer-field-content.php:83
+#: admin/prayer-field-content.php:81
 msgid ""
 "\"My brothers won't let me go see her. If we go to her grave now and ask "
 "Jesus, will he raise her from the dead?\" Leila's heartbroken question about "
@@ -159,7 +159,7 @@ msgstr ""
 "知道她的信仰，并批评她的哀恸方式，但她梦见耶稣亲自越过海浪来到她身边，伸出安"
 "慰的手臂。祈求这里的信徒在悲伤中仍能仰望耶稣，向他呼求并得到安慰。"
 
-#: admin/prayer-field-content.php:84
+#: admin/prayer-field-content.php:82
 msgid ""
 "\"Say the Shehadda (the confession of being Muslim). It is your fault that "
 "he died.\" Deep grief, fear, and a desire for control caused Khalid to blame "
@@ -176,7 +176,7 @@ msgstr ""
 "日后令自己羞愧的事情。让我们为所有尚未认识耶稣的哀悼者祷告，使他们在感受到绝"
 "望的重担时，转而呼求主名。求那看见与人亲近的天父以真理来安慰我们。"
 
-#: admin/prayer-field-content.php:85
+#: admin/prayer-field-content.php:83
 msgid ""
 "Pray for the church to know how to comfort unbelievers with the comfort they "
 "themselves have received from God. It is very difficult when parents die who "
@@ -197,7 +197,7 @@ msgstr ""
 "理，并承认悲伤有时会扭曲我们的理解。我们感谢你了解每个人的内心以及已承认或仍"
 "隐藏的信心。请帮助你的教会知道如何真正安慰那些哀伤的人。"
 
-#: admin/prayer-field-content.php:86
+#: admin/prayer-field-content.php:84
 msgid ""
 "Pray for places of education in this country. Pause to pray for teachers "
 "working among these people. So many of their students have experienced "
@@ -214,7 +214,7 @@ msgstr ""
 "眼见。祈求他们有“受教者的舌头，使他们知道怎样用言语扶助疲乏的人”（以赛亚书 "
 "50:4）。"
 
-#: admin/prayer-field-content.php:87
+#: admin/prayer-field-content.php:85
 msgid ""
 "We believe and declare that you, Jesus, comfort those who mourn. You are the "
 "Man of Sorrows and acquainted with grief. As you \"lifted up and carried\" "
@@ -225,12 +225,12 @@ msgstr ""
 "你“在古时的日子”“常保抱”你受苦的儿女时（以赛亚书63章），也请保抱这个地区正在"
 "经历哀恸的人们。"
 
-#: admin/prayer-field-content.php:91
+#: admin/prayer-field-content.php:89
 msgid ""
 "\"Blessed are the meek, for they shall inherit the earth.\" (Matthew 5:5) ESV"
 msgstr "“温柔的人有福了！因为他们必承受地土。”（马太福音 5:5）"
 
-#: admin/prayer-field-content.php:92
+#: admin/prayer-field-content.php:90
 msgid ""
 "Meekness has several meanings: \"enduring injury without resentment,\" or "
 "\"humbly patient under provocation,\" or \"gentle; kind”. Jesus shows us "
@@ -252,7 +252,7 @@ msgstr ""
 "命，以眼还眼，以鼻还鼻。”为那些仍然信仰伊斯兰教的人祈求，让他们看到耶稣身上令"
 "人惊叹的恩典和宽恕之美。祈求人们愿意在地上受羞辱，让耶稣能得到荣耀。"
 
-#: admin/prayer-field-content.php:93
+#: admin/prayer-field-content.php:91
 msgid ""
 "Pray for meekness for believers here. The world shouts that in order to have "
 "influence, you must have money and power. You must fight for your rights, "
@@ -269,7 +269,7 @@ msgstr ""
 "人，那些能够忍受侮辱或者软弱地回应的人，那些有耐心的人——这些人将承受地土。从"
 "长远来看，温柔、自制的人的影响力比冲动、苛求的人影响更大。"
 
-#: admin/prayer-field-content.php:94
+#: admin/prayer-field-content.php:92
 msgid ""
 "Just as the powerful centurion humbled himself before Jesus' authority when "
 "he recognized it (Matthew 8:5-13), pray for the lost in this area to come to "
@@ -282,7 +282,7 @@ msgstr ""
 "稣面前谦卑自己。为失丧者祈求，让他们有机会与基督徒交谈，向他们展示耶稣的道"
 "路。"
 
-#: admin/prayer-field-content.php:95
+#: admin/prayer-field-content.php:93
 msgid ""
 "Jesus sent out His followers as sheep among wolves. Pray for the church to "
 "model their trust in Jesus through living and acting with humility. Pray for "
@@ -291,7 +291,7 @@ msgstr ""
 "耶稣差遣他的跟随者就像羊进入狼群一样。祈求教会通过谦卑的生活和行为来树立对耶"
 "稣的信心。祈求基督徒领袖成为仆人式领导和温柔的榜样。"
 
-#: admin/prayer-field-content.php:96
+#: admin/prayer-field-content.php:94
 msgid ""
 "Pray for places of business in this area:\n"
 "- For employers to act with justice toward their employees.\n"
@@ -305,7 +305,7 @@ msgstr ""
 "- 求信徒找到工作，为他们及其家人提供生活所需的工资。\n"
 "- 求神要兴起基督徒雇主，效法耶稣的温柔榜样，以荣耀神的方式行事。"
 
-#: admin/prayer-field-content.php:100
+#: admin/prayer-field-content.php:98
 msgid ""
 "We declare your teaching, Jesus, that the meek are blessed, for they will "
 "inherit the earth. You \"oppose the proud but give grace to the "
@@ -317,13 +317,13 @@ msgstr ""
 "人，赐恩给谦卑的人”（雅各书 4:6）。\n"
 "神啊，我们需要你的恩典。愿这一地区的人民都顺服神，亲近你，得以蒙恩。"
 
-#: admin/prayer-field-content.php:106
+#: admin/prayer-field-content.php:104
 msgid ""
 "\"Blessed are those who hunger and thirst for righteousness, for they shall "
 "be satisfied.\" (Matthew 5:6) ESV"
 msgstr "“饥渴慕义的人有福了，因为他们必得饱足。” （马太福音 5:6）"
 
-#: admin/prayer-field-content.php:107
+#: admin/prayer-field-content.php:105
 msgid ""
 "True righteousness is achieved only through the blood of Jesus, with him "
 "being \"made sin for us so that we might become the righteousness of "
@@ -344,7 +344,7 @@ msgstr ""
 "必要的。主啊，宽恕我们。愿穆斯林——以及所有人——看到圣经一再揭示我们不能使自己"
 "称义。愿穆斯林感受到无法拯救自己的重担，转而渴慕通过十字架获得真正的义。"
 
-#: admin/prayer-field-content.php:108
+#: admin/prayer-field-content.php:106
 msgid ""
 "The six children were jumping on beds, dreaming up imaginary houses for "
 "dolls, and talking all at once. But Asmae sat on the floor, her back against "
@@ -366,7 +366,7 @@ msgstr ""
 "读到耶稣的话，她的许多责任和恐惧都被抛在了一边。祈求信徒能回到起初的爱心，只"
 "以耶稣为满足。"
 
-#: admin/prayer-field-content.php:109
+#: admin/prayer-field-content.php:107
 msgid ""
 "Maryam sat at the shop, waiting for someone to weigh out herbs to help with "
 "her stomach issues. Five other women were there waiting, and having a "
@@ -397,7 +397,7 @@ msgstr ""
 "稣里得到满足，她能从其他信徒那里听到耶稣的真实故事，并与其他人分享这些故事。"
 "求神赐予像她一样渴望听道的人；愿他们大胆地祈求，愿神的儿女大胆地传讲福音。"
 
-#: admin/prayer-field-content.php:110
+#: admin/prayer-field-content.php:108
 msgid ""
 "Lord, we ask for you to purify your church, your bride. May the beauty of "
 "grace not lull anyone into thinking that you are tolerant of sin. Sin "
@@ -414,7 +414,7 @@ msgstr ""
 "们知道十字架的大能可以烧掉所有的草、木、禾秸，留下金银，这是建立在耶稣根基上"
 "的基督之义的工程（哥林多前书 3:12-13）。"
 
-#: admin/prayer-field-content.php:111
+#: admin/prayer-field-content.php:109
 msgid ""
 "Pray for places of government in this region. Father, we ask for Daniels and "
 "Josephs in the government. We pray for blameless ones dressed in the "
@@ -432,7 +432,7 @@ msgstr ""
 "的恩赐，或圣灵选择的任何恩赐来启示和荣耀耶稣。愿那些与他们共事、在他们之上或"
 "在他们手下工作的人如饥似渴地渴慕他们所看到的公义，并归向耶稣。"
 
-#: admin/prayer-field-content.php:112
+#: admin/prayer-field-content.php:110
 msgid ""
 "Jesus, you alone can satisfy the deepest longings of our hearts. Today, we "
 "intercede on behalf of the people here, asking for you to stir a deep hunger "
@@ -453,12 +453,12 @@ msgstr ""
 "- 在护士中。\n"
 "给他们机会了解你并因你而感到满意。"
 
-#: admin/prayer-field-content.php:122
+#: admin/prayer-field-content.php:120
 msgid ""
 "\"Blessed are the merciful, for they shall receive mercy.\" (Matthew 5:7) ESV"
 msgstr "“怜恤的人有福了，因为他们必蒙怜恤。” （马太福音 5:7）"
 
-#: admin/prayer-field-content.php:123
+#: admin/prayer-field-content.php:121
 msgid ""
 "One of the 99 names of God that Muslims often reference is “God the "
 "Merciful.” It is the one hope many Muslims hold on to when they acknowledge "
@@ -475,7 +475,7 @@ msgstr ""
 "天，当我们为神所爱的这些人祷告（马太福音 5:7 节）时，请思考基督徒的怜悯意味着"
 "什么——我们可以怜悯，是因为我们可以信靠一位怜悯和公义的神。"
 
-#: admin/prayer-field-content.php:124
+#: admin/prayer-field-content.php:122
 msgid ""
 "One sister shook her head, accusingly reporting that she had seen another "
 "sister from her balcony pretending during Ramadan. \"She can't be a "
@@ -495,7 +495,7 @@ msgstr ""
 "弟姐妹祈求，叫他们即使在恐惧和迫害的时候也能有勇气，也祈求他们能够彼此以怜悯"
 "相待。让他们不仅接受天父的怜悯，也彼此施怜悯。"
 
-#: admin/prayer-field-content.php:125
+#: admin/prayer-field-content.php:123
 msgid ""
 "As a believer looked into the eyes of her friend and apologized for bringing "
 "danger to her, this not-yet-believer extended mercy. \"I know that you are a "
@@ -514,7 +514,7 @@ msgstr ""
 "但没有任何善行可以拯救她。她仍然需要耶稣宝血的洁净。祈求她和像她一样的人（他"
 "们努力向善）会认识到他们需要神的怜悯和公义，这是通过十字架提供的。"
 
-#: admin/prayer-field-content.php:126
+#: admin/prayer-field-content.php:124
 msgid ""
 "\"He has shown you, O mortal, what is good. And what does the Lord require "
 "of you? To act justly and to love mercy and to walk humbly with your God."
@@ -528,7 +528,7 @@ msgstr ""
 "的真理。我们同心合意祷告，求你让你的教会行公义，好怜悯，存谦卑的心，与你同"
 "行。愿教会在社区中以谦卑、怜悯和公义的见证在社区中为人所知。"
 
-#: admin/prayer-field-content.php:127
+#: admin/prayer-field-content.php:125
 msgid ""
 "Pray for places of religion in this area. Today, as Muslims enter mosques "
 "all over the region, pray for those entering to ponder God's mercy. As they "
@@ -543,7 +543,7 @@ msgstr ""
 "愿他们想知道神如何才能真正怜悯他们的手、脸、胳膊或脚所做的罪恶行为。求神感动"
 "基督徒为他们路过的清真寺内的人们祈求。祈求基督徒能够迅速怜悯他们的邻居。"
 
-#: admin/prayer-field-content.php:128
+#: admin/prayer-field-content.php:126
 msgid ""
 "James 3:17 says, \"But the wisdom from above is first pure, then peaceable, "
 "gentle, open to reason, full of mercy and good fruits, impartial and sincere."
@@ -556,12 +556,12 @@ msgstr ""
 "神啊，请用你充满怜悯的智慧充满这个地区。愿这节经文中其他智慧的描述也能充满他"
 "们。"
 
-#: admin/prayer-field-content.php:133
+#: admin/prayer-field-content.php:131
 msgid ""
 "“Blessed are the pure in heart, for they shall see God.\" (Matthew 5:8) ESV"
 msgstr "“清心的人有福了，因为他们必得见神。”（马太福音 5:8）"
 
-#: admin/prayer-field-content.php:134
+#: admin/prayer-field-content.php:132
 msgid ""
 "Traditional Islam does not teach about having a personal relationship with "
 "God. The idea that Jesus communicated in this sermon that those who are pure "
@@ -573,7 +573,7 @@ msgstr ""
 "会见到神，这对穆斯林来说是难以理解的。祈求穆斯林的心渴望见到神，并在听到基督"
 "徒谈论他们通过耶稣与神的关系时感到好奇。"
 
-#: admin/prayer-field-content.php:135
+#: admin/prayer-field-content.php:133
 msgid ""
 "A pure heart means an undivided heart. All the dross has been exposed and "
 "removed. No corners of the soul are dedicated to idols. A Hand of Fatima on "
@@ -592,7 +592,7 @@ msgstr ""
 "一敬畏神的心。请除去所有试图通过这些旧模式保护亲人的想法。在这里，从你的儿女"
 "的灵魂中除去偶像。让他们有清洁的心，越来越看见神。"
 
-#: admin/prayer-field-content.php:136
+#: admin/prayer-field-content.php:134
 msgid ""
 "The only way to a pure heart is through the blood of Jesus. Outward "
 "cleansing is highly valued in Islam, and people often speak of hearts that "
@@ -620,7 +620,7 @@ msgstr ""
 "事奉那永生神吗？”（来9:14）这就是通向清洁之道。这是进入至圣所、得见神的唯一途"
 "径。耶稣啊，感谢你的宝血。愿这些宝贵的灵魂相信你已一次献上，成就了救赎。"
 
-#: admin/prayer-field-content.php:137
+#: admin/prayer-field-content.php:135
 msgid ""
 "\"Truly God is good to Israel,\n"
 "to those who are pure in heart.\n"
@@ -664,7 +664,7 @@ msgstr ""
 "我的肉体和我的心肠衰残，\n"
 "但神是我心里的力量，又是我的福分，直到永远。 ”（诗篇 73:23-26）\n"
 
-#: admin/prayer-field-content.php:155
+#: admin/prayer-field-content.php:153
 msgid ""
 "Pray for places of education in this area. Pray for children in schools to:\n"
 "- Be protected from evil, abuse, inappropriate images, and unwelcome "
@@ -681,7 +681,7 @@ msgstr ""
 "- 有一个安全的学习场所，鼓励他们进行批判性思考。\n"
 "- 避免接触那些对他们幼小的心灵来说太过沉重的主题。"
 
-#: admin/prayer-field-content.php:160
+#: admin/prayer-field-content.php:158
 msgid ""
 "We declare that purity be seen in servants of God:\n"
 "\n"
@@ -705,13 +705,13 @@ msgstr ""
 "神啊，求你在这个地区塑造门徒，使他们塑造更多的门徒。愿他们的生命彰显纯洁、知"
 "识、忍耐、恩慈、圣灵的同在、无伪的爱心、真实的道理和你的大能。"
 
-#: admin/prayer-field-content.php:168
+#: admin/prayer-field-content.php:166
 msgid ""
 "“Blessed are the peacemakers, for they shall be called sons of God."
 "\" (Matthew 5:9) ESV"
 msgstr "“使人和睦的人有福了！因为他们必称为神的儿子。”（马太福音 5:9）"
 
-#: admin/prayer-field-content.php:169
+#: admin/prayer-field-content.php:167
 msgid ""
 "The most common greeting across the Muslim world is Salam (Peace). Hearts "
 "long for peace and even fight for peace, but peace is only found through the "
@@ -729,7 +729,7 @@ msgstr ""
 "天父。祈求神的儿女能够去帮助那些焦虑和恐惧的人，并通过传播福音成为使人和睦的"
 "人。神是伟大的和好者。"
 
-#: admin/prayer-field-content.php:170
+#: admin/prayer-field-content.php:168
 msgid ""
 "It was just a Christian women’s craft party, but the tension was palpable. "
 "It always was when she was there. “I’ve got to do better than this,” Sonia "
@@ -760,7 +760,7 @@ msgstr ""
 "致的妆容失色。她对米里亚姆微笑，然后他们坐下来一起共用一把热胶枪，将丝带粘在"
 "烛台上……世界的真光和和平之君正在工作。“嗯，你怎么样，我的姐妹？”"
 
-#: admin/prayer-field-content.php:171
+#: admin/prayer-field-content.php:169
 msgid ""
 "“You don’t know the REAL Hesna,” Ali spat his sister’s name out of his "
 "mouth.  His face clouded over as he recalled their terrible fight after "
@@ -782,7 +782,7 @@ msgstr ""
 "话。他们进出同一个花园大门，听到数十次为侄女和侄子们唱的“艾德米拉敦赛义"
 "德”（生日快乐），但完全拒绝坐在一起进行诚实的交谈，以求和解。"
 
-#: admin/prayer-field-content.php:172
+#: admin/prayer-field-content.php:170
 msgid ""
 "Pray that the \"God of peace would soon crush Satan\" (Romans 16:20) and "
 "bring eternal peace. Satan is the accuser, the liar, the one who whispers "
@@ -796,7 +796,7 @@ msgstr ""
 "徒能够“心平稳安静，好像断过奶的孩子在他母亲的怀中”。（诗篇 131:2）祈求他们对"
 "主抱有希望，生活在和平中，并成为带来和平的人。"
 
-#: admin/prayer-field-content.php:173
+#: admin/prayer-field-content.php:171
 msgid ""
 "Pray for places of community in this area. Pray for sports clubs to:\n"
 "- be places where Christians can build relationships with Muslims and model "
@@ -811,7 +811,7 @@ msgstr ""
 "- 成为信徒有意加入的地方，为穆斯林提供“尝到和看到”神国的机会。\n"
 "- 成为基督徒以吸引人的方式活出基督的平安的地方。"
 
-#: admin/prayer-field-content.php:177
+#: admin/prayer-field-content.php:175
 msgid ""
 "When movements to Christ happen among a people group, everything gets "
 "multiplied: churches, disciples, obedience, leaders, intercessors, disciple-"
@@ -827,13 +827,13 @@ msgstr ""
 "我们联合起来为了这个宝贵群体宣告：“愿恩惠、平安因你们认识神和我们主耶稣多多地"
 "加给你们！” （彼得后书 1:2）。"
 
-#: admin/prayer-field-content.php:183
+#: admin/prayer-field-content.php:181
 msgid ""
 "“Blessed are those who are persecuted for righteousness' sake, for theirs is "
 "the kingdom of heaven.\" (Matthew 5:10) ESV"
 msgstr "“为义受逼迫的人有福了！因为天国是他们的。”（马太福音 5:10）"
 
-#: admin/prayer-field-content.php:184
+#: admin/prayer-field-content.php:182
 msgid ""
 "Throughout most of the Muslim world, Christians are persecuted for their "
 "faith. This persecution causes many Christians from Muslim backgrounds or "
@@ -848,7 +848,7 @@ msgstr ""
 "承认对耶稣的教导表示钦佩，但对迫害的恐惧阻止了他们继续追随基督。让耶稣的应"
 "许“受逼迫的人有福了”来指导你今天的祷告时间。"
 
-#: admin/prayer-field-content.php:185
+#: admin/prayer-field-content.php:183
 msgid ""
 "Pray that God's children who are right now in prison because of their faith "
 "in Jesus would remember and believe the truth of Jesus' words. \"Blessed are "
@@ -866,7 +866,7 @@ msgstr ""
 "善的、大能的和智慧的，他们有福了，因为耶稣如此宣告。祈求每个人都能越来越了解"
 "神同在的甜蜜，以及“与他同受苦难”的意义。"
 
-#: admin/prayer-field-content.php:186
+#: admin/prayer-field-content.php:184
 msgid ""
 "When the oppressors strike the faces of believers, may their hearts be "
 "stricken by the grace and light of Jesus in the face of his children. May "
@@ -881,7 +881,7 @@ msgstr ""
 "徒的指控并看到他们信仰的坚定不移时，愿他们对耶稣所赐予的力量和温柔的信心而心"
 "生敬畏。愿他们与腓立比的狱卒一同呼喊：“我当怎样行才可以得救呢？”"
 
-#: admin/prayer-field-content.php:187
+#: admin/prayer-field-content.php:185
 msgid ""
 "One of the most difficult things for the persecuted church all over the "
 "world is gathering faithfully. Believers who have not yet told their "
@@ -899,7 +899,7 @@ msgstr ""
 "呢？祈求神赐予信徒智慧和勇气，让他们能够体面而诚实地聚集。愿教会愿意顺服耶稣"
 "并聚集，即使他们可能被出卖或监禁。耶稣是配得一切的。"
 
-#: admin/prayer-field-content.php:188
+#: admin/prayer-field-content.php:186
 msgid ""
 "Pray for places of business in this region:\n"
 " - Pray for employers who would esteem their Christian employees because of "
@@ -914,7 +914,7 @@ msgstr ""
 "- 为因信仰基督而被解雇的信徒祷告，以找到其他能够满足他们需求的工作。\n"
 "- 为迫害信徒的营业场所被定罪并悔改祷告。"
 
-#: admin/prayer-field-content.php:192
+#: admin/prayer-field-content.php:190
 msgid ""
 "Persecution can accelerate movements when it results in greater boldness "
 "among believers: \"And there arose on that day a great persecution against "
@@ -932,7 +932,7 @@ msgstr ""
 "音 13:21）。今天，我们祈求这个地区的新门徒和简单的教会在迫害面前站立得稳，并"
 "祈求神保护他们免受会破坏新福音工作的迫害。"
 
-#: admin/prayer-field-content.php:196
+#: admin/prayer-field-content.php:194
 msgid ""
 "“Blessed are you when others revile you and persecute you and utter all "
 "kinds of evil against you falsely on my account. Rejoice and be glad, for "
@@ -943,7 +943,7 @@ msgstr ""
 "乐，因为你们在天上的赏赐是大的。在你们以前的先知，人也是这样逼迫他们。”（太"
 "5:11-12）"
 
-#: admin/prayer-field-content.php:197
+#: admin/prayer-field-content.php:195
 msgid ""
 "Throughout the Muslim world, Christians are falsely accused of worshiping "
 "three gods or of teaching that God and the Virgin Mary had a sexual "
@@ -961,7 +961,7 @@ msgstr ""
 "家人、雇主、警察和政府的逼迫。祈求他们能够在这一切之中勇敢地喜乐并感到高兴。"
 "祈求基督徒对迫害的反应能够软化迫害者的心。"
 
-#: admin/prayer-field-content.php:198
+#: admin/prayer-field-content.php:196
 msgid ""
 "We pray today for the believers who are afraid to declare that they stand "
 "with Jesus. For those who have been falsely accused of conspiring against "
@@ -978,7 +978,7 @@ msgstr ""
 "他们之前走过了苦难的道路，之前的先知也曾受过苦难，背起苦难的十字架跟随耶稣是"
 "一种荣耀和祝福。"
 
-#: admin/prayer-field-content.php:199
+#: admin/prayer-field-content.php:197
 msgid ""
 "Father, we pray for those who are persecuting your children. For those who "
 "have uttered evil against them falsely. We pray that they will see the good "
@@ -996,7 +996,7 @@ msgstr ""
 "心。愿你的福音在那些给囚犯送食物的人、那些在法庭上作证的人以及那些在家中威胁"
 "你的儿女的人中间得到宣扬。耶稣，我们为他们祈求生命。"
 
-#: admin/prayer-field-content.php:200
+#: admin/prayer-field-content.php:198
 msgid ""
 "\"To the present hour we hunger and thirst, we are poorly dressed and "
 "buffeted and homeless, and we labor, working with our own hands. When "
@@ -1021,7 +1021,7 @@ msgstr ""
 "- 苦难面前的忍耐\n"
 "- 安慰与鼓励"
 
-#: admin/prayer-field-content.php:205
+#: admin/prayer-field-content.php:203
 msgid ""
 "Pray for places of government in this region. Pray for:\n"
 "- compassionate judges to preside over cases against Christians in which "
@@ -1037,7 +1037,7 @@ msgstr ""
 "-制定新法律保护人权的立法者\n"
 "- 拒绝贿赂并公正对待所有公民（甚至基督徒）的政府官员"
 
-#: admin/prayer-field-content.php:209
+#: admin/prayer-field-content.php:207
 msgid ""
 "\"When he was reviled, he did not revile in return; when he suffered, he did "
 "not threaten, but continued entrusting himself to him who judges justly. He "
@@ -1058,7 +1058,7 @@ msgstr ""
 "教会、他们建立的新领袖以及他们培养的新门徒，他们将继续对其他教会做同样的事"
 "情。"
 
-#: admin/prayer-field-content.php:214
+#: admin/prayer-field-content.php:212
 msgid ""
 "“You are the salt of the earth, but if salt has lost its taste, how shall "
 "its saltiness be restored? It is no longer good for anything except to be "
@@ -1067,7 +1067,7 @@ msgstr ""
 "“你们是世上的盐。盐若失了味，怎能叫它再咸呢？以后无用，不过丢在外面，被人践踏"
 "了。”（马太福音 5:13）"
 
-#: admin/prayer-field-content.php:215
+#: admin/prayer-field-content.php:213
 msgid ""
 "Most people who lead Muslims to put their faith in Christ talk about how "
 "many different conversations, supernatural experiences, and divine "
@@ -1082,7 +1082,7 @@ msgstr ""
 "个地区的穆斯林能够在日常生活、社交媒体、福音电视节目等中遇到成为世上之盐的基"
 "督徒。"
 
-#: admin/prayer-field-content.php:216
+#: admin/prayer-field-content.php:214
 msgid ""
 "Oh Jesus, let your children retain their saltiness.  We pray that believers "
 "will abide in you, lingering long in your presence, listening to you and "
@@ -1096,7 +1096,7 @@ msgstr ""
 "治愈和洁净被罪恶感染的灵魂。愿你每一位孩子的出现都能改变他们的社区。让他们传"
 "讲基督和他被钉十字架，即使他们这样做时感到恐惧和战栗。"
 
-#: admin/prayer-field-content.php:217
+#: admin/prayer-field-content.php:215
 msgid ""
 "Lord, you see each person wounded by sin in this area.  You know each one "
 "that is living a tasteless life that has no meaning because they do not know "
@@ -1117,7 +1117,7 @@ msgstr ""
 "拒绝洁净。继续呼唤他们到你身边，耶稣。让他们承认自己的罪并被你的血洗净。让他"
 "们尝尝，看看你的美善。"
 
-#: admin/prayer-field-content.php:218
+#: admin/prayer-field-content.php:216
 msgid ""
 "Jesus' parallel teaching on this passage in Mark 9:50 gives an interesting "
 "twist, \"Salt is good, but if the salt has lost its saltiness, how will you "
@@ -1135,7 +1135,7 @@ msgstr ""
 "是“有盐味的”，展现出以宽恕、和解与和平为标志的关系。我们为教会能够建立教会并"
 "继续彼此和睦相处祷告。"
 
-#: admin/prayer-field-content.php:219
+#: admin/prayer-field-content.php:217
 msgid ""
 "Pray for places of religion among these people. Pray for Quranic classes "
 "where children go to memorize the Quran and learn the basics of Islam. Pray "
@@ -1154,7 +1154,7 @@ msgstr ""
 "-所有参加这些课程并背诵古兰经的人都有机会遇到耶稣的真正追随者，他们是“世上的"
 "盐”"
 
-#: admin/prayer-field-content.php:223
+#: admin/prayer-field-content.php:221
 msgid ""
 "God we declare Colossians 4:6 for believers among this people. \"Let your "
 "speech always be gracious, seasoned with salt, so that you know how you "
@@ -1171,7 +1171,7 @@ msgstr ""
 "耶稣，请装备信徒谈论他们的信仰，让他们能够找到和平之子，并提出可以用盐调和的"
 "问题。让他们清楚地要求和平人士邀请其他人参与未来关于神话语的讨论。"
 
-#: admin/prayer-field-content.php:229
+#: admin/prayer-field-content.php:227
 msgid ""
 "“You are the light of the world. A city set on a hill cannot be hidden. Nor "
 "do people light a lamp and put it under a basket, but on a stand, and it "
@@ -1183,7 +1183,7 @@ msgstr ""
 "上，就照亮一家的人。你们的光也当这样照在人前，叫他们看见你们的好行为，便将荣"
 "耀归给你们在天上的父。”（太5:14-16）"
 
-#: admin/prayer-field-content.php:230
+#: admin/prayer-field-content.php:228
 msgid ""
 "Many Muslims equate western culture with Christianity and assume all "
 "westerners are Christians. As a result they see evil deeds and immoral "
@@ -1198,7 +1198,7 @@ msgstr ""
 "求穆斯林能够看到基督真正追随者所做的善行。祈求基督徒能实践雅各的话：“你将你没"
 "有行为的信心指给我看，我便借着我的行为，将我的信心指给你看。”（雅各书 2:18）"
 
-#: admin/prayer-field-content.php:231
+#: admin/prayer-field-content.php:229
 msgid ""
 "A young woman was working with children with disabilities. As she and a "
 "young boy drew a picture of a large hand reaching down from bright light "
@@ -1215,7 +1215,7 @@ msgstr ""
 "在行动或言语中撒谎，当他们的心降服于耶稣为主时，不要假装追随伊斯兰教。让别人"
 "看到他们的顺服，渴望进入光明的国度。"
 
-#: admin/prayer-field-content.php:232
+#: admin/prayer-field-content.php:230
 msgid ""
 "So many are looking “to the earth, but behold, distress and darkness, the "
 "gloom of anguish.”(Isaiah 8:22) ESV Nevertheless, the time of darkness and "
@@ -1235,7 +1235,7 @@ msgstr ""
 "稣的光。让他们看到他们渴望但尚未感受到的希望。光揭示真理并指明正确的道路。愿"
 "这里的人们看到你的儿女们的好行为并转向神的光。"
 
-#: admin/prayer-field-content.php:234
+#: admin/prayer-field-content.php:232
 msgid ""
 "Jesus said, \"I am the light of the world. Whoever follows me will not walk "
 "in darkness, but will have the light of life.\" (John 8:12) ESV We pray for "
@@ -1247,7 +1247,7 @@ msgstr ""
 "音 8:12）我们祈求这片土地上的教会能够自信地与世界真光耶稣同行。祈求他赐予他的"
 "教会力量，使他们在最黑暗的地方彰显生命的光。"
 
-#: admin/prayer-field-content.php:235
+#: admin/prayer-field-content.php:233
 msgid ""
 "Pray for places of education in this area. Pray for universities to be "
 "places where:\n"
@@ -1263,7 +1263,7 @@ msgstr ""
 "- 朋友们一起开始探索圣经及其教导的旅程\n"
 "- 基督徒学生将在宿舍、班级和俱乐部中成为世界之光"
 
-#: admin/prayer-field-content.php:239
+#: admin/prayer-field-content.php:237
 msgid ""
 "Father, may Christians live out the reality that they are the light of the "
 "world. We pray for their light to shine before others so that Muslims they "
@@ -1280,7 +1280,7 @@ msgstr ""
 "徒对穆斯林询问的问题做出恰当的回应。让他们大胆地邀请好奇的穆斯林与朋友或家人"
 "一起阅读圣经，并开始发现世界真正的光。"
 
-#: admin/prayer-field-content.php:243
+#: admin/prayer-field-content.php:241
 msgid ""
 "“Do not think that I have come to abolish the Law or the Prophets; I have "
 "not come to abolish them but to fulfill them. For truly, I say to you, until "
@@ -1298,7 +1298,7 @@ msgstr ""
 "训人遵行，他在天国要称为大的。我告诉你们：你们的义若不胜于文士和法利赛人的"
 "义，断不能进天国。” （马太福音 5:17-20）"
 
-#: admin/prayer-field-content.php:244
+#: admin/prayer-field-content.php:242
 msgid ""
 "The Islamic doctrine of abrogation means that some verses in the Quran can "
 "be \"canceled out\" by later verses. This is contrary to the unchanging "
@@ -1319,7 +1319,7 @@ msgstr ""
 "锚，又坚固又牢靠，且通入幔内……” （希伯来书 6:17-19）今天，我们祈求这里的人们"
 "能够看到神不变的本质，他不可能说谎，并让他成为他们灵魂的锚。"
 
-#: admin/prayer-field-content.php:245
+#: admin/prayer-field-content.php:243
 msgid ""
 "Pray that as new believers increase in knowledge and understanding of the "
 "Word of God, they will see both the freedom from empty rituals and the "
@@ -1339,7 +1339,7 @@ msgstr ""
 "是为我们进入至圣所而被牺牲的羔羊。真正的公义源于神的圣洁之爱，他首先爱我们，"
 "作为回报，我们既爱神又爱人。"
 
-#: admin/prayer-field-content.php:246
+#: admin/prayer-field-content.php:244
 msgid ""
 "Father, let the lost recognize that the Scriptures are true. We declare that "
 "the Word of the Lord endures forever and we pray against the schemes of the "
@@ -1366,7 +1366,7 @@ msgstr ""
 "了圣经被改变的谎言。  神会说话，他不会说谎。他向我们展示自己，因为他愿意我们"
 "越来越了解他。"
 
-#: admin/prayer-field-content.php:247
+#: admin/prayer-field-content.php:245
 msgid ""
 "Pray for the church, meeting openly or underground, no matter the size, to "
 "be filled with sinners who confess that only through the righteousness of "
@@ -1381,7 +1381,7 @@ msgstr ""
 "都会以谦卑的宣言与耶稣的公义合一为标志。当他们悔改一切以人为中心的公义时，愿"
 "他们吸引尚未认识基督的朋友和家人想要了解更多。"
 
-#: admin/prayer-field-content.php:248
+#: admin/prayer-field-content.php:246
 msgid ""
 "Pray for places of community among this people. Pray for every neighborhood "
 "to:\n"
@@ -1397,7 +1397,7 @@ msgstr ""
 "-其中至少有一个基督徒家庭能够模范律法和先知耶稣的到来实现\n"
 "-其中有ekklesia（圣经教会），这将向每个人指出我们只能通过基督才能拥有的公义。"
 
-#: admin/prayer-field-content.php:252
+#: admin/prayer-field-content.php:250
 msgid ""
 "Lord, we ask for Muslims in this place to see examples of true followers of "
 "Christ who:\n"
@@ -1418,7 +1418,7 @@ msgstr ""
 "激发这里的穆斯林渴望出死入生，激发和平之子聚集朋友和家人，从圣经中了解神从创"
 "造到基督的救赎计划。"
 
-#: admin/prayer-field-content.php:260
+#: admin/prayer-field-content.php:258
 msgid ""
 "“You have heard that it was said to those of old, ‘You shall not murder; and "
 "whoever murders will be liable to judgment.’ But I say to you that everyone "
@@ -1440,7 +1440,7 @@ msgstr ""
 "紧与他和息，恐怕他把你送给审判官，审判官交付衙役，你就下在监里了。我实在告诉"
 "你：若有一文钱没有还清，你断不能从那里出来。” （马太福音 5:21-26）"
 
-#: admin/prayer-field-content.php:261
+#: admin/prayer-field-content.php:259
 msgid ""
 "Hunger, thirst, and more often nicotine withdrawals during the Ramadan fast "
 "can make people argumentative and hostile in the afternoon hours leading up "
@@ -1461,7 +1461,7 @@ msgstr ""
 "每个人都相信，即使侮辱他人，也会使他们在圣洁的神面前有罪。为每个经历过这种信"
 "念的人祈求，让他们有机会听到福音，让他们通过耶稣的死、埋葬和复活而得到赦免。"
 
-#: admin/prayer-field-content.php:262
+#: admin/prayer-field-content.php:260
 msgid ""
 "\"How dare she take her 'liberty in Christ' to mean she can live like an "
 "immoral woman -- going out at night with men, drinking...?\" Ahmed fumed. "
@@ -1479,7 +1479,7 @@ msgstr ""
 "求愤怒管理和冲突解决的新模式。为这一地区的基督内弟兄姐妹祷告，若有弟兄对自己"
 "心存怨恨，奉耶稣的名为他们祷告，请求宽恕，给予宽恕，并在今天彼此和解。"
 
-#: admin/prayer-field-content.php:263
+#: admin/prayer-field-content.php:261
 msgid ""
 "Lord, we pray for those who are quick to anger and quick to ridicule. Let "
 "them see and understand that they cannot control others, nor can they be "
@@ -1495,7 +1495,7 @@ msgstr ""
 "些不知道如何宽恕或与神或他人和解的人祈求。神啊，求你让他们遇见拥有和好的信息"
 "的信徒。让他们与“基督的使者”相遇，“替基督求你们与神和好”。（哥林多后书 5:20）"
 
-#: admin/prayer-field-content.php:264
+#: admin/prayer-field-content.php:262
 msgid ""
 "Pride and comparison cause deep hurt in the hearts of God's children who are "
 "working in the fields and longing for harvest. When hurt leads to anger and "
@@ -1512,7 +1512,7 @@ msgstr ""
 "信[父]差了[耶稣]来。”（约翰福音 17:20-21 ）愿我们本着谦卑、悔改和合一的心清楚"
 "地宣讲福音。"
 
-#: admin/prayer-field-content.php:265
+#: admin/prayer-field-content.php:263
 msgid ""
 "Pray for places of business in this place.\n"
 "\n"
@@ -1534,7 +1534,7 @@ msgstr ""
 "祈求同事渴望在工作关系中找到更好的发展方式，而不是自私的报复和诽谤行为。为他"
 "们通过基督经历与神和解而祷告，使他们能够追求与他人和解。"
 
-#: admin/prayer-field-content.php:270
+#: admin/prayer-field-content.php:268
 msgid ""
 "Today, may the people of this land experience the new life Jesus came to "
 "give us. May they walk in his transforming power to:\n"
@@ -1554,7 +1554,7 @@ msgstr ""
 "- 以恩慈相待，存怜悯的心，彼此饶恕，正如神在基督里宽恕了我们一样（以弗所书 "
 "4:26-32）"
 
-#: admin/prayer-field-content.php:278
+#: admin/prayer-field-content.php:276
 msgid ""
 "“You have heard that it was said, ‘You shall not commit adultery.’ But I say "
 "to you that everyone who looks at a woman with lustful intent has already "
@@ -1570,7 +1570,7 @@ msgstr ""
 "不叫全身丢在地狱里。若是右手叫你跌倒，就砍下来丢掉！宁可失去百体中的一体，不"
 "叫全身下入地狱。”（马太福音 5:27-30）"
 
-#: admin/prayer-field-content.php:279
+#: admin/prayer-field-content.php:277
 msgid ""
 "Mohammed said that it was permitted to have four wives if all were treated "
 "equally. He himself had at least 11 wives. Many were widows or prisoners of "
@@ -1587,7 +1587,7 @@ msgstr ""
 "化的。耶稣圣洁和信实的标准揭示了耶稣对教会的牺牲之爱的美好。  祈求婚姻之美和"
 "忠诚的真理在这片土地上得以彰显。"
 
-#: admin/prayer-field-content.php:280
+#: admin/prayer-field-content.php:278
 msgid ""
 "\"Pay attention to this. See what Scripture says,\" one woman said to her "
 "husband. We were reading this passage together with a new believing couple "
@@ -1602,7 +1602,7 @@ msgstr ""
 "改并被圣灵更新祷告。为那些不仅说真话而且饶恕人的配偶祷告。求神使婚姻坚固，成"
 "为一幅充满喜乐和忠诚的美丽图画。"
 
-#: admin/prayer-field-content.php:281
+#: admin/prayer-field-content.php:279
 msgid ""
 "\"My husband took the cologne I gave him, went to the neighboring country, "
 "and used it to woo and marry another woman.\" Sumayah was crushed and asked "
@@ -1620,7 +1620,7 @@ msgstr ""
 "的、有价值的，是按照神的形象创造的。祈求男人愿意倾听温和而真实的劝诫。愿神通"
 "过彰显基督牺牲的美丽，给婚姻带来盼望和医治。"
 
-#: admin/prayer-field-content.php:282
+#: admin/prayer-field-content.php:280
 msgid ""
 "We pray for the church of this place to live out 1 Thessalonians 4:3-7. May "
 "the church: \n"
@@ -1637,7 +1637,7 @@ msgstr ""
 "情欲之中\n"
 "-知道神呼召他们不是为了不洁，而是为了圣洁"
 
-#: admin/prayer-field-content.php:287
+#: admin/prayer-field-content.php:285
 msgid ""
 "Pray for places of religion.\n"
 "\n"
@@ -1655,7 +1655,7 @@ msgstr ""
 "为穆斯林祈求，当他们进入清真寺时，他们会因为自己的罪恶思想而知罪，即使这并没"
 "有导致罪恶的行为，并希望为自己的羞耻找到解决办法。"
 
-#: admin/prayer-field-content.php:291
+#: admin/prayer-field-content.php:289
 msgid ""
 "Jesus, you want to give us better than what the world offers. We pray for "
 "you to soften the hearts of Muslim men and women throughout this land to "
@@ -1676,7 +1676,7 @@ msgstr ""
 "事，就像肉体的情欲、眼目的情欲并今生的骄傲，都不是从父来的，乃是从世界来的。"
 "这世界和其上的情欲都要过去，唯独遵行神旨意的，是永远常存。”"
 
-#: admin/prayer-field-content.php:297
+#: admin/prayer-field-content.php:295
 msgid ""
 "“It was also said, ‘Whoever divorces his wife, let him give her a "
 "certificate of divorce.’ But I say to you that everyone who divorces his "
@@ -1687,7 +1687,7 @@ msgstr ""
 "“又有话说：‘人若休妻，就当给她休书。’ 32 只是我告诉你们，凡休妻的，若不是为淫"
 "乱的缘故，就是叫她做淫妇了；人若娶这被休的妇人，也是犯奸淫了。”（太5:31-32）"
 
-#: admin/prayer-field-content.php:298
+#: admin/prayer-field-content.php:296
 msgid ""
 "Divorce, though taboo, is also common in the Muslim world. Women especially "
 "face significant hardship and social shame following a divorce. As we pray "
@@ -1701,7 +1701,7 @@ msgstr ""
 "随意离婚的做法。祈求这个地区的人们能够认识到，通过对婚姻终身的爱和信任的承诺"
 "可以带来安全、保护和充实。"
 
-#: admin/prayer-field-content.php:299
+#: admin/prayer-field-content.php:297
 msgid ""
 "\"Did you hear about Samia and Mahmoud?!”  This sister’s eyes widen with "
 "true sorrow at the recent news of a believing couple’s separation, which "
@@ -1723,7 +1723,7 @@ msgstr ""
 "被“新造”的亲爱的弟兄姐妹也产生了深刻的影响。婚姻冲突和离婚率很高，当地教会经"
 "常与其他伊斯兰家庭成员和邻居一起受苦。"
 
-#: admin/prayer-field-content.php:300
+#: admin/prayer-field-content.php:298
 msgid ""
 "“I can’t UN-hear what she said,” Thawraya half spat, and half wept out the "
 "words. How could she do this? “We treated her like a daughter; we gave her "
@@ -1754,7 +1754,7 @@ msgstr ""
 "呢？”她的母亲站在门口嘲笑她伤痕累累的身躯，回想起她自己在 13 岁时就已经成为了"
 "新娘……"
 
-#: admin/prayer-field-content.php:302
+#: admin/prayer-field-content.php:300
 msgid ""
 "Pray for both the current and future church in this region to be a place "
 "where marriage between believers is honored, protected, and supported. Pray "
@@ -1772,7 +1772,7 @@ msgstr ""
 "遵循圣经关于婚姻的教导，并愿这些教导取代文化。祈求教会中的婚姻能够成为正在观"
 "看的非信徒世界的基督与教会关系的写照。"
 
-#: admin/prayer-field-content.php:303
+#: admin/prayer-field-content.php:301
 msgid ""
 "Pray for places of government.\n"
 "\n"
@@ -1791,7 +1791,7 @@ msgstr ""
 "督。\n"
 "为立法者祷告，愿他们重视婚姻，尽可能维护婚姻，并保护受害者的权利。"
 
-#: admin/prayer-field-content.php:308
+#: admin/prayer-field-content.php:306
 msgid ""
 "\"But from the beginning of creation, 'God made them male and female.' "
 "Therefore, a man shall leave his father and mother and hold fast to his "
@@ -1812,7 +1812,7 @@ msgstr ""
 "稣，当你吸引穆斯林家庭归向你时，愿你教会的榜样和你圣言的教训显明好消息的能力"
 "和真理。愿这促使家庭一起转向基督，并邀请其他家庭也跟随你。"
 
-#: admin/prayer-field-content.php:312
+#: admin/prayer-field-content.php:310
 msgid ""
 "“Again you have heard that it was said to those of old, ‘You shall not swear "
 "falsely, but shall perform to the Lord what you have sworn.’ But I say to "
@@ -1828,7 +1828,7 @@ msgstr ""
 "你的头起誓，因为你不能使一根头发变黑变白了。你们的话，是就说是，不是就说不"
 "是；若再多说，就是出于那恶者。”（马太福音 5:33-37）"
 
-#: admin/prayer-field-content.php:313
+#: admin/prayer-field-content.php:311
 msgid ""
 "Islam teaches that deception under certain circumstances is acceptable, and "
 "the effects of this teaching breeds mistrust—of God and of others. But the "
@@ -1845,7 +1845,7 @@ msgstr ""
 "求这个地区的人成为追求真理的人，不再需要发誓才能让人们相信他们。愿他们能够简"
 "单地让他们 “是”就说“是”，“不是”就说“不是”。"
 
-#: admin/prayer-field-content.php:314
+#: admin/prayer-field-content.php:312
 msgid ""
 "\"Lies are very useful sometimes. They smooth things over and make them "
 "easier, \" one new brother declared. Another said, \"I forgot to attend my "
@@ -1865,7 +1865,7 @@ msgstr ""
 "到谎言被用来暂时掩盖问题的人会学会憎恨欺骗，并找到因说真话和生活在真理中而获"
 "得的自由。愿说谎的老习惯被压制，愿每个人都能说出来自圣灵的诚实言语。"
 
-#: admin/prayer-field-content.php:315
+#: admin/prayer-field-content.php:313
 msgid ""
 "While sharing food at a bus stop, one man told another to pick out anything "
 "he wanted to eat and assured him that he would cover the bill for them both. "
@@ -1884,7 +1884,7 @@ msgstr ""
 "必要的和空洞的。我们无法控制未来。主啊，我们祈求这些人能被耶稣改变，说实话，"
 "并学会信任。"
 
-#: admin/prayer-field-content.php:316
+#: admin/prayer-field-content.php:314
 msgid ""
 "In the book of Acts, we see the early church confronted with a serious issue "
 "of dishonesty in the story of Ananias and Sapphira (Acts 5). God dealt "
@@ -1906,7 +1906,7 @@ msgstr ""
 "有真理的仁义和圣洁。 不可给魔鬼留地步。所以你们要弃绝谎言，各人与邻舍说实话，"
 "因为我们是互相为肢体。”"
 
-#: admin/prayer-field-content.php:317
+#: admin/prayer-field-content.php:315
 msgid ""
 "Pray for places of education.\n"
 "\n"
@@ -1927,7 +1927,7 @@ msgstr ""
 "随着越来越多的人经历并开始相信福音，祈求在整个教育系统中出现言出必行、信守诺"
 "言的新模式。"
 
-#: admin/prayer-field-content.php:322
+#: admin/prayer-field-content.php:320
 msgid ""
 "Jesus said to the woman at the well, \"But the hour is coming, and is now "
 "here, when the true worshipers will worship the Father in spirit and truth, "
@@ -1941,7 +1941,7 @@ msgstr ""
 "到的关于自己、神和弥赛亚的真相。祈求这个地区的男女能够变得相同，并被耶稣的真"
 "理所改变。"
 
-#: admin/prayer-field-content.php:326
+#: admin/prayer-field-content.php:324
 msgid ""
 "“You have heard that it was said, ‘An eye for an eye and a tooth for a "
 "tooth.’ But I say to you, Do not resist the one who is evil. But if anyone "
@@ -1956,7 +1956,7 @@ msgstr ""
 "去；有人强逼你走一里路，你就同他走二里。有求你的，就给他；有向你借贷的，不可"
 "推辞。”（马太福音 5:38-42）"
 
-#: admin/prayer-field-content.php:327
+#: admin/prayer-field-content.php:325
 msgid ""
 "It is surprising when Christians from a Muslim background share their "
 "testimony, how often Matthew 5:38-42 is quoted. Jesus' teaching to \"turn "
@@ -1974,7 +1974,7 @@ msgstr ""
 "告，愿他们深刻反思这些话，并找到勇气寻求对说这些话的那一位有更深入的了解。为"
 "这里更多的人有机会听到这个教导并知道它来自《引支勒》（新约）而祷告。"
 
-#: admin/prayer-field-content.php:328
+#: admin/prayer-field-content.php:326
 msgid ""
 "\"He's not too big; you could have taken him,\" an older woman said. A "
 "brother had been beaten and stabbed the evening before by someone who had "
@@ -1992,7 +1992,7 @@ msgstr ""
 "斗。”拒绝以恶报恶，在人看来似乎是不合理的，但只有爱和饶恕才能阻止暴力和仇恨的"
 "蔓延。祈求这群人中的信徒有勇气从根本上爱那些伤害他们的人。"
 
-#: admin/prayer-field-content.php:329
+#: admin/prayer-field-content.php:327
 msgid ""
 "Sometimes, mercy seems like injustice. If the one who is begging or "
 "borrowing seems lazy and \"needs to be taught a lesson,\" should people give "
@@ -2016,7 +2016,7 @@ msgstr ""
 "医治。愿这片土地上的人民能够信任这位君王，放弃基于他们只依靠自己照顾的谎言的"
 "恐惧。"
 
-#: admin/prayer-field-content.php:330
+#: admin/prayer-field-content.php:328
 msgid ""
 "Paul's words to the church in Rome can only be realized by the power of "
 "God's Spirit in His Church (Romans 12:17-19). We pray for the church in this "
@@ -2033,7 +2033,7 @@ msgstr ""
 "- 若是能行，总要尽力与众人和睦相处\n"
 "- 不要自己伸冤，宁可让步，听凭主怒"
 
-#: admin/prayer-field-content.php:335
+#: admin/prayer-field-content.php:333
 msgid ""
 "Places of Community\n"
 "\n"
@@ -2055,7 +2055,7 @@ msgstr ""
 " 祈求对耶稣话语的信心能够更深，而不是担心被这些人的邻里和社区中心的所有基督追"
 "随者利用。"
 
-#: admin/prayer-field-content.php:340
+#: admin/prayer-field-content.php:338
 msgid ""
 "Jesus, you perfectly fulfilled the prophecies of Isaiah,\n"
 "\"I gave my back to those who strike,\n"
@@ -2093,7 +2093,7 @@ msgstr ""
 "愿你圣灵的大能吸引各地的人们，邀请你成为他们的希望和荣耀。愿结果是使我们这一"
 "代的门徒成为门徒。阿们。"
 
-#: admin/prayer-field-content.php:356
+#: admin/prayer-field-content.php:354
 msgid ""
 "“You have heard that it was said, ‘You shall love your neighbor and hate "
 "your enemy.’ But I say to you, Love your enemies and pray for those who "
@@ -2111,7 +2111,7 @@ msgstr ""
 "也是这样行吗？你们若单请你弟兄的安，比人有什么长处呢？就是外邦人不也是这样行"
 "吗？所以你们要完全，像你们的天父完全一样。”（马太福音5:43-48）"
 
-#: admin/prayer-field-content.php:357
+#: admin/prayer-field-content.php:355
 msgid ""
 "The whole Muslim world continues to watch the war that started between "
 "Israel and Gaza on October 7, 2023. Emotion runs high. Hatred for the enemy "
@@ -2125,7 +2125,7 @@ msgstr ""
 "导，以及他通过圣灵带来的转变才能将仇恨转化为爱。今天，当你为这个民族祈求时，"
 "祈求神让生活在那里的基督徒活出这一教导，并祈求穆斯林能够因此而有罪。"
 
-#: admin/prayer-field-content.php:358
+#: admin/prayer-field-content.php:356
 msgid ""
 "After suffering in prison, dignity and bones were both broken because of "
 "declaring allegiance to Jesus, and it was hard for Simon to forgive. \"They "
@@ -2143,7 +2143,7 @@ msgstr ""
 "听到这些话。但是耶稣，我们祈求超自然的爱，甚至在悔改之前就能够宽恕。我们知"
 "道，这并不能忽视或原谅罪恶。宽恕宣告了耶稣宝血的大能和他恩典的荣耀。"
 
-#: admin/prayer-field-content.php:359
+#: admin/prayer-field-content.php:357
 msgid ""
 "\"This verse makes no sense,\" Sophia said when her friend told her that God "
 "asks us to love our enemies. She was angry about the suffering in Palestine, "
@@ -2165,7 +2165,7 @@ msgstr ""
 "的仇恨感到心碎。耶稣啊，愿索菲亚和像她一样的人看到，爱我们的敌人就是战胜邪"
 "恶。那些受罪奴役的人总是伤害别人。爱是自由最有力的武器。"
 
-#: admin/prayer-field-content.php:360
+#: admin/prayer-field-content.php:358
 msgid ""
 "May the existing church and the future church in this region live out Romans "
 "12:20-21, \"...if your enemy is hungry, feed him; if he is thirsty, give him "
@@ -2176,7 +2176,7 @@ msgstr ""
 "他吃；若渴了，就给他喝。因为你这样行，就是把炭火堆在他的头上。”你不可为恶所"
 "胜，反要以善胜恶。”"
 
-#: admin/prayer-field-content.php:361
+#: admin/prayer-field-content.php:359
 msgid ""
 "Places of Business\n"
 "\n"
@@ -2196,7 +2196,7 @@ msgstr ""
 "多么的简单。为基督徒在工作场所树立爱敌人的榜样，为非信徒因无私的爱而被定罪祷"
 "告。"
 
-#: admin/prayer-field-content.php:365
+#: admin/prayer-field-content.php:363
 msgid ""
 "God, you pour out blessings (sun and rain, for example) on those who hate "
 "you, reject your love, and despise your message.\n"
@@ -2213,7 +2213,7 @@ msgstr ""
 "可能永远不会报答他们的人。让如此昂贵的爱和牺牲让穆斯林对耶稣在《引支勒》（新"
 "约）中的教导提出疑问，并开始阅读他的话语。"
 
-#: admin/prayer-field-content.php:371
+#: admin/prayer-field-content.php:369
 msgid ""
 "“Beware of practicing your righteousness before other people in order to be "
 "seen by them, for then you will have no reward from your Father who is in "
@@ -2230,7 +2230,7 @@ msgstr ""
 "施舍的时候，不要叫左手知道右手所做的，要叫你施舍的事行在暗中，你父在暗中察"
 "看，必然报答你。”（马太福音6:1-4）"
 
-#: admin/prayer-field-content.php:372
+#: admin/prayer-field-content.php:370
 msgid ""
 "Zakat, one of the five pillars of Islam, requires Muslims to donate a set "
 "percentage of their wealth each year to Muslim charities. The New Testament "
@@ -2245,7 +2245,7 @@ msgstr ""
 "人们祷告，使他们能够受到宗教规条和内心状态之间的对比的挑战，并想要更多地了解"
 "圣经所教导的“新心”。 以西结书 36:26）"
 
-#: admin/prayer-field-content.php:373
+#: admin/prayer-field-content.php:371
 msgid ""
 "As new believers follow the example of the early church's generosity (Acts "
 "2), may they believe their Father sees what is done in secret and not fall "
@@ -2261,7 +2261,7 @@ msgstr ""
 "每个信徒都会奉献，并知道他们已经被爱，已经被赦免。让他们在天父的眼前甘心乐意"
 "地奉献。"
 
-#: admin/prayer-field-content.php:374
+#: admin/prayer-field-content.php:372
 msgid ""
 "When the burden of trying to give enough is too heavy, when the need to "
 "appear righteous seems tremendously important but impossible, may those who "
@@ -2275,7 +2275,7 @@ msgstr ""
 "人心并与他们同行。神啊，我们祈求这些宝贵的人会知道永生的神正在看顾他们，并且"
 "他们会听到信徒的真理。"
 
-#: admin/prayer-field-content.php:375
+#: admin/prayer-field-content.php:373
 msgid ""
 "Lord, we pray for Your church to repent from hypocrisy.  Whenever Your "
 "children fall into giving as a way to be seen by others, let them be grieved "
@@ -2288,7 +2288,7 @@ msgstr ""
 "自己的罪忧伤，在人前谦卑认罪。愿他们慷慨且充满信心，知道你能看见，不需要别人"
 "看见。除去追求认同的偶像，使每个人的生活都能讨天父喜悦。"
 
-#: admin/prayer-field-content.php:376
+#: admin/prayer-field-content.php:374
 msgid ""
 "Places of Government\n"
 "\n"
@@ -2308,7 +2308,7 @@ msgstr ""
 "为这个地区的基督徒树立榜样，向有需要的人秘密奉献，并挑战和定罪那些偶然发现这"
 "些谦卑方式的人。"
 
-#: admin/prayer-field-content.php:381
+#: admin/prayer-field-content.php:379
 msgid ""
 "May the same words be true of reproducing churches and disciples in this "
 "region as was written about the reproducing church in Macedonia:\n"
@@ -2326,7 +2326,7 @@ msgstr ""
 "候，仍有满足的快乐，在极穷之间还格外显出他们乐捐的厚恩。我可以证明他们是按着"
 "力量，而且也过了力量，自己甘心乐意地捐助……”（哥林多后书 8:1-3）"
 
-#: admin/prayer-field-content.php:387
+#: admin/prayer-field-content.php:385
 msgid ""
 "“And when you pray, you must not be like the hypocrites. For they love to "
 "stand and pray in the synagogues and at the street corners, that they may be "
@@ -2343,7 +2343,7 @@ msgstr ""
 "用许多重复话，他们以为话多了必蒙垂听。你们不可效法他们，因为你们没有祈求以"
 "先，你们所需用的，你们的父早已知道了。”（马太福音6:5-8）"
 
-#: admin/prayer-field-content.php:388
+#: admin/prayer-field-content.php:386
 msgid ""
 "Muslims and Christians often use the same Arabic word for \"prayer\". The "
 "meanings of that word, however, could not be more different. Islamic salat "
@@ -2361,7 +2361,7 @@ msgstr ""
 "信地提出请求和赞美。他们听从神的话，从而被改变。他们听从神的话，从而被改变。"
 "今天，我们祈求穆斯林有机会接受基督徒的祷告，并通过它与神有神圣的相遇。"
 
-#: admin/prayer-field-content.php:389
+#: admin/prayer-field-content.php:387
 msgid ""
 "Father, we ask that you teach your children to linger before you in the "
 "quiet place. Jesus, strengthen your disciples to follow your example of "
@@ -2379,7 +2379,7 @@ msgstr ""
 "啊，请解释受苦灵魂的叹息祈求（罗马书 8 章）。帮助每个孩子坦然地来到他们的天父"
 "面前求问。"
 
-#: admin/prayer-field-content.php:390
+#: admin/prayer-field-content.php:388
 msgid ""
 "Cleanse us and the people of this place from self-righteousness. We confess "
 "the idol of approval that so many try to carry. In Islam, some look with "
@@ -2401,7 +2401,7 @@ msgstr ""
 "道，在他们提出要求之前，你就已经知道他们的需要，并且伸出双臂，让他们能够通过"
 "耶稣的宝血来接受你的义。"
 
-#: admin/prayer-field-content.php:391
+#: admin/prayer-field-content.php:389
 msgid ""
 "Holy Spirit, when believers meet together to pray, let them pray with one "
 "Spirit. Let them \"lift up voices together\" and remember your words. (Acts "
@@ -2417,7 +2417,7 @@ msgstr ""
 "较或故作姿态，试图听起来很属灵。愿你的教会凭着信心祷告，深信在我们祈求之前你"
 "就知道我们需要什么。"
 
-#: admin/prayer-field-content.php:392
+#: admin/prayer-field-content.php:390
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -2444,7 +2444,7 @@ msgstr ""
 "样做。祈求他们对基督教祷告的好奇心能够增长，并愿意向基督徒或基督教媒体寻求答"
 "案。"
 
-#: admin/prayer-field-content.php:397
+#: admin/prayer-field-content.php:395
 msgid ""
 "Let's pray Paul's prayer for the Ephesian church (Ephesians 3:14-19) over "
 "the people of this area:\n"
@@ -2484,7 +2484,7 @@ msgstr ""
 "我们祈求无论男女老幼、宗教人士、无神论者、怀疑论者、富人、穷人以及社会各阶层"
 "都能认识基督超越知识的爱。"
 
-#: admin/prayer-field-content.php:412
+#: admin/prayer-field-content.php:410
 msgid ""
 "\"Pray then like this: “Our Father in heaven, hallowed be your name. Your "
 "kingdom come, your will be done, on earth as it is in heaven. Give us this "
@@ -2500,7 +2500,7 @@ msgstr ""
 "到永远。阿们。你们饶恕人的过犯，你们的天父也必饶恕你们的过犯。你们不饶恕人的"
 "过犯，你们的天父也必不饶恕你们的过犯。”（马太福音6:9-15）"
 
-#: admin/prayer-field-content.php:413
+#: admin/prayer-field-content.php:411
 msgid ""
 "In Islam, God has 99 names–such as All-Merciful, The Beneficent, and The "
 "Source of Peace – but none of those names is Love. Father God, who reveals "
@@ -2511,7 +2511,7 @@ msgstr ""
 "有一个是爱。父神啊，在整本圣经中将自己显明为慈爱的神，请以你的真实本性向这个"
 "地区的穆斯林显明自己。"
 
-#: admin/prayer-field-content.php:414
+#: admin/prayer-field-content.php:412
 msgid ""
 "Father, what a gift it is to be called your children. May the believers in "
 "this place know their identity as your beloved adopted ones and speak your "
@@ -2528,7 +2528,7 @@ msgstr ""
 "饮食，从圣灵得着新的启示。愿你的儿女因已蒙赦免而被认出是那些饶恕人、选择生命"
 "之道的人。教导你的人民在你面前祈求和逗留，聆听、信任你，并诚实地与你交谈。"
 
-#: admin/prayer-field-content.php:415
+#: admin/prayer-field-content.php:413
 msgid ""
 "Praying is speaking to God, our Father in heaven. Please let Muslims see "
 "that you long for them to believe in Jesus and have the right to be called "
@@ -2546,7 +2546,7 @@ msgstr ""
 "满足或拯救自己。愿这个地方的人们仰望你，祈求每日的饮食。祷告包括悔改。让穆斯"
 "林从穆罕默德、伊斯兰教、自我、任何其他偶像转向，通过耶稣转向神。"
 
-#: admin/prayer-field-content.php:416
+#: admin/prayer-field-content.php:414
 msgid ""
 "It is not uncommon for Muslims who turn to Christ to lose their jobs and "
 "their family support system. We pray, Lord, for all believers to be a part "
@@ -2569,7 +2569,7 @@ msgstr ""
 "的可能，更能使这些家庭转变为家庭教会。我们为这些家庭祈求，让他们有无数的见"
 "证，见证神供应日用的饮食。"
 
-#: admin/prayer-field-content.php:419
+#: admin/prayer-field-content.php:417
 msgid ""
 "Places of Education\n"
 "\n"
@@ -2587,7 +2587,7 @@ msgstr ""
 "为小学课堂和课后辅导祷告，愿神的国降临，神的旨意行在其中，如同行在天上。\n"
 "为高中生课间聚集的场所祷告，愿神的国降临，神的旨意行在其中，如同行在天上。"
 
-#: admin/prayer-field-content.php:424
+#: admin/prayer-field-content.php:422
 msgid ""
 "The Gospels are filled with clear warnings that extending forgiveness is an "
 "essential outcome of receiving God's forgiveness. Today, we pray and ask for "
@@ -2612,7 +2612,7 @@ msgstr ""
 "为这地区失丧的人祷告，愿他们能看见基督徒生命中饶恕的大能见证，并让家人和朋友"
 "团体想要知道这种改变生命的自由的来源。"
 
-#: admin/prayer-field-content.php:433
+#: admin/prayer-field-content.php:431
 msgid ""
 "“And when you fast, do not look gloomy like the hypocrites, for they "
 "disfigure their faces that their fasting may be seen by others. Truly, I say "
@@ -2626,7 +2626,7 @@ msgstr ""
 "候，要梳头洗脸，不叫人看出你禁食来，只叫你暗中的父看见，你父在暗中察看，必然"
 "报答你。”（马太福音6:16-18）"
 
-#: admin/prayer-field-content.php:434
+#: admin/prayer-field-content.php:432
 msgid ""
 "Muslims and Christians use the same Arabic word for \"fasting.\" And similar "
 "to what we learned yesterday about prayer, the meanings are fundamentally "
@@ -2646,7 +2646,7 @@ msgstr ""
 "暗中的父看见……”（马太福音6:16-18）。今天，我们祈求穆斯林能够在登山宝训中了解"
 "到耶稣关于禁食的教导，并受感动继续探究他的教导。"
 
-#: admin/prayer-field-content.php:435
+#: admin/prayer-field-content.php:433
 msgid ""
 "Jesus, thank you for teaching us that admiration of others is a poor reward "
 "for fasting. Father, thank you for seeing what is in secret.  Nothing is "
@@ -2665,7 +2665,7 @@ msgstr ""
 "我们祈求你的儿女能够禁食，渴望新郎来带他们去他为他们准备的地方的那一天。愿信"
 "徒唯有吃耶稣的粮才能满足。"
 
-#: admin/prayer-field-content.php:436
+#: admin/prayer-field-content.php:434
 msgid ""
 "May all who fast to be seen by others find their fast empty. Thank you, "
 "Father, for seeing the thoughts and motives of the heart. For those who are "
@@ -2681,7 +2681,7 @@ msgstr ""
 "耶稣的信徒或在网上读到福音。我们祈求真正的禁食，渴望认识神，正如他的灵在耶稣"
 "基督里所启示的那样。"
 
-#: admin/prayer-field-content.php:437
+#: admin/prayer-field-content.php:435
 msgid ""
 "We pray for the church among this people group to be an example of true "
 "fasting that pleases God (Isaiah 58:6-7):\n"
@@ -2707,7 +2707,7 @@ msgstr ""
 "当信徒这样做时，愿门徒、领袖和教会都增多，他们为了神的荣耀和他的教会在这个地"
 "方的成长而活出这些经文。"
 
-#: admin/prayer-field-content.php:445
+#: admin/prayer-field-content.php:443
 msgid ""
 "Places of Community\n"
 "\n"
@@ -2727,7 +2727,7 @@ msgstr ""
 "考禁食的果实应该是什么。为那些内心柔软的人祷告，让他们有机会遇见一位可以分享"
 "基督教禁食的基督徒。"
 
-#: admin/prayer-field-content.php:449
+#: admin/prayer-field-content.php:447
 msgid ""
 "We pray the promise of the rest of Isaiah 58:8-12 over this land.\n"
 "\n"
@@ -2760,7 +2760,7 @@ msgstr ""
 "58:12）主啊，我们为这片土地上许多属灵世代的门徒（使门徒继续培养门徒，代代相"
 "传）祈求。阿们。"
 
-#: admin/prayer-field-content.php:459
+#: admin/prayer-field-content.php:457
 msgid ""
 "“Do not lay up for yourselves treasures on earth, where moth and rust "
 "destroy and where thieves break in and steal, but lay up for yourselves "
@@ -2780,7 +2780,7 @@ msgstr ""
 "食“一个人不能侍奉两个主，不是恶这个爱那个，就是重这个轻那个。你们不能又侍奉"
 "神，又侍奉玛门。”（马太福音 6:19-24）"
 
-#: admin/prayer-field-content.php:460
+#: admin/prayer-field-content.php:458
 msgid ""
 "Most Muslims (and many Christians) believe that material wealth is evidence "
 "of being favored by God. Therefore, they believe the converse is also true: "
@@ -2795,7 +2795,7 @@ msgstr ""
 "将他们的生命投资于积攒财宝在天上，而不是物质财富。为今天的穆斯林祈求，思考他"
 "们是在侍奉神还是金钱。祈求圣灵使他们认识到，事奉金钱最终带来捆绑和死亡。"
 
-#: admin/prayer-field-content.php:461
+#: admin/prayer-field-content.php:459
 msgid ""
 "May the believers of this place fix their eyes on Jesus. As they gaze on his "
 "bright glory, may the light of Christ enter their eyes and fill their whole "
@@ -2816,7 +2816,7 @@ msgstr ""
 "他们学习。让他们每天早上醒来去上班时牵着你的手，并为你的同在感到高兴，因为他"
 "们相信你会照顾他们和他们所爱的人。"
 
-#: admin/prayer-field-content.php:462
+#: admin/prayer-field-content.php:460
 msgid ""
 "\"You need to come and tell us more of Jesus. I can feel my heart soar with "
 "you through the stories. We need to set aside time daily to really "
@@ -2833,7 +2833,7 @@ msgstr ""
 "世上的事物牵引了注意力。为像他这样饥渴慕义的人祷告，不要把目光集中在可见的事"
 "物上，而是集中在永恒的事物上。愿我们不会三心二意。"
 
-#: admin/prayer-field-content.php:463
+#: admin/prayer-field-content.php:461
 msgid ""
 "Jesus said, \"The Kingdom of God is like treasure hidden in a field, which a "
 "man found and covered up. Then in his joy he goes and sells all that he has "
@@ -2852,7 +2852,7 @@ msgstr ""
 "奉神而不是金钱的信徒组成的。保守你的教会免受贪爱钱财的影响，并为明智地使用金"
 "钱提供智慧。"
 
-#: admin/prayer-field-content.php:464
+#: admin/prayer-field-content.php:462
 msgid ""
 "Places of Business\n"
 "\n"
@@ -2871,7 +2871,7 @@ msgstr ""
 "中描述的生命的影响，在工作场所建立“探索研经”。\n"
 "祈求基督徒企业主蒙神祝福，因为他们选择事奉神而非追求经济利益。"
 
-#: admin/prayer-field-content.php:468
+#: admin/prayer-field-content.php:466
 msgid ""
 "Jesus told the story of a widow who put two small coins into the offering "
 "box (Mark 12:41-44). He said she put more in than any of the wealthy people. "
@@ -2896,7 +2896,7 @@ msgstr ""
 "气和智慧，让他们知道如何以令人信服的方式分享他们的见证，并让你从像这样充满信"
 "心的顺服中吸引成群的门徒。"
 
-#: admin/prayer-field-content.php:474
+#: admin/prayer-field-content.php:472
 msgid ""
 "“Therefore I tell you, do not be anxious about your life, what you will eat "
 "or what you will drink, nor about your body, what you will put on. Is not "
@@ -2927,7 +2927,7 @@ msgstr ""
 "了。所以，不要为明天忧虑，因为明天自有明天的忧虑。一天的难处一天当就够"
 "了。” （马太福音 6:25-34）"
 
-#: admin/prayer-field-content.php:475
+#: admin/prayer-field-content.php:473
 msgid ""
 "Islam teaches that God is unknowable, and as a result, many feel like God is "
 "distant. We know the truth is that God Almighty wants an intimate "
@@ -2940,7 +2940,7 @@ msgstr ""
 "（路加福音12:7）。主啊，让所有新的基督追随者因认识那称我们为“爱子”的神的亲密"
 "而充满喜乐。"
 
-#: admin/prayer-field-content.php:476
+#: admin/prayer-field-content.php:474
 msgid ""
 "A sparrow flew through the open window of her kitchen and began to eat "
 "forgotten crumbs from the floor. Hannan listened to this passage joyfully, "
@@ -2957,7 +2957,7 @@ msgstr ""
 "天的忧虑已经够多了，神知道我们所需的一切。”为这个地区的新信徒祷告，愿每个人都"
 "能体会到信靠神看顾所带来的甘甜。"
 
-#: admin/prayer-field-content.php:477
+#: admin/prayer-field-content.php:475
 msgid ""
 "Anxious hearts come from inaccurate perceptions of the love, goodness, and "
 "power of God. Father, we pray for the people here to look at creation and "
@@ -2973,7 +2973,7 @@ msgstr ""
 "的每一个需要，他们的每一个悲伤。向他们表明，他们在神眼中何等宝贵，因为他创造"
 "了他们，并选择用死来救赎他们。"
 
-#: admin/prayer-field-content.php:478
+#: admin/prayer-field-content.php:476
 msgid ""
 "May the church in this region, both current and future, live out Philippians "
 "4:4-7:\n"
@@ -2995,7 +2995,7 @@ msgstr ""
 "到神会为了他的荣耀而回应这些恳求。\n"
 "愿“神所赐出人意外的平安，必在基督耶稣里保守你们的心怀意念。”"
 
-#: admin/prayer-field-content.php:484
+#: admin/prayer-field-content.php:482
 msgid ""
 "Places of Government\n"
 "\n"
@@ -3022,7 +3022,7 @@ msgstr ""
 "机会遇见真正的基督追随者。愿这些行动促成“探索研经”，并在难民营和难民居住的社"
 "区建立简单的教会。我们祈求正直的政府领导人能够保护这些难民的基本人权。"
 
-#: admin/prayer-field-content.php:487
+#: admin/prayer-field-content.php:485
 msgid ""
 "Today, we pray for people of this land to look at the birds of the air. Let "
 "them see how our Heavenly Father takes care of them and may they seek out "
@@ -3044,7 +3044,7 @@ msgstr ""
 " 在这个有空前数量的人遭受焦虑之苦的时代，请为这里的人们祷告，祈求他们能够得到"
 "治愈，并摆脱焦虑、惊恐发作、睡眠瘫痪以及严重的压力和恐惧。"
 
-#: admin/prayer-field-content.php:495
+#: admin/prayer-field-content.php:493
 msgid ""
 "“Judge not, that you be not judged. For with the judgment you pronounce you "
 "will be judged, and with the measure you use it will be measured to you. Why "
@@ -3063,7 +3063,7 @@ msgstr ""
 "把圣物给狗，也不要把你们的珍珠丢在猪前，恐怕它践踏了珍珠，转过来咬你们。”（马"
 "太福音 7:1-6）"
 
-#: admin/prayer-field-content.php:496
+#: admin/prayer-field-content.php:494
 msgid ""
 "Judgment and hypocrisy are core to all humanity's sinful nature. Muslims are "
 "no exception. We all quickly try to pull the speck out of our neighbor's eye "
@@ -3080,7 +3080,7 @@ msgstr ""
 "边谴责他人饮酒，一边从雇主那里偷钱。祈求这里的人们认识到自己的虚伪，并转向基"
 "督寻求赦免和新的心。"
 
-#: admin/prayer-field-content.php:497
+#: admin/prayer-field-content.php:495
 msgid ""
 "Jesus, you long for us to see. Sin clouds our sight. We see one another "
 "through eyes of judgment, forgetting that we have been forgiven. Lord, "
@@ -3094,7 +3094,7 @@ msgstr ""
 "让我们看见，然后，当我们充满爱心地纠正我们的兄弟姐妹时，让我们谦卑地这样做，"
 "也请求他们在我们看不清的时候帮助纠正我们。"
 
-#: admin/prayer-field-content.php:498
+#: admin/prayer-field-content.php:496
 msgid ""
 "It takes tremendous humility to accept correction with grace. It is "
 "especially hard when someone declares something that disagrees with the "
@@ -3108,7 +3108,7 @@ msgstr ""
 "们不会被十字架绊倒。让他们欢喜地接受真理的神圣珍珠，而不是践踏真理，或因受到"
 "评判或纠正而生气。"
 
-#: admin/prayer-field-content.php:499
+#: admin/prayer-field-content.php:497
 msgid ""
 "Pray for the church of this land to \"put away all malice and all deceit and "
 "hypocrisy and envy and all slander. Like newborn infants, long for the pure "
@@ -3124,7 +3124,7 @@ msgstr ""
 "不信的旁观者被吸引，去了解他们新生活方式的来源。我们祈求一群寻求者能够围绕神"
 "的话语聚集在一起，并有机会品尝并看到主的美善。"
 
-#: admin/prayer-field-content.php:500
+#: admin/prayer-field-content.php:498
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -3150,7 +3150,7 @@ msgstr ""
 "话语时，让他们的心不安，让他们想知道是否还有其他方法。祈求好奇心能增长，祈求"
 "信徒能准备好回应那些想把梁木从自己眼中除去的人。"
 
-#: admin/prayer-field-content.php:505
+#: admin/prayer-field-content.php:503
 msgid ""
 "\"Therefore do not pronounce judgment before the time, before the Lord "
 "comes, who will bring to light the things now hidden in darkness and will "
@@ -3173,7 +3173,7 @@ msgstr ""
 "相信神会把麦子和稗子分开（马太福音13:24-30）。当简单教会的新领袖兴起时，求赐"
 "他们谦卑的心和敬虔的爱，引导他们的教会走向圣洁，远离伪善。"
 
-#: admin/prayer-field-content.php:511
+#: admin/prayer-field-content.php:509
 msgid ""
 "“Ask, and it will be given to you; seek, and you will find; knock, and it "
 "will be opened to you. For everyone who asks receives, and the one who seeks "
@@ -3188,7 +3188,7 @@ msgstr ""
 "鱼，反给他蛇呢？你们虽然不好，尚且知道拿好东西给儿女，何况你们在天上的父，岂"
 "不更把好东西给求他的人吗？”（马太福音7:7-11）"
 
-#: admin/prayer-field-content.php:512
+#: admin/prayer-field-content.php:510
 msgid ""
 "\"I Dared to Call Him Father\" by Bilquis Sheikh recounts the story of a "
 "Muslim woman from Pakistan who turned to Christ. The title captures how "
@@ -3205,7 +3205,7 @@ msgstr ""
 "这个现实，你的生活会是什么样子。求神帮助穆斯林背景的基督徒继续成长，认识神是"
 "他们的天父。求神激发穆斯林的好奇心，让他们想要更多地了解神作为我们的天父。"
 
-#: admin/prayer-field-content.php:513
+#: admin/prayer-field-content.php:511
 msgid ""
 "“I just don’t know if I can do it,” Fouad shared, his head in his hands.  "
 "They were only recently married, but more than nine months past the "
@@ -3230,7 +3230,7 @@ msgstr ""
 "德向神祈求，寻求主，并敲开了耶稣的门……他现在是一位谦虚的模范父亲，以全新的方"
 "式抚养孩子。"
 
-#: admin/prayer-field-content.php:514
+#: admin/prayer-field-content.php:512
 msgid ""
 "Hamza kicked the ball gently toward little Ahmed.  He was a good little "
 "player, and so handsome too!  Hamza’s father-heart swelled with pride as he "
@@ -3263,7 +3263,7 @@ msgstr ""
 "己的信仰，或者脱离家庭怎么办？” 一想到自己的怀疑，他就不寒而栗。 “祈求、寻"
 "找、叩门……”当他自己内心如此不确定的时候，他怎么能向儿子指明正确的道路呢？"
 
-#: admin/prayer-field-content.php:515
+#: admin/prayer-field-content.php:513
 msgid ""
 "May the church in this region ask, seek, and knock on behalf of the "
 "multitudes of Muslim peoples that surround them. Give them ideas, next "
@@ -3283,7 +3283,7 @@ msgstr ""
 "他们相信天父想要赐予美好的礼物。让他们相信你可能想利用他们的见证，引导他们的"
 "家人进入你的国度。"
 
-#: admin/prayer-field-content.php:516
+#: admin/prayer-field-content.php:514
 msgid ""
 "Places of Education\n"
 "\n"
@@ -3307,7 +3307,7 @@ msgstr ""
 "- 祈求神呼召教授和教师归向他自己，在基督徒少的社区找到工作。祈求他们相信天"
 "父，为他们敞开大门，与家人分享福音，并开始在他们中间开展圣经学习。"
 
-#: admin/prayer-field-content.php:521
+#: admin/prayer-field-content.php:519
 msgid ""
 "\"Every good gift and every perfect gift is from above, coming down from the "
 "Father of lights, with whom there is no variation or shadow due to change."
@@ -3327,7 +3327,7 @@ msgstr ""
 "身份，增强他们的信心，使他们能够明智而吸引人地与周围的人分享。求主增长他们的"
 "信心，相信神会带领他们认识那些不仅被迫聆听他们的信息而且愿意与他人分享的人。"
 
-#: admin/prayer-field-content.php:525
+#: admin/prayer-field-content.php:523
 msgid ""
 "“So whatever you wish that others would do to you, do also to them, for this "
 "is the Law and the Prophets. Enter by the narrow gate. For the gate is wide "
@@ -3339,7 +3339,7 @@ msgstr ""
 "的道理。你们要进窄门。因为引到灭亡，那门是宽的，路是大的，进去的人也多；引到"
 "永生，那门是窄的，路是小的，找着的人也少。”（马太福音7:12-14）"
 
-#: admin/prayer-field-content.php:526
+#: admin/prayer-field-content.php:524
 msgid ""
 "For those praying today who live in this area, take a moment to imagine what "
 "it would look like if everyone would do to others what they would have done "
@@ -3348,7 +3348,7 @@ msgstr ""
 "对于今天居住在这个地区的祷告者，请花点时间想象一下，如果每个人都以希望他人对"
 "待自己的方式去对待他人，那会是什么样子。为那些王国现实的到来祷告。"
 
-#: admin/prayer-field-content.php:527
+#: admin/prayer-field-content.php:525
 msgid ""
 "For those praying today who do not live in this area, pray for Christians to "
 "bring meals to the sick, give rides to the carless, listen well to those "
@@ -3359,7 +3359,7 @@ msgstr ""
 "供乘车服务，倾听那些有负担的人的声音，探望住院的人，并与有需要的人分享。愿耶"
 "稣的名在这些行动中得到高举。"
 
-#: admin/prayer-field-content.php:528
+#: admin/prayer-field-content.php:526
 msgid ""
 "We pray today for believers who have chosen the hard, narrow way that leads "
 "to life. When they are tempted to be jealous of those who get to \"do as "
@@ -3374,7 +3374,7 @@ msgstr ""
 "你来揭示神和爱与牺牲的十字架之路。我们祈求信徒会刻意选择尊重他人、宽恕、热情"
 "好客、谦卑地服务，为耶稣的缘故献出生命，呼召他人走窄路。"
 
-#: admin/prayer-field-content.php:529
+#: admin/prayer-field-content.php:527
 msgid ""
 "Adil sat in the back of an old church building in the middle of the week, "
 "full of questions about Christianity.  It was forbidden for him to come when "
@@ -3398,7 +3398,7 @@ msgstr ""
 "路。主啊，我们为那些想要你，但也想要旧生活的人祈求。请激发他们的灵魂悔改，得"
 "生命。"
 
-#: admin/prayer-field-content.php:530
+#: admin/prayer-field-content.php:528
 msgid ""
 "Pray that God would give grace to the church in this region to live out "
 "Jesus' Golden Rule, “Do to Others”,  teaching with one another. Pray for "
@@ -3416,7 +3416,7 @@ msgstr ""
 "当他们这样做时，求神带领他们找到那些能够帮助的人，建立新的家庭教会和圣经学习"
 "小组，以复制这种生活方式以荣耀神。"
 
-#: admin/prayer-field-content.php:532
+#: admin/prayer-field-content.php:530
 msgid ""
 "Places of Community\n"
 "\n"
@@ -3442,7 +3442,7 @@ msgstr ""
 "祈求社区领袖福音心意柔软，并盼望他们的社区能够受到耶稣爱敌人、服务他人和无私"
 "的教导的塑造。"
 
-#: admin/prayer-field-content.php:537
+#: admin/prayer-field-content.php:535
 msgid ""
 "Jesus, you are the way, the truth, and the life. No one comes to the Father "
 "except through you (John 14:6). Tonight, as Muslims break their fast, go to "
@@ -3460,7 +3460,7 @@ msgstr ""
 "的话语：“我就是门，凡从我进来的，必然得救，并且出入得草吃。”（约翰福音 10:9）"
 "当他们更多地了解你时，引导他们与朋友和家人分享，愿他们可以一起了解你。"
 
-#: admin/prayer-field-content.php:541
+#: admin/prayer-field-content.php:539
 msgid ""
 "“Beware of false prophets, who come to you in sheep's clothing but inwardly "
 "are ravenous wolves. You will recognize them by their fruits. Are grapes "
@@ -3476,7 +3476,7 @@ msgstr ""
 "果子的树就砍下来，丢在火里。所以，凭着他们的果子就可以认出他们来。”（马太福音"
 "7:15-20）"
 
-#: admin/prayer-field-content.php:542
+#: admin/prayer-field-content.php:540
 msgid ""
 "Like most people, Muslims care deeply about their outward appearance or "
 "reputation in the community. In contrast, Jesus cares about the person's "
@@ -3490,7 +3490,7 @@ msgstr ""
 "这一点。祈求这个地区的人们确信他们需要一颗清洁的心，并寻求耶稣关于这个话题的"
 "教导。"
 
-#: admin/prayer-field-content.php:543
+#: admin/prayer-field-content.php:541
 msgid ""
 "These were the very verses that brought Salima to walk the Way of Light. The "
 "beauty of Spirit fruit is borne only when the branch draws the sap from the "
@@ -3508,7 +3508,7 @@ msgstr ""
 "移。我们知道，除非他们与你同在，否则就无法结出果子。我们求长存的果子。 （约翰"
 "福音 15 章）"
 
-#: admin/prayer-field-content.php:544
+#: admin/prayer-field-content.php:542
 msgid ""
 "Soumia longed to bear good fruit.  She wanted to be a mom who was patient "
 "and joyful, loving and self-controlled. She kept asking how it was possible, "
@@ -3525,7 +3525,7 @@ msgstr ""
 "充满，并结出好果子。我们深知，不结好果子的树将被砍倒并投入火中。愿苏米亚和像"
 "她一样的人接受福音的恩典。"
 
-#: admin/prayer-field-content.php:545
+#: admin/prayer-field-content.php:543
 msgid ""
 "One of the biggest arguments against disciple-making movements (DMM) is that "
 "if new believers lead simple churches, heresy will emerge. Opponents of DMM "
@@ -3542,7 +3542,7 @@ msgstr ""
 "断地在神的话语中不断扎根成长，他们的神学和实践能够符合圣经，并且他们能够有辨"
 "别力来区分好果子和坏果子。"
 
-#: admin/prayer-field-content.php:546
+#: admin/prayer-field-content.php:544
 msgid ""
 "Places of Business\n"
 "\n"
@@ -3563,7 +3563,7 @@ msgstr ""
 " 为雇员结出好果子祷告，使他们的同事和雇主对他们在基督里的盼望而发问。祈求他们"
 "为追求正直和诚实而可能付上重大代价的决定，能够为神的荣耀结出好果子。"
 
-#: admin/prayer-field-content.php:551
+#: admin/prayer-field-content.php:549
 msgid ""
 "\"But the wisdom from above is first pure, then peaceable, gentle, open to "
 "reason, full of mercy and good fruits, impartial and sincere. And a harvest "
@@ -3594,7 +3594,7 @@ msgstr ""
 "\n"
 "因此，愿有义的丰收，使门徒和教会在这片土地上倍增。"
 
-#: admin/prayer-field-content.php:564
+#: admin/prayer-field-content.php:562
 msgid ""
 "“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of "
 "heaven, but the one who does the will of my Father who is in heaven.  On "
@@ -3608,7 +3608,7 @@ msgstr ""
 "的名行许多异能吗？’我就明明地告诉他们说：‘我从来不认识你们。你们这些作恶的"
 "人，离开我去吧！’ （马太福音 7:21-23）"
 
-#: admin/prayer-field-content.php:565
+#: admin/prayer-field-content.php:563
 msgid ""
 "In Islam, someone becomes a Muslim simply by reciting the shahada (Islamic "
 "declaration of faith) with conviction. Jesus says merely saying 'Lord, Lord' "
@@ -3622,7 +3622,7 @@ msgstr ""
 "请思考遵行天父的旨意意味着什么。祈求失丧的人能被耶稣拯救，并祈求这个地区得救"
 "的人变得像耶稣一样。"
 
-#: admin/prayer-field-content.php:566
+#: admin/prayer-field-content.php:564
 msgid ""
 "Samir asked, \"To become a Muslim, you must say the shahada. What do you say "
 "to become a Christian?\" A brother answered, \"In Romans, it says '...if you "
@@ -3639,7 +3639,7 @@ msgstr ""
 "权柄的人；要有一颗顺服的心。” 耶稣，你是主。你拥有天上地下所有的权柄。我们祈"
 "求这个地区的信徒能够跟随他们的教师和主并按照他所说的去做。"
 
-#: admin/prayer-field-content.php:567
+#: admin/prayer-field-content.php:565
 msgid ""
 "\"What good is there for women in Jannah (paradise)? Men are promised "
 "virgins and wine, but what do women have to look forward to? Can you tell me "
@@ -3661,7 +3661,7 @@ msgstr ""
 "他们渴望从耶稣和他的教导中获得祝福，但又不想在生活的各个方面屈服于他的权威和"
 "主权。让他们害怕听到耶稣的话：“我从来不认识你。”"
 
-#: admin/prayer-field-content.php:568
+#: admin/prayer-field-content.php:566
 msgid ""
 "In Matthew 10:26-33, Jesus tells his followers not to fear and that \"..."
 "whoever denies me before men, I also will deny before my Father who is in "
@@ -3677,7 +3677,7 @@ msgstr ""
 "害时刻因恐惧而否认基督的弟兄姐妹祈求。求主挽回他们，如同你在彼得三次不认你之"
 "后挽回他一样。"
 
-#: admin/prayer-field-content.php:569
+#: admin/prayer-field-content.php:567
 msgid ""
 "Places of Government\n"
 "\n"
@@ -3704,7 +3704,7 @@ msgstr ""
 "对于那些观察信徒在这些时刻如何行事的人——法官、律师、官员——愿他们被这些男女所"
 "跟随的耶稣所吸引。愿他们悔改，脱离“作恶的人”的行列。（马太福音 7:23）"
 
-#: admin/prayer-field-content.php:574
+#: admin/prayer-field-content.php:572
 msgid ""
 "Miracles, prophecies, and mighty works do not rescue us; we must be known by "
 "God. Spirit of God, we pray that the lost in this land will hear and believe "
@@ -3720,7 +3720,7 @@ msgstr ""
 "他们吗？让他们爱你、认识你，并遵行天父的旨意。他们若爱你，就必遵守你的命令。 "
 "（约翰福音 14:15）"
 
-#: admin/prayer-field-content.php:578
+#: admin/prayer-field-content.php:576
 msgid ""
 "“Everyone then who hears these words of mine and does them will be like a "
 "wise man who built his house on the rock. And the rain fell, and the floods "
@@ -3736,7 +3736,7 @@ msgstr ""
 "比一个无知的人，把房子盖在沙土上。雨淋，水冲，风吹，撞着那房子，房子就倒塌"
 "了，并且倒塌得很大。” （马太福音 7:24-27）"
 
-#: admin/prayer-field-content.php:579
+#: admin/prayer-field-content.php:577
 msgid ""
 "Today, many people in this place are building their lives on careers, family "
 "relationships, reputation, money, influence, and health. These are all "
@@ -3750,7 +3750,7 @@ msgstr ""
 "18:2 当中所说的磐石祷告：“ 耶和华是我的岩石，我的山寨，我的救主，我的神，我的"
 "磐石，我所投靠的。他是我的盾牌，是拯救我的角，是我的高台。”"
 
-#: admin/prayer-field-content.php:580
+#: admin/prayer-field-content.php:578
 msgid ""
 "Riyadh grew up as a Muslim but came to faith in Christ as a young man. "
 "Despite persecution and losing relationships with family members, he held on "
@@ -3772,7 +3772,7 @@ msgstr ""
 "风吹过，但他们坚定不移，因为他们相信耶稣的话。为利雅得和他的妻子这样的领袖祷"
 "告，让他们成为这个地区的许多其他领袖。"
 
-#: admin/prayer-field-content.php:581
+#: admin/prayer-field-content.php:579
 msgid ""
 "It started with cheating on exams in school. Then there was lying to parents "
 "and teachers...telling his fiancee what she wanted to hear… cutting corners, "
@@ -3795,7 +3795,7 @@ msgstr ""
 "他们有机会读到耶稣的教导，被真理所说服，并选择不同的道路。祈求他们的转变见证"
 "会让朋友和家人也想要研究耶稣的教导。"
 
-#: admin/prayer-field-content.php:582
+#: admin/prayer-field-content.php:580
 msgid ""
 "Obedience brings stability. When we obey Jesus' commandments, we remain in "
 "his love. (John 15:10) This is the foundation, the rock we build upon. The "
@@ -3815,7 +3815,7 @@ msgstr ""
 "他一同白白地赐给我们吗？谁能控告我们呢？ （罗马书 8:32-33）祈求这里的门徒不仅"
 "能听到耶稣的话、相信耶稣的话，而且能遵从耶稣的话，安息在他坚定的爱里。"
 
-#: admin/prayer-field-content.php:583
+#: admin/prayer-field-content.php:581
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -3837,7 +3837,7 @@ msgstr ""
 "愿他们体验到像这教导中的智慧人一样所带来的祝福（马太福音7:24-27）。我们为一群"
 "朋友和家人一起去清真寺祷告，开始一起阅读神的话语并得到改变。"
 
-#: admin/prayer-field-content.php:586
+#: admin/prayer-field-content.php:584
 msgid ""
 "Have mercy, O God.  We confess that there are those in this area who have "
 "\"forsaken [God], the spring of living water and have dug their own "
@@ -3854,7 +3854,7 @@ msgstr ""
 "在沙土上的房子会被摧毁，永远无法提供庇护。漏水的池子永远不能解渴。耶稣，请让"
 "他们看到你的话语是真实的，服从你会带来生命和安息。"
 
-#: admin/prayer-field-content.php:590
+#: admin/prayer-field-content.php:588
 msgid ""
 "\"And when Jesus finished these sayings, the crowds were astonished at his "
 "teaching, for he was teaching them as one who had authority, and not as "
@@ -3863,7 +3863,7 @@ msgstr ""
 "“ 耶稣讲完了这些话，众人都稀奇他的教训，因为他教训他们正像有权柄的人，不像他"
 "们的文士。” （马太福音 7:28-29）"
 
-#: admin/prayer-field-content.php:591
+#: admin/prayer-field-content.php:589
 msgid ""
 "Let's pray with one heart that multitudes of Muslims in this area would read "
 "and be astonished by the teachings of Jesus that we have prayed throughout "
@@ -3873,7 +3873,7 @@ msgstr ""
 "让我们全心全意地祈求，让这个地区的众多穆斯林能够阅读到我们这个月所祈求的关于"
 "耶稣的教导，并感到稀奇。祈求他们能认识到他对他们生活的权威并顺服地回应。"
 
-#: admin/prayer-field-content.php:592
+#: admin/prayer-field-content.php:590
 msgid ""
 "Yosri grew up without a father for much of his life. He experienced abuse as "
 "a child and unforgiveness had sown deep pain in his heart. When he came "
@@ -3892,7 +3892,7 @@ msgstr ""
 "斯里和像他这样的信徒祷告，他们正在学习如何找到可以建立连接的人，通过“探索研"
 "经”等方法来学习神的话语。"
 
-#: admin/prayer-field-content.php:593
+#: admin/prayer-field-content.php:591
 msgid ""
 "Holy Spirit, please keep hovering over the people of this land. Reveal to "
 "them, Jesus.  Let them meet believers who teach obedience to everything "
@@ -3903,7 +3903,7 @@ msgstr ""
 "教导人们遵守耶稣命令的信徒。（马太福音28:20）他们听到耶稣的教训后，就该怀着谦"
 "卑和信心接受并跟从他。"
 
-#: admin/prayer-field-content.php:594
+#: admin/prayer-field-content.php:592
 msgid ""
 "Together, Lord Jesus, we pray that we and your children among this people "
 "group would humbly submit to your authority. Let no arrogance of education "
@@ -3917,7 +3917,7 @@ msgstr ""
 "罪、想要定义善与恶并像神一样时，求你督责他们。我们求你剥夺所有骄傲，好叫你的"
 "儿女遵从你。"
 
-#: admin/prayer-field-content.php:595
+#: admin/prayer-field-content.php:593
 msgid ""
 "Places of Education\n"
 "\n"
@@ -3938,7 +3938,7 @@ msgstr ""
 "我们为影响下一代的教育工作者和教授祷告，让他们能够与复活的基督相遇，将希望寄"
 "托在他身上，并为周围的人带来好消息。"
 
-#: admin/prayer-field-content.php:600
+#: admin/prayer-field-content.php:598
 msgid ""
 "Lord, we lift our voices together one last time. Thank you for these 31 days "
 "of prayer for our brothers and sisters in this land. Today, we remember our "
@@ -3975,30 +3975,30 @@ msgstr ""
 "\n"
 "阿们。阿们。"
 
-#: admin/prayer-field-content.php:640
+#: admin/prayer-field-content.php:638
 msgid "Pray as the Lord leads you as you read today's verse"
 msgstr "当你阅读今天的经文时按照主的引导祷告"
 
-#: admin/prayer-field-content.php:648
+#: admin/prayer-field-content.php:646
 msgid "Praying with insight"
 msgstr "带着洞察力祷告"
 
-#: admin/prayer-field-content.php:659
+#: admin/prayer-field-content.php:657
 msgid "For believers"
 msgstr "为信徒"
 
-#: admin/prayer-field-content.php:667
+#: admin/prayer-field-content.php:665
 msgid "For the lost"
 msgstr "为失丧的人"
 
-#: admin/prayer-field-content.php:675
+#: admin/prayer-field-content.php:673
 msgid "For the church"
 msgstr "为教会"
 
-#: admin/prayer-field-content.php:684
+#: admin/prayer-field-content.php:682
 msgid "For areas of influence"
 msgstr "为影响范围"
 
-#: admin/prayer-field-content.php:692
+#: admin/prayer-field-content.php:690
 msgid "Declaration of the scripture"
 msgstr "圣经的宣告"
