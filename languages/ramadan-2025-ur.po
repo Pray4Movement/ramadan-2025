@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple.Tools - Ramadan 2025 1.5.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2025\n"
-"POT-Creation-Date: 2025-02-04T14:38:41+00:00\n"
+"POT-Creation-Date: 2025-03-07T21:08:33+00:00\n"
 "PO-Revision-Date: 2024-12-25 16:00+0000\n"
 "Last-Translator: Kevin Fallah <kevin@christianlingua.com>\n"
 "Language-Team: Urdu <https://translate.disciple.tools/projects/pray4movement/"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Generator: Weblate 5.9.2\n"
 "X-Domain: ramadan-2025\n"
 
-#: admin/prayer-field-content.php:69
+#: admin/prayer-field-content.php:85
 msgid ""
 "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven."
 "\" (Matthew 5:3) ESV"
@@ -25,7 +25,7 @@ msgstr ""
 "\"مُبارک ہیں وہ جو دِل کے غریب ہیں کیونکہ آسمان کی بادشاہی اُن ہی کی ہے\" (متی "
 "۳:۵)۔"
 
-#: admin/prayer-field-content.php:70
+#: admin/prayer-field-content.php:86
 msgid ""
 "Islam is a works-based religion. The more faithfully Muslims practice the "
 "five pillars of Islam, the better their chances are of entering paradise. "
@@ -39,7 +39,7 @@ msgstr ""
 "کےمطابق دُعا کرتےہیں، خاص طور پر اِس بات پر توجہ مرکوز کریں کہ آسمانی بادشاہی "
 "میں داخل ہونے میںدِل  کا غریب  (عاجزی) کتنی ضروری ہے۔"
 
-#: admin/prayer-field-content.php:71
+#: admin/prayer-field-content.php:87
 msgid ""
 "Dina did everything she could to make herself clean before God, including "
 "wearing the niqab, her traditional Muslim head covering. She was so "
@@ -63,7 +63,7 @@ msgstr ""
 "راستبازی میں،  کام کرنے کی جگہ پر، خاندانوں اور علاقہ میں نمونہ کیسے بنایا "
 "جائے۔"
 
-#: admin/prayer-field-content.php:72
+#: admin/prayer-field-content.php:88
 msgid ""
 "Hejer said yes to being a housecleaner for one more household. The extra "
 "money would get her one step closer to the amount she needed to pay for the "
@@ -87,7 +87,7 @@ msgstr ""
 "وہ \"دِل کےغریب\" بن سکیں، اپنی  بے اختیاری کو قبول کر کے  خُدا کی خشنودی حاصل "
 "کرلیں۔"
 
-#: admin/prayer-field-content.php:73
+#: admin/prayer-field-content.php:89
 msgid ""
 "Throughout the Muslim world, churches and believers within those churches "
 "are viewed as inferior. Often, they have fewer rights and resources than the "
@@ -104,7 +104,7 @@ msgstr ""
 "اِنجیل  پیش کرسکیں، اِبتدائی کلیسیا کی مانند تضریب کاری  اور ترقی کریں، اُن کی "
 "کمزوریوں میں خُوش ہو کیونکہ اُن میں یسوع کی کامل قوت ہے۔"
 
-#: admin/prayer-field-content.php:74
+#: admin/prayer-field-content.php:90
 msgid ""
 "Pray for places of education in this area. Pray for students who hope that "
 "an education will lead to better jobs and better lives than their parents "
@@ -118,7 +118,7 @@ msgstr ""
 "کریں کہ وہ بیک وقت اُن کو دکھائے کہ بطور خُدا کے پیروکار اُن کی قدر بے پناہ ہے "
 "اور اُس کی شاندار میراث کی دولت صرف اُن کے لئے ہے جو \"دِل کےغریب ہیں\"۔"
 
-#: admin/prayer-field-content.php:75
+#: admin/prayer-field-content.php:91
 msgid ""
 "We declare your teaching, Jesus, that the poor in spirit are blessed among "
 "these people, for theirs is the kingdom of heaven. We pray for you to "
@@ -132,13 +132,13 @@ msgstr ""
 "ہیں کہ وہ فروتنی میں زندگی گزار سکتے ہیں کہ \"دِل کے غریب\" ہونے کا کیا مطلب "
 "ہے۔"
 
-#: admin/prayer-field-content.php:79
+#: admin/prayer-field-content.php:95
 msgid ""
 "\"Blessed are those who mourn, for they shall be comforted.\" (Matthew 5:4) "
 "ESV"
 msgstr "\"مُبارک ہیں وہ جو غمگین ہیں کیونکہ وہ تسلّی پائیں گے۔\"(متی۵‏‎:‏۴)۔"
 
-#: admin/prayer-field-content.php:80
+#: admin/prayer-field-content.php:96
 msgid ""
 "Excessive wailing and mourning at the death of a relative is prohibited in "
 "Islam. Each culture defines “excessive” differently. However, it's not rare "
@@ -155,7 +155,7 @@ msgstr ""
 "کا تجربہ ہُوا تو یسوع نے آپ کوکس طرح تسلی بخشی۔ غور کریں کہ مسلمانوں کو کس "
 "طرح شدید نقصان کا سامنا ہوسکتا ہے اور یسوع کی یہ باتیں کیسے اُمیددِلا سکتی ہیں۔"
 
-#: admin/prayer-field-content.php:81
+#: admin/prayer-field-content.php:97
 msgid ""
 "\"My brothers won't let me go see her. If we go to her grave now and ask "
 "Jesus, will he raise her from the dead?\" Leila's heartbroken question about "
@@ -184,7 +184,7 @@ msgstr ""
 "کا بازُو پکڑا۔ دُعا کریں کہ یہاں کے ایماندار اپنے غم میںیسوع کی نظروں سے محروم "
 "نہ ہوں بلکہ اُس سے فریاد کریں اور تسلی حاصل کریں۔"
 
-#: admin/prayer-field-content.php:82
+#: admin/prayer-field-content.php:98
 msgid ""
 "\"Say the Shehadda (the confession of being Muslim). It is your fault that "
 "he died.\" Deep grief, fear, and a desire for control caused Khalid to blame "
@@ -204,7 +204,7 @@ msgstr ""
 "کے لئے دعا کریں کہ وہ اپنی نا اُمیدی کے بوجھ کو محسوس کریں او رخُداوند کا نام "
 "پکاریں۔  باپ جو سُنتا اورقریب آتاہے اُس سے درخواست کریں کہ اُن کو تسلی بخشے۔"
 
-#: admin/prayer-field-content.php:83
+#: admin/prayer-field-content.php:99
 msgid ""
 "Pray for the church to know how to comfort unbelievers with the comfort they "
 "themselves have received from God. It is very difficult when parents die who "
@@ -231,7 +231,7 @@ msgstr ""
 "فہم عطا کِیا جِس کا اقرا ر کِیا گیا ہے یا جو ابھی پوشیدہ ہے۔ براہِ کرم اپنی "
 "کلیسیا کو یہ جاننے میں مدد کر کہ غم زدہ کو کیسے تسلی دینی ہے۔"
 
-#: admin/prayer-field-content.php:84
+#: admin/prayer-field-content.php:100
 msgid ""
 "Pray for places of education in this country. Pause to pray for teachers "
 "working among these people. So many of their students have experienced "
@@ -250,7 +250,7 @@ msgstr ""
 "خُداوند خُدا نے مُجھ کو شاگِرد کی زُبان بخشیتاکہ مَیں جانُوں کہ کلام کے وسِیلہ سے "
 "کِسطرح تھکے ماندے کی مدد کرُوں۔۔۔۔\"(یسعیاہ ۴:۵۰)۔"
 
-#: admin/prayer-field-content.php:85
+#: admin/prayer-field-content.php:101
 msgid ""
 "We believe and declare that you, Jesus, comfort those who mourn. You are the "
 "Man of Sorrows and acquainted with grief. As you \"lifted up and carried\" "
@@ -262,12 +262,12 @@ msgstr ""
 "قدِیم سے ہمیشہ\" (یسعیاہ ۶۳)  \"اُن کو لِئے پِھرا\"، اُس علاقے کے لوگوں کو جو "
 "ماتم کر رہے ہیں، اُٹھائیں اور ساتھ لے جائیں۔"
 
-#: admin/prayer-field-content.php:89
+#: admin/prayer-field-content.php:105
 msgid ""
 "\"Blessed are the meek, for they shall inherit the earth.\" (Matthew 5:5) ESV"
 msgstr "\"مُبارک ہیں وہ جو حلیم ہیں کیونکہ وہ زمین کے وارث ہوں گے\"(متی ۵:۵)۔"
 
-#: admin/prayer-field-content.php:90
+#: admin/prayer-field-content.php:106
 msgid ""
 "Meekness has several meanings: \"enduring injury without resentment,\" or "
 "\"humbly patient under provocation,\" or \"gentle; kind”. Jesus shows us "
@@ -293,7 +293,7 @@ msgstr ""
 "پر آنے کے لئے عظیم رتبہ  کو چھوڑا اور صلیب پر تحقیر کا نشانہ بنا۔  دعاکریں "
 "کہ لوگ زمین پر بے عزت ہونے کے لئے تیار ہوں تاکہ یسوع کو عزت اور جلال ملے۔"
 
-#: admin/prayer-field-content.php:91
+#: admin/prayer-field-content.php:107
 msgid ""
 "Pray for meekness for believers here. The world shouts that in order to have "
 "influence, you must have money and power. You must fight for your rights, "
@@ -313,7 +313,7 @@ msgstr ""
 "سکتے ہیں،  جو صابر ہیں وہی زمین کے وارث ہوں گے۔  حلیم اور پرہیز گار کا اثر "
 "طویل مُدت میں زبردست اور مطالبہ کرنے والے سے زیادہ ہوتا ہے۔"
 
-#: admin/prayer-field-content.php:92
+#: admin/prayer-field-content.php:108
 msgid ""
 "Just as the powerful centurion humbled himself before Jesus' authority when "
 "he recognized it (Matthew 8:5-13), pray for the lost in this area to come to "
@@ -327,7 +327,7 @@ msgstr ""
 "دعا کریں کہ اُن کو مسیحیوں کے ساتھ گفتگو کے مواقع میسر ہوں جو اُن کو یسوع کی "
 "راہ دِکھلا سکیں۔"
 
-#: admin/prayer-field-content.php:93
+#: admin/prayer-field-content.php:109
 msgid ""
 "Jesus sent out His followers as sheep among wolves. Pray for the church to "
 "model their trust in Jesus through living and acting with humility. Pray for "
@@ -338,7 +338,7 @@ msgstr ""
 "اور کام کرنے کے وسیلے سے یسوع پر توکل کا نمونہ قائم کریں۔  مسیحی قیادت کے "
 "لئے دعا کریں کہ وہ خادمانہ اور حلیم قائدین کا نمونہ بنیں۔"
 
-#: admin/prayer-field-content.php:94
+#: admin/prayer-field-content.php:110
 msgid ""
 "Pray for places of business in this area:\n"
 "- For employers to act with justice toward their employees.\n"
@@ -354,7 +354,7 @@ msgstr ""
 "خُدا کے لیے مسیحیحلیموں  کو اُبھارنے کے لیے جو خُدا کی تعظیم کرنے والے طریقوں "
 "سے یسوع کی حلیمی کی مثال بنیں گے۔"
 
-#: admin/prayer-field-content.php:98
+#: admin/prayer-field-content.php:114
 msgid ""
 "We declare your teaching, Jesus, that the meek are blessed, for they will "
 "inherit the earth. You \"oppose the proud but give grace to the "
@@ -368,7 +368,7 @@ msgstr ""
 " اَے خُدا! ہمیں تیرے فضل  کی ضرورت ہے۔ اِس علاقہ کے لوگ اپنے آپ کوخُدا کے تابع "
 "کریں،  تیرے نزدیک آئیں، اور فضل حاصل کریں۔"
 
-#: admin/prayer-field-content.php:104
+#: admin/prayer-field-content.php:120
 msgid ""
 "\"Blessed are those who hunger and thirst for righteousness, for they shall "
 "be satisfied.\" (Matthew 5:6) ESV"
@@ -376,7 +376,7 @@ msgstr ""
 "\" مُبارک ہیں وہ جو  راستبازی کے بُھوکے اور پِیاسے ہیں کیونکہ وہ آسُودہ ہوں "
 "گے\"(متی ۶:۵)۔"
 
-#: admin/prayer-field-content.php:105
+#: admin/prayer-field-content.php:121
 msgid ""
 "True righteousness is achieved only through the blood of Jesus, with him "
 "being \"made sin for us so that we might become the righteousness of "
@@ -401,7 +401,7 @@ msgstr ""
 "مسلمان اپنے آپ کو بچانے کے ناممکنات کا بوجھ محسوس کریں اور اِس کے برعکس صلیب "
 "کے ذریعے سچی  راستبازی کے بھوکے اور پیاسے ہوجائیں۔"
 
-#: admin/prayer-field-content.php:106
+#: admin/prayer-field-content.php:122
 msgid ""
 "The six children were jumping on beds, dreaming up imaginary houses for "
 "dolls, and talking all at once. But Asmae sat on the floor, her back against "
@@ -427,7 +427,7 @@ msgstr ""
 "داریوں اور خوف نے یسوع کی باتوں کو پڑھنا ایک طرف کر دِیا۔  اِیمانداروں کے لئے "
 "دعا کریں کہ وہ اپنی پہلی محبت کی طرف لَوٹیں اور صرف یسوع کے ساتھ مطمئن ہوں۔"
 
-#: admin/prayer-field-content.php:107
+#: admin/prayer-field-content.php:123
 msgid ""
 "Maryam sat at the shop, waiting for someone to weigh out herbs to help with "
 "her stomach issues. Five other women were there waiting, and having a "
@@ -464,7 +464,7 @@ msgstr ""
 "سُننے کے مشتاق ہیں۔  وہ بلا جھجھک پوچھ سکیں اور  خُدا کے فرزند بہادر ہو جائیں "
 "اور خوشخبری سُنانے سے نہ شرمائیں۔"
 
-#: admin/prayer-field-content.php:108
+#: admin/prayer-field-content.php:124
 msgid ""
 "Lord, we ask for you to purify your church, your bride. May the beauty of "
 "grace not lull anyone into thinking that you are tolerant of sin. Sin "
@@ -483,7 +483,7 @@ msgstr ""
 "لکڑی، گھاس، بھوسے کو جلا کر سونا اور چاندی چھوڑ دیں، مسیح کی راستبازی کے کام "
 "جو یسوع کی بنیاد پر بنائے گئے ہیں(۱-کرنتھیوں۳: ۱۲- ۱۳)۔"
 
-#: admin/prayer-field-content.php:109
+#: admin/prayer-field-content.php:125
 msgid ""
 "Pray for places of government in this region. Father, we ask for Daniels and "
 "Josephs in the government. We pray for blameless ones dressed in the "
@@ -505,7 +505,7 @@ msgstr ""
 "لئے دعا ہے کہ اُن پر جو  راستبازی ظاہر کی گئی ہے اُس کو دیکھ کر اُس کے بھوکے "
 "اور پیاسے ہوں اور یسوع کے پاس آئیں۔"
 
-#: admin/prayer-field-content.php:110
+#: admin/prayer-field-content.php:126
 msgid ""
 "Jesus, you alone can satisfy the deepest longings of our hearts. Today, we "
 "intercede on behalf of the people here, asking for you to stir a deep hunger "
@@ -526,13 +526,13 @@ msgstr ""
 " نرسوں میں۔\n"
 " اُن کو مواقع عطا فرما کہ وہ تجھے جانیں اور تجھ میں تسلی پائیں۔"
 
-#: admin/prayer-field-content.php:120
+#: admin/prayer-field-content.php:136
 msgid ""
 "\"Blessed are the merciful, for they shall receive mercy.\" (Matthew 5:7) ESV"
 msgstr ""
 "\" مُبارک ہیں وہ جو رحم دِل ہیں کیونکہ اُن پر رحم کِیا جائے گا۔\"(متی ۵:۷)۔"
 
-#: admin/prayer-field-content.php:121
+#: admin/prayer-field-content.php:137
 msgid ""
 "One of the 99 names of God that Muslims often reference is “God the "
 "Merciful.” It is the one hope many Muslims hold on to when they acknowledge "
@@ -553,7 +553,7 @@ msgstr ""
 "ہیں کہ مسیحی رحم کا کیا مطلب ہے تو ہم رحیم ہو سکتے ہیں کیونکہ ہم الرحیم "
 "الرحمٰن اور منصف خُدا پر توکل کرتے ہیں۔"
 
-#: admin/prayer-field-content.php:122
+#: admin/prayer-field-content.php:138
 msgid ""
 "One sister shook her head, accusingly reporting that she had seen another "
 "sister from her balcony pretending during Ramadan. \"She can't be a "
@@ -577,7 +577,7 @@ msgstr ""
 "کہ وہ ایک دوسرے پر رحم کرنے والے بنیں۔  وہ نہ صرف باپ سے رحم پائیں بلکہ ایک "
 "دوسرے پر بھی رحم کریں۔"
 
-#: admin/prayer-field-content.php:123
+#: admin/prayer-field-content.php:139
 msgid ""
 "As a believer looked into the eyes of her friend and apologized for bringing "
 "danger to her, this not-yet-believer extended mercy. \"I know that you are a "
@@ -599,7 +599,7 @@ msgstr ""
 "سے صاف ہونےکی ضرورت ہے۔  دعا کریں کہ وہ اوراُس جیسے لوگ(جو نیک بننے کی بہت "
 "کشش کرتےہیں) تسلیم کریں کہ اُن کو خُدا کی رحمت اور اِنصاف  کی ضرورت ہے۔"
 
-#: admin/prayer-field-content.php:124
+#: admin/prayer-field-content.php:140
 msgid ""
 "\"He has shown you, O mortal, what is good. And what does the Lord require "
 "of you? To act justly and to love mercy and to walk humbly with your God."
@@ -615,7 +615,7 @@ msgstr ""
 "کرے،  رحم کو پسند کرے اور آپ کے ساتھ حلیمی  سے چلے۔ دعا ہےکہ کلیسیا فروتنی، "
 "رحم دِلی،  اور معاشرے  میں اِنصاف کے ساتھ کام کرنے کے لئے پہچا نی جائے۔"
 
-#: admin/prayer-field-content.php:125
+#: admin/prayer-field-content.php:141
 msgid ""
 "Pray for places of religion in this area. Today, as Muslims enter mosques "
 "all over the region, pray for those entering to ponder God's mercy. As they "
@@ -634,7 +634,7 @@ msgstr ""
 "ہیں اُن کے واسطے دعا کریں۔ مسیحیوں کے لئے دعا کریں کہ یہ اپنے پڑوسیوں پر رحم "
 "کرنے میں جلدی کریں۔"
 
-#: admin/prayer-field-content.php:126
+#: admin/prayer-field-content.php:142
 msgid ""
 "James 3:17 says, \"But the wisdom from above is first pure, then peaceable, "
 "gentle, open to reason, full of mercy and good fruits, impartial and sincere."
@@ -648,12 +648,12 @@ msgstr ""
 "اَے خُدا! اِس خطے کو اپنی حکمت سے بھر دے- اُس حکمت سے جو رحمت سے بھری ہے۔  اِس "
 "آیت میں حکمت کی دیگر  تفصیلات اُن کو معمور کر دیں۔"
 
-#: admin/prayer-field-content.php:131
+#: admin/prayer-field-content.php:147
 msgid ""
 "“Blessed are the pure in heart, for they shall see God.\" (Matthew 5:8) ESV"
 msgstr "\" مُبارک ہیں وہ جو پاک دِل ہیں کیونکہ وہ خُدا کو دیکھیں گے۔\"(متی ۸:۵)۔"
 
-#: admin/prayer-field-content.php:132
+#: admin/prayer-field-content.php:148
 msgid ""
 "Traditional Islam does not teach about having a personal relationship with "
 "God. The idea that Jesus communicated in this sermon that those who are pure "
@@ -668,7 +668,7 @@ msgstr ""
 "جب مسیحیوں کو یسوع کے ذریعے خُدا کے ساتھ اپنے رشتے کی بات کرتے سُنتےہیں تو "
 "تجسس کریں۔"
 
-#: admin/prayer-field-content.php:133
+#: admin/prayer-field-content.php:149
 msgid ""
 "A pure heart means an undivided heart. All the dross has been exposed and "
 "removed. No corners of the soul are dedicated to idols. A Hand of Fatima on "
@@ -690,7 +690,7 @@ msgstr ""
 "اپنے فرزندوں کی روحوں میں سے بُتوں کو نکال دے۔ اُن کے دِل ایسے پاک ہوں جو زیادہ "
 "تر خُدا کو دیکھیں۔"
 
-#: admin/prayer-field-content.php:134
+#: admin/prayer-field-content.php:150
 msgid ""
 "The only way to a pure heart is through the blood of Jesus. Outward "
 "cleansing is highly valued in Islam, and people often speak of hearts that "
@@ -723,7 +723,7 @@ msgstr ""
 "لئے تیرا شکر ہو۔ اِن قیمتی لوگوں کو یقین ہو جائے کہ تُو ایک ہی بار سب کے لئے "
 "مُوا تھا۔"
 
-#: admin/prayer-field-content.php:135
+#: admin/prayer-field-content.php:151
 msgid ""
 "\"Truly God is good to Israel,\n"
 "to those who are pure in heart.\n"
@@ -767,7 +767,7 @@ msgstr ""
 "\"گو میرا جِسم اور میرا دِل زائل ہو جائیں\n"
 "تَو بھی خُدا ہمیشہ میرے دِل کی قُوّت اور میرابخرہ ہے\"(زبور ۷۳: ۲۳-۲۶)۔‎ ‎\n"
 
-#: admin/prayer-field-content.php:153
+#: admin/prayer-field-content.php:169
 msgid ""
 "Pray for places of education in this area. Pray for children in schools to:\n"
 "- Be protected from evil, abuse, inappropriate images, and unwelcome "
@@ -787,7 +787,7 @@ msgstr ""
 "سوچنے کی دلیری ملے۔\n"
 " ایسے تصورات سے  بچیں جو اُن کے چھوٹےذہنوں کے لئے بہت زیادہ ہیں۔"
 
-#: admin/prayer-field-content.php:158
+#: admin/prayer-field-content.php:174
 msgid ""
 "We declare that purity be seen in servants of God:\n"
 "\n"
@@ -813,7 +813,7 @@ msgstr ""
 "پاکیزگی، علم،  صبر، مہربانی، رُوح القدس، سچی محبت، سچائی سے بھری تقریر اور "
 "تیری قُدرت ہو۔"
 
-#: admin/prayer-field-content.php:166
+#: admin/prayer-field-content.php:182
 msgid ""
 "“Blessed are the peacemakers, for they shall be called sons of God."
 "\" (Matthew 5:9) ESV"
@@ -821,7 +821,7 @@ msgstr ""
 "\" مُبارک ہیں وہ جو صُلح کراتے ہیں کیونکہ وہ خُدا کے بیٹے کہلائیں گے\"(متی ۵: "
 "۹)۔"
 
-#: admin/prayer-field-content.php:167
+#: admin/prayer-field-content.php:183
 msgid ""
 "The most common greeting across the Muslim world is Salam (Peace). Hearts "
 "long for peace and even fight for peace, but peace is only found through the "
@@ -841,7 +841,7 @@ msgstr ""
 "خوف زدہ لوگوں کے پاس جائیں خوشخبری لا کر صلح کرانے والے بنیں۔ خُدا عظیم صلح "
 "کرنے والا ہے۔"
 
-#: admin/prayer-field-content.php:168
+#: admin/prayer-field-content.php:184
 msgid ""
 "It was just a Christian women’s craft party, but the tension was palpable. "
 "It always was when she was there. “I’ve got to do better than this,” Sonia "
@@ -878,7 +878,7 @@ msgstr ""
 "دُنیا کا حقیقی نُور،  امن کا شہزادہ کام کر رہا تھا، \"تُمہارا کیا حال ہے میری "
 "بہن؟\"۔"
 
-#: admin/prayer-field-content.php:169
+#: admin/prayer-field-content.php:185
 msgid ""
 "“You don’t know the REAL Hesna,” Ali spat his sister’s name out of his "
 "mouth.  His face clouded over as he recalled their terrible fight after "
@@ -903,7 +903,7 @@ msgstr ""
 "میلاد ُ النبی ؐ اور (ہیپی برتھ ڈے) کا گانا سُنتے تھے،  لیکن ایک دوسرے کے ساتھ "
 "بیٹھ کر صلح کی اِیماندارانہ گفتگو سے سراسر اِنکار ی تھے۔"
 
-#: admin/prayer-field-content.php:170
+#: admin/prayer-field-content.php:186
 msgid ""
 "Pray that the \"God of peace would soon crush Satan\" (Romans 16:20) and "
 "bring eternal peace. Satan is the accuser, the liar, the one who whispers "
@@ -919,7 +919,7 @@ msgstr ""
 "تسکین دے کر مطمئن کرلیں\" (زبور ۱۳۱: ۲)۔ اُن سے کہیں کہ خُداوند پرآس رکھو،  "
 "اطمینان میں رہو اور سلامتی لانے والےبنو۔"
 
-#: admin/prayer-field-content.php:171
+#: admin/prayer-field-content.php:187
 msgid ""
 "Pray for places of community in this area. Pray for sports clubs to:\n"
 "- be places where Christians can build relationships with Muslims and model "
@@ -936,7 +936,7 @@ msgstr ""
 "بادشاہی\" کا مزہ چکھنےاور  دیکھنے\" کے مواقع فراہم کریں۔\n"
 " ایسی جگہیں بن جائیں جہاں پر  مسیحی مسیح کی سلامتی کے موافق جئیں۔"
 
-#: admin/prayer-field-content.php:175
+#: admin/prayer-field-content.php:191
 msgid ""
 "When movements to Christ happen among a people group, everything gets "
 "multiplied: churches, disciples, obedience, leaders, intercessors, disciple-"
@@ -953,7 +953,7 @@ msgstr ""
 "ہم متحد ہو کر اعلان کرتے ہیں\" خُدا اور ہمارے خُداوند یِسُوعؔ کی پہچان کے سبب سے "
 "فضل اور اِطمِینان تُمہیں زِیادہ ہوتا رہے\" (۲-پطرس ۱: ۲) اِن قیمتی لوگوں کے لئے۔"
 
-#: admin/prayer-field-content.php:181
+#: admin/prayer-field-content.php:197
 msgid ""
 "“Blessed are those who are persecuted for righteousness' sake, for theirs is "
 "the kingdom of heaven.\" (Matthew 5:10) ESV"
@@ -961,7 +961,7 @@ msgstr ""
 "\" مُبارک ہیں وہ جو  راستبازی کے سبب سے ستائے گئے ہیںکیونکہ آسمان کی بادشاہی "
 "اُن ہی کی ہے\"(متی ۵: ۱۰)۔"
 
-#: admin/prayer-field-content.php:182
+#: admin/prayer-field-content.php:198
 msgid ""
 "Throughout most of the Muslim world, Christians are persecuted for their "
 "faith. This persecution causes many Christians from Muslim backgrounds or "
@@ -978,7 +978,7 @@ msgstr ""
 "ڈر اُنہیں مسیح کی پیروی میں آگے بڑھنے سے روک دیتا ہے۔  یسوع کا وعدہ کہ\"مُبارک "
 "ہیں وہ جو ستائے گئے\"آج آپ کے دعائیہ وقت میں راہنمائی کرے۔"
 
-#: admin/prayer-field-content.php:183
+#: admin/prayer-field-content.php:199
 msgid ""
 "Pray that God's children who are right now in prison because of their faith "
 "in Jesus would remember and believe the truth of Jesus' words. \"Blessed are "
@@ -999,7 +999,7 @@ msgstr ""
 "مُبارک ہیں کیونکہ اُس نے یہ اعلان کِیا ہے۔ دعا کریں کہ ہر کوئی خُدا کی حضوری کی "
 "مٹھاس اور \"اُس کے د ُکھ  میں شراکت\" کے معنی کو زیادہ سے زیادہ جان سکے۔"
 
-#: admin/prayer-field-content.php:184
+#: admin/prayer-field-content.php:200
 msgid ""
 "When the oppressors strike the faces of believers, may their hearts be "
 "stricken by the grace and light of Jesus in the face of his children. May "
@@ -1017,7 +1017,7 @@ msgstr ""
 "توکل کو دیکھ کر حیران ہو جائیں۔  اُن کوفلپی جیل کے داروغہ کے ساتھ کہنے دو "
 "\"مَیں کیا کروں کہ نجات پاؤں؟\""
 
-#: admin/prayer-field-content.php:185
+#: admin/prayer-field-content.php:201
 msgid ""
 "One of the most difficult things for the persecuted church all over the "
 "world is gathering faithfully. Believers who have not yet told their "
@@ -1038,7 +1038,7 @@ msgstr ""
 "جمع ہونے کے لئے حکمت اور دلیری مل جائے۔  کلیسیا یسوع کا حکم ماننے کے لئے "
 "تیار ہو چاہے اُن کو دھوکے سے قید کِیا جائے۔ یسوع اِس قابل ہے۔"
 
-#: admin/prayer-field-content.php:186
+#: admin/prayer-field-content.php:202
 msgid ""
 "Pray for places of business in this region:\n"
 " - Pray for employers who would esteem their Christian employees because of "
@@ -1057,7 +1057,7 @@ msgstr ""
 " جن کاروباری جگہوں پر مسیحیوں کو ستایا جاتا ہے وہاں کے مالکوں کے لئے دعا "
 "کریں کہ وہ اپنے اِس جرم سے توبہ کریں۔"
 
-#: admin/prayer-field-content.php:190
+#: admin/prayer-field-content.php:206
 msgid ""
 "Persecution can accelerate movements when it results in greater boldness "
 "among believers: \"And there arose on that day a great persecution against "
@@ -1078,7 +1078,7 @@ msgstr ""
 "ایذا رسانی کا سامنا کرنے کے لئے  ثابت قدم رہیں اور  دعا کریں کہ خُدا ایذا "
 "رسانی سے محفوظ رکھے جو اِنجیل کے نئےکاموں کو تباہ کر دے گی۔"
 
-#: admin/prayer-field-content.php:194
+#: admin/prayer-field-content.php:210
 msgid ""
 "“Blessed are you when others revile you and persecute you and utter all "
 "kinds of evil against you falsely on my account. Rejoice and be glad, for "
@@ -1090,7 +1090,7 @@ msgstr ""
 "ہونا کیونکہ آسمان پر تُمہارا اجر بڑا ہے اِس لِئے کہ لوگوں نے اُن نبِیوں کو بھی جو "
 "تُم سے پہلے تھے اِسی طرح ستایا تھا\"(متی ۵: ۱۱- ۱۲)۔"
 
-#: admin/prayer-field-content.php:195
+#: admin/prayer-field-content.php:211
 msgid ""
 "Throughout the Muslim world, Christians are falsely accused of worshiping "
 "three gods or of teaching that God and the Virgin Mary had a sexual "
@@ -1112,7 +1112,7 @@ msgstr ""
 "کے لئے دعا کریں کہ اُن کے دِل ایذا رسانی پر مسیحیوں کے ردِ عمل کو دیکھ کر نرم "
 "ہو جائیں۔"
 
-#: admin/prayer-field-content.php:196
+#: admin/prayer-field-content.php:212
 msgid ""
 "We pray today for the believers who are afraid to declare that they stand "
 "with Jesus. For those who have been falsely accused of conspiring against "
@@ -1132,7 +1132,7 @@ msgstr ""
 "اُٹھائے، کہ مصیبتوں کی صلیب اُٹھانا اور یسوع کے پیچھے چلنا ایک اعزاز اور نعمت "
 "ہے۔"
 
-#: admin/prayer-field-content.php:197
+#: admin/prayer-field-content.php:213
 msgid ""
 "Father, we pray for those who are persecuting your children. For those who "
 "have uttered evil against them falsely. We pray that they will see the good "
@@ -1153,7 +1153,7 @@ msgstr ""
 "کے لئے کھانا لاتے ہیں، جو عدالتوں میں گواہیاں دیتے ہیں، اور جو تیرے فرزندوں "
 "کو اُن کے گھروں میں دھمکاتےہیں۔ہم اُن کے لئے زِندگی مانگتے ہیں اَے یسوع۔"
 
-#: admin/prayer-field-content.php:198
+#: admin/prayer-field-content.php:214
 msgid ""
 "\"To the present hour we hunger and thirst, we are poorly dressed and "
 "buffeted and homeless, and we labor, working with our own hands. When "
@@ -1179,7 +1179,7 @@ msgstr ""
 "ظلم کرنےوالوں کے لئے برکت،  مشکلات میں برداشت، \n"
 " تسلی اور حوصلہ مانگتے ہیں۔"
 
-#: admin/prayer-field-content.php:203
+#: admin/prayer-field-content.php:219
 msgid ""
 "Pray for places of government in this region. Pray for:\n"
 "- compassionate judges to preside over cases against Christians in which "
@@ -1197,7 +1197,7 @@ msgstr ""
 "سرکاری افسران رِشوت خوری سے اِنکار کریں اور اپنے شہریوں حتیٰ کہ مسیحیوں کے ساتھ "
 "بھی اِنصاف کریں۔"
 
-#: admin/prayer-field-content.php:207
+#: admin/prayer-field-content.php:223
 msgid ""
 "\"When he was reviled, he did not revile in return; when he suffered, he did "
 "not threaten, but continued entrusting himself to him who judges justly. He "
@@ -1221,7 +1221,7 @@ msgstr ""
 "پر سرمایہ کاری کریں اور جب نئے شاگرد بنائیں اور پھر وہ آگے جاکر وہی کام کریں "
 "تو یہ نمونہ دوسروں میں منتقل کرتے جائیں۔"
 
-#: admin/prayer-field-content.php:212
+#: admin/prayer-field-content.php:228
 msgid ""
 "“You are the salt of the earth, but if salt has lost its taste, how shall "
 "its saltiness be restored? It is no longer good for anything except to be "
@@ -1231,7 +1231,7 @@ msgstr ""
 "جائے گا؟ پِھر وہ کِسی کام کا نہیں سِوا اِس کے کہ باہر پَھینکا جائے اور آدمِیوں کے "
 "پاؤں کے نِیچے رَوندا جائے\" (متی ۵: ۱۳)۔"
 
-#: admin/prayer-field-content.php:213
+#: admin/prayer-field-content.php:229
 msgid ""
 "Most people who lead Muslims to put their faith in Christ talk about how "
 "many different conversations, supernatural experiences, and divine "
@@ -1249,7 +1249,7 @@ msgstr ""
 "اپنی روز مرّہ زِندگی میں سوشل میڈیا پر، اِنجیل کی بشارت پر مبنی ٹی وی پرگراموں "
 "میں، اور بہت سی جگہوں پر زمین کا نمک بن رہےہیں۔"
 
-#: admin/prayer-field-content.php:214
+#: admin/prayer-field-content.php:230
 msgid ""
 "Oh Jesus, let your children retain their saltiness.  We pray that believers "
 "will abide in you, lingering long in your presence, listening to you and "
@@ -1265,7 +1265,7 @@ msgstr ""
 "بدل سکے۔  اُن کو مسیح اور اُس کی مصلوبیت کی منادی  کرنے دے چاہے وہ خوف کے ساتھ "
 "اور کاپنتے ہُوئے ہی کریں۔"
 
-#: admin/prayer-field-content.php:215
+#: admin/prayer-field-content.php:231
 msgid ""
 "Lord, you see each person wounded by sin in this area.  You know each one "
 "that is living a tasteless life that has no meaning because they do not know "
@@ -1290,7 +1290,7 @@ msgstr ""
 "کریں اور تیرے خُون کے وسیلے پاک صاف ہو جائیں۔  اُنکو ذائقہ چکھنے اور دیکھنے دے "
 "کہ تُو بھلا ہے۔"
 
-#: admin/prayer-field-content.php:216
+#: admin/prayer-field-content.php:232
 msgid ""
 "Jesus' parallel teaching on this passage in Mark 9:50 gives an interesting "
 "twist, \"Salt is good, but if the salt has lost its saltiness, how will you "
@@ -1312,7 +1312,7 @@ msgstr ""
 "دعا گو ہیں جو کلیسیائیں شروع کریں گی کہ وہ ایک دوسرے کے ساتھ صلح سلامتی سے "
 "رہیں۔"
 
-#: admin/prayer-field-content.php:217
+#: admin/prayer-field-content.php:233
 msgid ""
 "Pray for places of religion among these people. Pray for Quranic classes "
 "where children go to memorize the Quran and learn the basics of Islam. Pray "
@@ -1333,7 +1333,7 @@ msgstr ""
 " جن لوگوں نے اِن کلاسز میں شرکت کی اور قرآن حفظ کِیا اُن کو یسوع کے پیروکار جو "
 "\"زمین کے نمک\" کے طور پر رہتے ہیں سے ملنے کے مواقع فراہم کئے جائیں۔"
 
-#: admin/prayer-field-content.php:221
+#: admin/prayer-field-content.php:237
 msgid ""
 "God we declare Colossians 4:6 for believers among this people. \"Let your "
 "speech always be gracious, seasoned with salt, so that you know how you "
@@ -1354,7 +1354,7 @@ msgstr ""
 "فرما کہ آئندہ خُدا کے کلام کے بارے میں امن پسند شخص سے ہونے والے تبادلہ "
 "خیالات  میں دوسروں کوبھی مدعوکریں۔"
 
-#: admin/prayer-field-content.php:227
+#: admin/prayer-field-content.php:243
 msgid ""
 "“You are the light of the world. A city set on a hill cannot be hidden. Nor "
 "do people light a lamp and put it under a basket, but on a stand, and it "
@@ -1368,7 +1368,7 @@ msgstr ""
 "نیک کاموں کو دیکھ کر تُمہارے باپ کی جو آسمان پر ہے تمجِید کریں\"(متی ۵: ۱۴- "
 "۱۶)۔"
 
-#: admin/prayer-field-content.php:228
+#: admin/prayer-field-content.php:244
 msgid ""
 "Many Muslims equate western culture with Christianity and assume all "
 "westerners are Christians. As a result they see evil deeds and immoral "
@@ -1386,7 +1386,7 @@ msgstr ""
 "بغَیر اَعمال کے تو مُجھے دِکھا اور مَیں اپنا اِیمان اَعمال سے تُجھے دِکھاؤُں "
 "گا\" (یعقوب ۲: ۱۸)۔"
 
-#: admin/prayer-field-content.php:229
+#: admin/prayer-field-content.php:245
 msgid ""
 "A young woman was working with children with disabilities. As she and a "
 "young boy drew a picture of a large hand reaching down from bright light "
@@ -1406,7 +1406,7 @@ msgstr ""
 "مان لیتے ہیں تو اُن کو اِسلام کی پیروی کا دِکھاوا کرنے سے باز رکھ۔ دوسرے لوگ اُن "
 "کی فرمانبرداری اور  نُور کی بادشاہی میں آنے کی خواہش کو دیکھیں۔"
 
-#: admin/prayer-field-content.php:230
+#: admin/prayer-field-content.php:246
 msgid ""
 "So many are looking “to the earth, but behold, distress and darkness, the "
 "gloom of anguish.”(Isaiah 8:22) ESV Nevertheless, the time of darkness and "
@@ -1429,7 +1429,7 @@ msgstr ""
 "راستہ دِکھاتی ہے۔ یہاں کے لوگ تیرے فرزندوں کے اچھے کام دیکھیں او ر خُدا کی  "
 "روشنی کی طرف رجوع لائیں۔"
 
-#: admin/prayer-field-content.php:232
+#: admin/prayer-field-content.php:248
 msgid ""
 "Jesus said, \"I am the light of the world. Whoever follows me will not walk "
 "in darkness, but will have the light of life.\" (John 8:12) ESV We pray for "
@@ -1443,7 +1443,7 @@ msgstr ""
 "نُور ہے۔ یسوع سے دعا کریں کہ وہ اپنی کلیسیا کو قوت بخشے تاکہ وہ  تاریک ترین "
 "علاقوں میں زِندگی کی روشنی رکھیں۔"
 
-#: admin/prayer-field-content.php:233
+#: admin/prayer-field-content.php:249
 msgid ""
 "Pray for places of education in this area. Pray for universities to be "
 "places where:\n"
@@ -1460,7 +1460,7 @@ msgstr ""
 "دوست مِل کر بائبل اور اِس کی تعلیمات  پر تحقیقات کا سفر شروع کریں۔\n"
 "مسیحی طلبا اپنے ہاسٹلز، کلاسز اور کلبوں میں دُنیا کا نُور بن جائیں۔"
 
-#: admin/prayer-field-content.php:237
+#: admin/prayer-field-content.php:253
 msgid ""
 "Father, may Christians live out the reality that they are the light of the "
 "world. We pray for their light to shine before others so that Muslims they "
@@ -1480,7 +1480,7 @@ msgstr ""
 "متجسس مسلمانوں کودوستوں یا خاندان کے ساتھ بائبل کے مطالعہ کی دعوت دیں اور اُس "
 "کو دریافت کرنا شروع کریں جو دُنیا کا حقیقی نُور ہے۔"
 
-#: admin/prayer-field-content.php:241
+#: admin/prayer-field-content.php:257
 msgid ""
 "“Do not think that I have come to abolish the Law or the Prophets; I have "
 "not come to abolish them but to fulfill them. For truly, I say to you, until "
@@ -1502,7 +1502,7 @@ msgstr ""
 "اور فرِیسِیوں کی  راستبازی سے زِیادہ نہ ہو گی تو تُم آسمان کی بادشاہی میں ہرگِز "
 "داخِل نہ ہو گے\"(متی ۵: ۱۷- ۲۰)۔"
 
-#: admin/prayer-field-content.php:242
+#: admin/prayer-field-content.php:258
 msgid ""
 "The Islamic doctrine of abrogation means that some verses in the Quran can "
 "be \"canceled out\" by later verses. This is contrary to the unchanging "
@@ -1528,7 +1528,7 @@ msgstr ""
 "کے لوگ  خُدا کی غیر متبدل فطرت کو دیکھ    سکیں  کہ اُس کے لئےجھوٹ بولنا ناممکن "
 "ہے، اور اُس کو اپنی  جانوں کا لنگر بنائیں۔"
 
-#: admin/prayer-field-content.php:243
+#: admin/prayer-field-content.php:259
 msgid ""
 "Pray that as new believers increase in knowledge and understanding of the "
 "Word of God, they will see both the freedom from empty rituals and the "
@@ -1550,7 +1550,7 @@ msgstr ""
 "راستبازی خُدا کی پاک محبت سے پیدا ہوتی ہے جس نے ہم سے پہلے محبت کی اور  بدلے "
 "میں ہم خُدا اور اِنسان دونوں سے محبت رکھتے ہیں۔"
 
-#: admin/prayer-field-content.php:244
+#: admin/prayer-field-content.php:260
 msgid ""
 "Father, let the lost recognize that the Scriptures are true. We declare that "
 "the Word of the Lord endures forever and we pray against the schemes of the "
@@ -1583,7 +1583,7 @@ msgstr ""
 "کلام کرتا ہے اور وہ جھوٹ نہیں بول سکتا۔ وہ      اپنےآپ کو ہم پر منکشف کرتا "
 "ہے کیونکہ وہ چاہتاہے کہ ہم اُسے زیادہ سے زیادہ جانیں۔"
 
-#: admin/prayer-field-content.php:245
+#: admin/prayer-field-content.php:261
 msgid ""
 "Pray for the church, meeting openly or underground, no matter the size, to "
 "be filled with sinners who confess that only through the righteousness of "
@@ -1601,7 +1601,7 @@ msgstr ""
 "کو جو ابھی تک یسوع کو نہیں جانتے اپنی طرف متوجہ کریں  تاکہ وہ مزید جاننا "
 "چاہیں۔"
 
-#: admin/prayer-field-content.php:246
+#: admin/prayer-field-content.php:262
 msgid ""
 "Pray for places of community among this people. Pray for every neighborhood "
 "to:\n"
@@ -1621,7 +1621,7 @@ msgstr ""
 " اُس کے اندر کلیسیا(بائبلی کلیسیا) ہو  جو ہر کسی کو اُس  راستبازی کا راستہ "
 "دکھائے جو ہم صرف مسیح کے وسیلے سے حاصل کر سکتے ہیں۔"
 
-#: admin/prayer-field-content.php:250
+#: admin/prayer-field-content.php:266
 msgid ""
 "Lord, we ask for Muslims in this place to see examples of true followers of "
 "Christ who:\n"
@@ -1646,7 +1646,7 @@ msgstr ""
 "لوگوں کو اُبھار کہ وہ بائبل میں سے تخلیق سے لے کر مسیح تک خُدا کے منصوبہء نجات "
 "کو سمجھنے کی غرض سے دوستوں اور خاندان کے افرد کو جمع کریں۔"
 
-#: admin/prayer-field-content.php:258
+#: admin/prayer-field-content.php:274
 msgid ""
 "“You have heard that it was said to those of old, ‘You shall not murder; and "
 "whoever murders will be liable to judgment.’ But I say to you that everyone "
@@ -1673,7 +1673,7 @@ msgstr ""
 "اور تُو قَید خانہ میں ڈالا جائے۔ مَیں تُجھ سے سچ کہتا ہُوں کہ جب تک تُو کَوڑی کَوڑی "
 "ادا نہ کر دے گا وہاں سے ہرگِز نہ چُھوٹے گا\"(متی ۵: ۲۱- ۲۶)۔"
 
-#: admin/prayer-field-content.php:259
+#: admin/prayer-field-content.php:275
 msgid ""
 "Hunger, thirst, and more often nicotine withdrawals during the Ramadan fast "
 "can make people argumentative and hostile in the afternoon hours leading up "
@@ -1698,7 +1698,7 @@ msgstr ""
 "تجربہ ہُوا ہے دعا کریں کہ اُس کو خوشخبری سُننے کا موقع ملے  کہ اُن کو یسوع کے "
 "مرنے، دفن ہونے اورمُردوں میں سے جی اُٹھنے کے وسیلے معافی مل سکتی ہے۔"
 
-#: admin/prayer-field-content.php:260
+#: admin/prayer-field-content.php:276
 msgid ""
 "\"How dare she take her 'liberty in Christ' to mean she can live like an "
 "immoral woman -- going out at night with men, drinking...?\" Ahmed fumed. "
@@ -1720,7 +1720,7 @@ msgstr ""
 "کو اُن سے کچھ اختلاف ہے۔ دعا کریں کہ آج وہ جائیں،  معافی مانگیں،  معاف کریں "
 "اور ایک دوسرے سے یسوع کے نام میں صلح کریں۔"
 
-#: admin/prayer-field-content.php:261
+#: admin/prayer-field-content.php:277
 msgid ""
 "Lord, we pray for those who are quick to anger and quick to ridicule. Let "
 "them see and understand that they cannot control others, nor can they be "
@@ -1740,7 +1740,7 @@ msgstr ""
 "ملاقات \"مسیح کے سفیروں\" سے کر ادے جو\" مسِیح کی طرف سے مِنّت کرتے ہیں کہ خُدا "
 "سے میل مِلاپ کر\"(۲- کرنتھیوں ۴: ۲۰)۔"
 
-#: admin/prayer-field-content.php:262
+#: admin/prayer-field-content.php:278
 msgid ""
 "Pride and comparison cause deep hurt in the hearts of God's children who are "
 "working in the fields and longing for harvest. When hurt leads to anger and "
@@ -1760,7 +1760,7 @@ msgstr ""
 "لائے کہ (باپ) نے (یسوع) کو بھیجا ہے\"(یوحنا۱۷: ۲۰- ۲۱)۔ خوشخبری واضح طور پر "
 "حلیمی، توبہ اور یگانگتمیںبیانکیجائے۔"
 
-#: admin/prayer-field-content.php:263
+#: admin/prayer-field-content.php:279
 msgid ""
 "Pray for places of business in this place.\n"
 "\n"
@@ -1787,7 +1787,7 @@ msgstr ""
 "رکھیں۔اُن کے لئے دعا کریں کہ وہ مسیح کے وسیلے سے خُدا کے ساتھ      میل ملاپ کا "
 "تجربہ کریں  جو اُن کو دوسروں کے ساتھ مفاہمت کو بڑھاوا دینے کی طاقت دیتا ہے۔"
 
-#: admin/prayer-field-content.php:268
+#: admin/prayer-field-content.php:284
 msgid ""
 "Today, may the people of this land experience the new life Jesus came to "
 "give us. May they walk in his transforming power to:\n"
@@ -1808,7 +1808,7 @@ msgstr ""
 " ایک دوسرے پر مہربان اور نرم دل ہو۔جس طرح  خُدا نے مسیح میں تُمہارے قصور معاف "
 "کئے ہیں تم بھی ایک دوسرے کے قصور معاف کرو(افسیوں ۴: ۲۶- ۳۲)۔"
 
-#: admin/prayer-field-content.php:276
+#: admin/prayer-field-content.php:292
 msgid ""
 "“You have heard that it was said, ‘You shall not commit adultery.’ But I say "
 "to you that everyone who looks at a woman with lustful intent has already "
@@ -1828,7 +1828,7 @@ msgstr ""
 "تیرے اعضا میں سے ایک جاتا رہے اور تیرا سارا بدن جہنّم میں نہ جائے\"(متی ۵: "
 "۲۷- ۳۰)۔"
 
-#: admin/prayer-field-content.php:277
+#: admin/prayer-field-content.php:293
 msgid ""
 "Mohammed said that it was permitted to have four wives if all were treated "
 "equally. He himself had at least 11 wives. Many were widows or prisoners of "
@@ -1847,7 +1847,7 @@ msgstr ""
 "محبت کی خوبصورتی کو ظاہر کرتا ہے جو یسوع کلیسیا سے رکھتا ہے۔ دعا کریں کہ "
 "شادی کی خوبصورتی اور وفاداری کی سچائی اِس سرزمین پر ظاہر ہو جائے۔"
 
-#: admin/prayer-field-content.php:278
+#: admin/prayer-field-content.php:294
 msgid ""
 "\"Pay attention to this. See what Scripture says,\" one woman said to her "
 "husband. We were reading this passage together with a new believing couple "
@@ -1865,7 +1865,7 @@ msgstr ""
 "جو نہ صرف سچ بولتے ہیں،  بلکہ معاف بھی کرتے ہیں۔  دعا کریں کہ خُدا شادیوں کو "
 "خوشی اور وفاداری کی ایک خوبصورت تصویر بننے کے لئے مضبوط کر دے۔"
 
-#: admin/prayer-field-content.php:279
+#: admin/prayer-field-content.php:295
 msgid ""
 "\"My husband took the cologne I gave him, went to the neighboring country, "
 "and used it to woo and marry another woman.\" Sumayah was crushed and asked "
@@ -1887,7 +1887,7 @@ msgstr ""
 "سُننے کے لئے تیار ہوں۔ خُدا مسیح کی قربانی کی خوبصورتی کو ظاہر کرکے شادیوں میں "
 "اُمید اور شِفا بخشے۔"
 
-#: admin/prayer-field-content.php:280
+#: admin/prayer-field-content.php:296
 msgid ""
 "We pray for the church of this place to live out 1 Thessalonians 4:3-7. May "
 "the church: \n"
@@ -1904,7 +1904,7 @@ msgstr ""
 "کرنا جانتے ہیں خُدا سے ناواقف غیر قوموں کی طرح  شہوت پرستی کے جذبہ سے نہیں۔ \n"
 " جو جانتے ہیں کہ خُدا نے اُن کو ناپاکی کے لئے نہیں بلکہ پاکیزگی کےلئے بُلایا ہے۔"
 
-#: admin/prayer-field-content.php:285
+#: admin/prayer-field-content.php:301
 msgid ""
 "Pray for places of religion.\n"
 "\n"
@@ -1924,7 +1924,7 @@ msgstr ""
 "ہو جائیں بے شک ابھی اُس کا نتیجہ گُنہگار اعمال میں نہ نکلا ہو اور اپنی شرمساری "
 "کا حل تلاش کرنےکے خواہاں ہوجائیں۔"
 
-#: admin/prayer-field-content.php:289
+#: admin/prayer-field-content.php:305
 msgid ""
 "Jesus, you want to give us better than what the world offers. We pray for "
 "you to soften the hearts of Muslim men and women throughout this land to "
@@ -1948,7 +1948,7 @@ msgstr ""
 "کی طرف سے ہے۔ دُنیا اور اُس کی خواہِش دونوں مِٹتی جاتی ہیں لیکن جو خُدا کی مرضی "
 "پر چلتا ہے وہ ابد تک قائِم رہے گا\"۔"
 
-#: admin/prayer-field-content.php:295
+#: admin/prayer-field-content.php:311
 msgid ""
 "“It was also said, ‘Whoever divorces his wife, let him give her a "
 "certificate of divorce.’ But I say to you that everyone who divorces his "
@@ -1961,7 +1961,7 @@ msgstr ""
 "سبب سے چھوڑ دے وہ اُس سے زِنا کراتا ہے اور جو کوئی اُس چھوڑی ہُوئی سے بیاہ کرے "
 "وہ زِنا کرتا ہے\"(متی ۵: ۳۱- ۳۲)۔"
 
-#: admin/prayer-field-content.php:296
+#: admin/prayer-field-content.php:312
 msgid ""
 "Divorce, though taboo, is also common in the Muslim world. Women especially "
 "face significant hardship and social shame following a divorce. As we pray "
@@ -1977,7 +1977,7 @@ msgstr ""
 "اور مکمل ہونے کا پتا چل جائے  جو شادی میں محبت اور اعتماد کی زِندگی بھر کی "
 "وابستگی سے حاصل ہوتےہیں۔"
 
-#: admin/prayer-field-content.php:297
+#: admin/prayer-field-content.php:313
 msgid ""
 "\"Did you hear about Samia and Mahmoud?!”  This sister’s eyes widen with "
 "true sorrow at the recent news of a believing couple’s separation, which "
@@ -2003,7 +2003,7 @@ msgstr ""
 "بہت زیادہ ہے، اورمقامی کلیسیا کو اکثراپنے اِسلامی خاندان کے افراداور پڑوسیوں "
 "کے ساتھ مل کر نقصان اُٹھانا پڑتا ہے۔"
 
-#: admin/prayer-field-content.php:298
+#: admin/prayer-field-content.php:314
 msgid ""
 "“I can’t UN-hear what she said,” Thawraya half spat, and half wept out the "
 "words. How could she do this? “We treated her like a daughter; we gave her "
@@ -2040,7 +2040,7 @@ msgstr ""
 "دروازہ میں کھڑی اُس کے زخموں پر طنز کرتی ہے، اور یاد کرتی ہے کہ کیسے اُس کو ۱۳ "
 "سال کی عُمر میں دُلہن بنا یا گیا تھا۔۔۔"
 
-#: admin/prayer-field-content.php:300
+#: admin/prayer-field-content.php:316
 msgid ""
 "Pray for both the current and future church in this region to be a place "
 "where marriage between believers is honored, protected, and supported. Pray "
@@ -2061,7 +2061,7 @@ msgstr ""
 "رُجحان ثقافت کی                جگہ لےلے۔ دعاکریں کہ کلیسیا میں شادی دیکھنے "
 "والی دُنیا کے لئے مسیح کی اپنی کلیسیا کے ساتھ رشتہ کی تصویر بن جائے۔"
 
-#: admin/prayer-field-content.php:301
+#: admin/prayer-field-content.php:317
 msgid ""
 "Pray for places of government.\n"
 "\n"
@@ -2083,7 +2083,7 @@ msgstr ""
 " قانون سازوں کے واسطے دعا کریں کہ وہ شادی کی قدر کریں،  جب بھی ممکن ہو اُسے "
 "قائم رکھنے کی کوشش کریں اور متاثرین کے حقوق کی حفاظت کریں۔"
 
-#: admin/prayer-field-content.php:306
+#: admin/prayer-field-content.php:322
 msgid ""
 "\"But from the beginning of creation, 'God made them male and female.' "
 "Therefore, a man shall leave his father and mother and hold fast to his "
@@ -2108,7 +2108,7 @@ msgstr ""
 "تصدیق کرے۔اِس کے نتیجہ میں ایک ساتھ مسیح کی              طرف رجوع ہوں اوردیگر "
 "خاندانوں کو بھی تیری پیروی کرنےکی دعوت دیں۔"
 
-#: admin/prayer-field-content.php:310
+#: admin/prayer-field-content.php:326
 msgid ""
 "“Again you have heard that it was said to those of old, ‘You shall not swear "
 "falsely, but shall perform to the Lord what you have sworn.’ But I say to "
@@ -2126,7 +2126,7 @@ msgstr ""
 "کلام ہاں ہاں یا نہیں نہیں ہو کیونکہ جو اِس سے زِیادہ ہے وہ بدی سے ہے\"(متی ۵: "
 "۳۳- ۳۷)۔"
 
-#: admin/prayer-field-content.php:311
+#: admin/prayer-field-content.php:327
 msgid ""
 "Islam teaches that deception under certain circumstances is acceptable, and "
 "the effects of this teaching breeds mistrust—of God and of others. But the "
@@ -2146,7 +2146,7 @@ msgstr ""
 "ہو جائیں کہ اب اُنہیں لوگوں کو یقین دلانے کے لئے قسم کھانے کی ضرورت ہی نہ "
 "رہے۔ وہ ایسے ہو جائیں کہ اُن کی بات ہاں،  ہاں اور نہ،  نہ میں ہو۔"
 
-#: admin/prayer-field-content.php:312
+#: admin/prayer-field-content.php:328
 msgid ""
 "\"Lies are very useful sometimes. They smooth things over and make them "
 "easier, \" one new brother declared. Another said, \"I forgot to attend my "
@@ -2169,7 +2169,7 @@ msgstr ""
 "اور وہ آزادی تلاش کریں جو سچ بولنے سے حاصل ہوتی ہے۔ جھوٹ  کی پرانی مادری "
 "زبان بند ہو جائے،  اور ہر کوئی سچائی کی روح کی زبان بولے۔"
 
-#: admin/prayer-field-content.php:313
+#: admin/prayer-field-content.php:329
 msgid ""
 "While sharing food at a bus stop, one man told another to pick out anything "
 "he wanted to eat and assured him that he would cover the bill for them both. "
@@ -2190,7 +2190,7 @@ msgstr ""
 "ضروری اور خالی ہیں۔ مستقبل پر ہمارا اِختیار نہیں۔ اَے خُداوند ! ہم دعاگوہیں کہ "
 "یہ لوگ یسوع کے ذریعے بدل جائیں اور اعتماد کرنا سیکھیں۔"
 
-#: admin/prayer-field-content.php:314
+#: admin/prayer-field-content.php:330
 msgid ""
 "In the book of Acts, we see the early church confronted with a serious issue "
 "of dishonesty in the story of Ananias and Sapphira (Acts 5). God dealt "
@@ -2215,7 +2215,7 @@ msgstr ""
 "میں پَیدا کی گئی ہے۔پس جُھوٹ بولنا چھوڑ کر ہر ایک شخص اپنے پڑوسی سے سچ بولے "
 "کیونکہ ہم آپس میں ایک دُوسرے کے عُضو ہیں\"۔‎"
 
-#: admin/prayer-field-content.php:315
+#: admin/prayer-field-content.php:331
 msgid ""
 "Pray for places of education.\n"
 "\n"
@@ -2239,7 +2239,7 @@ msgstr ""
 "تو پورے تعلیمی نظام کے اندر زبان دینے اور اُس پر قائم رہنے کے نئے نمونے قائم "
 "ہوں۔"
 
-#: admin/prayer-field-content.php:320
+#: admin/prayer-field-content.php:336
 msgid ""
 "Jesus said to the woman at the well, \"But the hour is coming, and is now "
 "here, when the true worshipers will worship the Father in spirit and truth, "
@@ -2255,7 +2255,7 @@ msgstr ""
 "اور عورتوں کے لئے دعا کریں کہ وہ اُس عورت جیسے بنیں اور یسوع کی سچائی کے "
 "وسیلے سے بدل جائیں۔"
 
-#: admin/prayer-field-content.php:324
+#: admin/prayer-field-content.php:340
 msgid ""
 "“You have heard that it was said, ‘An eye for an eye and a tooth for a "
 "tooth.’ But I say to you, Do not resist the one who is evil. But if anyone "
@@ -2272,7 +2272,7 @@ msgstr ""
 "بیگار میں لے جائے اُس کے ساتھ دو کوس چلا جا۔ جو کوئی تُجھ سے مانگے اُسے دے اور "
 "جو تُجھ سے قرض چاہے اُس سے مُنہ نہ موڑ\"(متی۵: ۳۸- ۴۲)۔"
 
-#: admin/prayer-field-content.php:325
+#: admin/prayer-field-content.php:341
 msgid ""
 "It is surprising when Christians from a Muslim background share their "
 "testimony, how often Matthew 5:38-42 is quoted. Jesus' teaching to \"turn "
@@ -2294,7 +2294,7 @@ msgstr ""
 "کے زیادہ سے زیادہ لوگوں کو یہ تعلیم سُننے اور معلوم کرنے کا موقع میسر آئے کہ "
 "یہ اِنجیل(نیا عہدنامہ) سے آتی ہے۔"
 
-#: admin/prayer-field-content.php:326
+#: admin/prayer-field-content.php:342
 msgid ""
 "\"He's not too big; you could have taken him,\" an older woman said. A "
 "brother had been beaten and stabbed the evening before by someone who had "
@@ -2315,7 +2315,7 @@ msgstr ""
 "تشدد اور نفرت کو پھیلنے سے روک سکتی ہے۔  اِن لوگوں میں سے اِیماندار لوگوں کے "
 "لئے دعا کریں کہ وہ تکلیف دینے والوں سے محبت کرنے کی ہِمت رکھیں۔"
 
-#: admin/prayer-field-content.php:327
+#: admin/prayer-field-content.php:343
 msgid ""
 "Sometimes, mercy seems like injustice. If the one who is begging or "
 "borrowing seems lazy and \"needs to be taught a lesson,\" should people give "
@@ -2341,7 +2341,7 @@ msgstr ""
 "اِس مُلککےلوگبادشاہپربھروسہکریں اور جھوٹپر مبنی خوف کو ترک کر دیں کہ وہ اپنی "
 "دیکھ بھال کے لئے خُود پر انحصار کرتے ہیں۔"
 
-#: admin/prayer-field-content.php:328
+#: admin/prayer-field-content.php:344
 msgid ""
 "Paul's words to the church in Rome can only be realized by the power of "
 "God's Spirit in His Church (Romans 12:17-19). We pray for the church in this "
@@ -2358,7 +2358,7 @@ msgstr ""
 "خُود نہ لیں بلکہ خُدا کے غضب کو موقع دیں۔‎ ‎\n"
 "نظر میں عزت کے لائق ہے۔"
 
-#: admin/prayer-field-content.php:333
+#: admin/prayer-field-content.php:349
 msgid ""
 "Places of Community\n"
 "\n"
@@ -2380,7 +2380,7 @@ msgstr ""
 "سے طاقت اور فضل حاصل ہواور وہ اپنا دوسرا گال بھی پھیر دیں،  اپنا کُرتہ بھی دے "
 "دیں، اور اگر کوئی ایک مِیل بیگار میں لے جائے تو اُس کے ساتھ دو مِیل چلےجائیں۔"
 
-#: admin/prayer-field-content.php:338
+#: admin/prayer-field-content.php:354
 msgid ""
 "Jesus, you perfectly fulfilled the prophecies of Isaiah,\n"
 "\"I gave my back to those who strike,\n"
@@ -2415,7 +2415,7 @@ msgstr ""
 "بنے۔ اُس کے نتیجے میں شاگردوں کو آگے شاگرد بنانے کا موقع ملے جو ہماری نسل "
 "میں  شاگرد بنائیں۔"
 
-#: admin/prayer-field-content.php:354
+#: admin/prayer-field-content.php:370
 msgid ""
 "“You have heard that it was said, ‘You shall love your neighbor and hate "
 "your enemy.’ But I say to you, Love your enemies and pray for those who "
@@ -2437,7 +2437,7 @@ msgstr ""
 "قَوموں کے لوگ بھی اَیسا نہیں کرتے؟ پس چاہئے کہ تُم کامِل ہو جَیسا تُمہارا آسمانی "
 "باپ کامِلہے\"(متی۵: ۴۳-۴۸)۔"
 
-#: admin/prayer-field-content.php:355
+#: admin/prayer-field-content.php:371
 msgid ""
 "The whole Muslim world continues to watch the war that started between "
 "Israel and Gaza on October 7, 2023. Emotion runs high. Hatred for the enemy "
@@ -2453,7 +2453,7 @@ msgstr ""
 "اُن لوگوں کے واسطے دعا کریں تو  خُدا سے مِنت کریں کہ وہاں رہنے والے مسیحی اُس "
 "تعلیم کے مطابق زندگی بسر کریں اور مسلمانوں کو اِس کے قصور وار ٹھہرایا جائے۔"
 
-#: admin/prayer-field-content.php:356
+#: admin/prayer-field-content.php:372
 msgid ""
 "After suffering in prison, dignity and bones were both broken because of "
 "declaring allegiance to Jesus, and it was hard for Simon to forgive. \"They "
@@ -2474,7 +2474,7 @@ msgstr ""
 "سے پہلے معاف کر دیتی ہے۔  ہم جانتےہیں کہ یہ گُناہ کو نظر انداز یا معاف نہیں "
 "کرتی۔  معافی یسوع کے خُون کی قدرت اور اُس کے فضل کے جلال کا اعلان کرتی ہے۔"
 
-#: admin/prayer-field-content.php:357
+#: admin/prayer-field-content.php:373
 msgid ""
 "\"This verse makes no sense,\" Sophia said when her friend told her that God "
 "asks us to love our enemies. She was angry about the suffering in Palestine, "
@@ -2501,7 +2501,7 @@ msgstr ""
 "میں رہنے والے ہمیشہ دوسروں کو تکلیف دیتے ہیں۔ محبت آزاد ی کا انتہائی طاقتور "
 "ہتھیار ہے۔"
 
-#: admin/prayer-field-content.php:358
+#: admin/prayer-field-content.php:374
 msgid ""
 "May the existing church and the future church in this region live out Romans "
 "12:20-21, \"...if your enemy is hungry, feed him; if he is thirsty, give him "
@@ -2513,7 +2513,7 @@ msgstr ""
 "پانی پِلا کیونکہ اَیسا کرنے سے تُو اُس کے سر پر آگ کے انگاروں کاڈھیرلگائےگا۔"
 "بدیسے مغلُوب نہ ہو بلکہ نیکی کے ذرِیعہ سے بدیپر غالِب آؤ۔\""
 
-#: admin/prayer-field-content.php:359
+#: admin/prayer-field-content.php:375
 msgid ""
 "Places of Business\n"
 "\n"
@@ -2535,7 +2535,7 @@ msgstr ""
 "کے لئےدعا کریں کہ وہ کام کی جگہ پر اپنے دشمنوں اور بے اِیمانوں کے لئے  محبت "
 "کا نمونہ بنیں تاکہ وہ خود کو خود غرض محبت کے قصور وار سمجھیں۔"
 
-#: admin/prayer-field-content.php:363
+#: admin/prayer-field-content.php:379
 msgid ""
 "God, you pour out blessings (sun and rain, for example) on those who hate "
 "you, reject your love, and despise your message.\n"
@@ -2554,7 +2554,7 @@ msgstr ""
 "اپنے لئے برکت کی علامت بن جائیں۔  مسلمانوں کو اجازت دے کہ وہ اِنجیل (نیا عہد "
 "نامہ) میں یسوع کی تعلیمات پر سوال کریں اور اُس کا کلام پڑھنا شروع کریں۔"
 
-#: admin/prayer-field-content.php:369
+#: admin/prayer-field-content.php:385
 msgid ""
 "“Beware of practicing your righteousness before other people in order to be "
 "seen by them, for then you will have no reward from your Father who is in "
@@ -2573,7 +2573,7 @@ msgstr ""
 "تیری خَیرات پوشِیدہ رہے۔ اِس صُورت میں تیرا باپ جو پوشِیدگی میں دیکھتا ہے تُجھے "
 "بدلہدےگا\"(متی۶: ۱- ۴)۔"
 
-#: admin/prayer-field-content.php:370
+#: admin/prayer-field-content.php:386
 msgid ""
 "Zakat, one of the five pillars of Islam, requires Muslims to donate a set "
 "percentage of their wealth each year to Muslim charities. The New Testament "
@@ -2590,7 +2590,7 @@ msgstr ""
 "کہ مذہبی قاعدے اور دِل کی کیفیت کے درمیان فرق کو چیلنج کریں اور \"نئے دِل \"کے "
 "متعلق مزید سمجھنا چاہیں جِس کے متعلق بائبل سکھاتیہے(حزقیایل۳۶: ۲۶)۔"
 
-#: admin/prayer-field-content.php:371
+#: admin/prayer-field-content.php:387
 msgid ""
 "As new believers follow the example of the early church's generosity (Acts "
 "2), may they believe their Father sees what is done in secret and not fall "
@@ -2609,7 +2609,7 @@ msgstr ""
 "محبت کی گئی ہے اور اُس کو پہلے ہی معافی مل چکی ہے۔ وہ باپ کی آنکھوں کے سامنے "
 "آزادی سے سخاوت کریں۔"
 
-#: admin/prayer-field-content.php:372
+#: admin/prayer-field-content.php:388
 msgid ""
 "When the burden of trying to give enough is too heavy, when the need to "
 "appear righteous seems tremendously important but impossible, may those who "
@@ -2624,7 +2624,7 @@ msgstr ""
 "ساتھ چلتا ہے۔  اَے خُدا ! ہم دعا گو ہیں کہ  یہ قیمتی لوگ جانیں کہ زِندہ خُدا اُن "
 "کو دیکھتا ہے اور  وہ اِیمانداروں سے سچ سُنیں گے۔"
 
-#: admin/prayer-field-content.php:373
+#: admin/prayer-field-content.php:389
 msgid ""
 "Lord, we pray for Your church to repent from hypocrisy.  Whenever Your "
 "children fall into giving as a way to be seen by others, let them be grieved "
@@ -2639,7 +2639,7 @@ msgstr ""
 "سے بھرے ہوں  کہ تُو دیکھتا ہے اِس لئے دوسروں کو دِکھانے کی ضرورت نہیں۔  ہر کوئی "
 "تصدیق کے بُت کو ہٹا دے اور باپ کی خُوشنودی کے لئے جئیے۔"
 
-#: admin/prayer-field-content.php:374
+#: admin/prayer-field-content.php:390
 msgid ""
 "Places of Government\n"
 "\n"
@@ -2660,7 +2660,7 @@ msgstr ""
 "دیں۔ اور یہ اُن لوگوں کو چیلنج کرنے اور سزا دینے کے لیے جو غلطی سے اُن شائستہ "
 "طریقے تلاش کر لیتے ہیں۔"
 
-#: admin/prayer-field-content.php:379
+#: admin/prayer-field-content.php:395
 msgid ""
 "May the same words be true of reproducing churches and disciples in this "
 "region as was written about the reproducing church in Macedonia:\n"
@@ -2680,7 +2680,7 @@ msgstr ""
 "زیادہ کر دِیا۔ اور مَیں گواہی دیتا ہُوں کہ اُنہوں نے مقدُور کے مُوافِق بلکہ مقدُور "
 "سے بھی زِیادہ اپنی خُوشیسےدِی\"(۲- کرنتھیوں۸: ۱- ۳)۔"
 
-#: admin/prayer-field-content.php:385
+#: admin/prayer-field-content.php:401
 msgid ""
 "“And when you pray, you must not be like the hypocrites. For they love to "
 "stand and pray in the synagogues and at the street corners, that they may be "
@@ -2701,7 +2701,7 @@ msgstr ""
 "تُمہارے مانگنے سے پہلے ہی جانتا ہے کہ تُم کِن کِن چِیزوں کے مُحتاج ہو\"(متی۶: ۵- "
 "۸)۔"
 
-#: admin/prayer-field-content.php:386
+#: admin/prayer-field-content.php:402
 msgid ""
 "Muslims and Christians often use the same Arabic word for \"prayer\". The "
 "meanings of that word, however, could not be more different. Islamic salat "
@@ -2722,7 +2722,7 @@ msgstr ""
 "جاتے ہیں۔  آج ہماری دعا ہے کہ مسلمانوں کو ایک مسیح کے ذریعے دعا کرنے کا موقع "
 "ملے اور  دعا ہے کہ اِس کے وسیلے سے خُدا کے ساتھ اُن کی اِلٰہی ملاقات ہو جائے۔"
 
-#: admin/prayer-field-content.php:387
+#: admin/prayer-field-content.php:403
 msgid ""
 "Father, we ask that you teach your children to linger before you in the "
 "quiet place. Jesus, strengthen your disciples to follow your example of "
@@ -2742,7 +2742,7 @@ msgstr ""
 "سکیں۔ اَے پاک رُوح! مصیبت زدہ جانوں کی کراہنے کی دعاؤں کیترجمانیکر(رومیوں۸)۔ "
 "ہرفرزند کی مدد کر کہ وہ اپنے باپ کے پاس آئیں اور مانگیں۔"
 
-#: admin/prayer-field-content.php:388
+#: admin/prayer-field-content.php:404
 msgid ""
 "Cleanse us and the people of this place from self-righteousness. We confess "
 "the idol of approval that so many try to carry. In Islam, some look with "
@@ -2767,7 +2767,7 @@ msgstr ""
 "تُو مانگنے سےپہلے ہی اُن کی ضروریات کو جانتا ہے۔  اور تُونے اپنے بازُو پھیلائے "
 "ہُوئے ہیں تاکہ وہ آئیں اور یسوع کے خُون کے وسیلےسےتیریراستبازیحاصل کر سکیں۔"
 
-#: admin/prayer-field-content.php:389
+#: admin/prayer-field-content.php:405
 msgid ""
 "Holy Spirit, when believers meet together to pray, let them pray with one "
 "Spirit. Let them \"lift up voices together\" and remember your words. (Acts "
@@ -2785,7 +2785,7 @@ msgstr ""
 "لئےکوئی موازنہ یا کیفیت نہ ہو۔  تیری کلیسیا اِیمان کے ساتھ دعا کرے کہ تُو "
 "مانگنے سے پہلے جانتا ہے کہ اُن کو کن کن چیزوں کی ضرورت ہے۔"
 
-#: admin/prayer-field-content.php:390
+#: admin/prayer-field-content.php:406
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -2815,7 +2815,7 @@ msgstr ""
 "کرتا ہے۔  دعا کریں کہ اُن میں مسیحی دعا کے بارے میں تجسس بڑھے مسیحیوں یا "
 "مسیحی میڈیا سے جواب تلاش کرنے کے لئے اپنے دِلوں کو کھولیں۔"
 
-#: admin/prayer-field-content.php:395
+#: admin/prayer-field-content.php:411
 msgid ""
 "Let's pray Paul's prayer for the Ephesian church (Ephesians 3:14-19) over "
 "the people of this area:\n"
@@ -2855,7 +2855,7 @@ msgstr ""
 "شکیوں، امیروں، غریبوں  اور معاشرےکےہرطبقےکےلئے دعا "
 "کرتےہیںکہوہمسیحکیمحبتکوجانیں جو علم سےباہرہے۔  تاکہوہ خُدا کیمعموریسےبھرجائیں۔"
 
-#: admin/prayer-field-content.php:410
+#: admin/prayer-field-content.php:426
 msgid ""
 "\"Pray then like this: “Our Father in heaven, hallowed be your name. Your "
 "kingdom come, your will be done, on earth as it is in heaven. Give us this "
@@ -2874,7 +2874,7 @@ msgstr ""
 "تُم کو مُعاف کرے گا۔ اور اگر تُم آدمِیوں کے قصُور مُعاف نہ کرو گے تو تُمہارا باپ "
 "بھی تُمہارے قصُور مُعاف نہکرےگا\" (متی ۶: ۹- ۱۵)۔"
 
-#: admin/prayer-field-content.php:411
+#: admin/prayer-field-content.php:427
 msgid ""
 "In Islam, God has 99 names–such as All-Merciful, The Beneficent, and The "
 "Source of Peace – but none of those names is Love. Father God, who reveals "
@@ -2886,7 +2886,7 @@ msgstr ""
 "اپنے آپ کو محبت کے خُدا کے طور پر ظاہر کرتا ہے، براہِ کرم اِس خطہ کے مسلمانوں "
 "پر اپنے آپ کو اپنی حقیقی فطرت کے ساتھ ظاہر فرما دے۔"
 
-#: admin/prayer-field-content.php:412
+#: admin/prayer-field-content.php:428
 msgid ""
 "Father, what a gift it is to be called your children. May the believers in "
 "this place know their identity as your beloved adopted ones and speak your "
@@ -2907,7 +2907,7 @@ msgstr ""
 "حضوری میں ٹھہرے رہیں، تیری باتیں سُنیں، تجھ پر توکل کریں اور تیرے ساتھ دیانت "
 "داری سے باتیں کریں۔"
 
-#: admin/prayer-field-content.php:413
+#: admin/prayer-field-content.php:429
 msgid ""
 "Praying is speaking to God, our Father in heaven. Please let Muslims see "
 "that you long for them to believe in Jesus and have the right to be called "
@@ -2928,7 +2928,7 @@ msgstr ""
 "اور تجھ سے روز کی روٹی مانگیں۔  دعا میں توبہ شامل ہوتی ہے۔  مسلمان حضرت محمدؐ "
 "سے، اِسلام،  خودی، دوسرےبُتوں سے پھر کر یسوع کے وسیلے سے خُدا کی طرف رجوع ہوں۔"
 
-#: admin/prayer-field-content.php:414
+#: admin/prayer-field-content.php:430
 msgid ""
 "It is not uncommon for Muslims who turn to Christ to lose their jobs and "
 "their family support system. We pray, Lord, for all believers to be a part "
@@ -2954,7 +2954,7 @@ msgstr ""
 "گھریلو کلیسیا قائم کرنے کے امکانات کو بڑھائیں۔  ہماری دعا ہے کہ اُن خاندانوں "
 "کو خُدا کی روز کی روٹی کیبے شمار گواہیاںملیں۔"
 
-#: admin/prayer-field-content.php:417
+#: admin/prayer-field-content.php:433
 msgid ""
 "Places of Education\n"
 "\n"
@@ -2974,7 +2974,7 @@ msgstr ""
 "دعا کریںکہہائی سکول کے طلبہ جہاں کلاسوں میں جمع ہوتے ہیں اُن مقامات پر  خُدا "
 "کی بادشاہی آئے اور اُس کی مرضی  پوری ہو جیسی آسمان پر ہوتی ہے۔"
 
-#: admin/prayer-field-content.php:422
+#: admin/prayer-field-content.php:438
 msgid ""
 "The Gospels are filled with clear warnings that extending forgiveness is an "
 "essential outcome of receiving God's forgiveness. Today, we pray and ask for "
@@ -3002,7 +3002,7 @@ msgstr ""
 "کریںکہمسیحیوںکیزندگیوںمیںمعافیکیطاقتورگواہیوںکودیکھیں اور اِس کےلئےخاندانوں "
 "اور لوگوںکےگرہوںکیراہنمائیکریںکہوہزندگیبدلنےوالےماخذکوجاننےکےخواہاںہوں۔"
 
-#: admin/prayer-field-content.php:431
+#: admin/prayer-field-content.php:447
 msgid ""
 "“And when you fast, do not look gloomy like the hypocrites, for they "
 "disfigure their faces that their fasting may be seen by others. Truly, I say "
@@ -3017,7 +3017,7 @@ msgstr ""
 "تاکہ آدمی نہیں بلکہ تیرا باپ جو پوشِیدگی میں ہے تُجھے روزہ دار جانے۔ اِس صُورت "
 "میں تیرا باپ جو پوشِیدگی میں دیکھتا ہے تُجھےبدلہدےگا\"(متی۶: ۱۶- ۱۸)۔"
 
-#: admin/prayer-field-content.php:432
+#: admin/prayer-field-content.php:448
 msgid ""
 "Muslims and Christians use the same Arabic word for \"fasting.\" And similar "
 "to what we learned yesterday about prayer, the meanings are fundamentally "
@@ -3043,7 +3043,7 @@ msgstr ""
 "۱۸)۔آجہماری دعا ہے کہ مسلمان پہاڑی وعظ میں روزہ کےمتعلق یسوع کی تعلیمات کو "
 "دیکھیں  اور اُس کی تعلیمات پر تحقیق جاری رکھنے کا چیلنج قبول کریں۔"
 
-#: admin/prayer-field-content.php:433
+#: admin/prayer-field-content.php:449
 msgid ""
 "Jesus, thank you for teaching us that admiration of others is a poor reward "
 "for fasting. Father, thank you for seeing what is in secret.  Nothing is "
@@ -3065,7 +3065,7 @@ msgstr ""
 "شوق میںروزہرکھیںکہ جب دُلہااُنہیں اُس جگہ پر لائے گا جو اُس نے اُن کے واسطے تیار "
 "کی ہے۔  اِیماندار صرف یسوع کی روٹی کھانے میں تسلی پائیں۔"
 
-#: admin/prayer-field-content.php:434
+#: admin/prayer-field-content.php:450
 msgid ""
 "May all who fast to be seen by others find their fast empty. Thank you, "
 "Father, for seeing the thoughts and motives of the heart. For those who are "
@@ -3084,7 +3084,7 @@ msgstr ""
 "ہو۔  ہم سچے روزہ داروں کے لئے دعا گو ہیں جو خُدا کو جاننے کے بھوکے ہیں جیسا "
 "کہ مسیح یسوع میں اُس کے رُوح کی معرفت ظاہر ہُوا۔"
 
-#: admin/prayer-field-content.php:435
+#: admin/prayer-field-content.php:451
 msgid ""
 "We pray for the church among this people group to be an example of true "
 "fasting that pleases God (Isaiah 58:6-7):\n"
@@ -3111,7 +3111,7 @@ msgstr ""
 "جو اِس علاقہ میں خُدا کے جلال کےلئے  اور اُس کیکلیسیاکی ترقی کے لئے اِس آیت کے "
 "مطابق رہتے ہیں۔"
 
-#: admin/prayer-field-content.php:443
+#: admin/prayer-field-content.php:459
 msgid ""
 "Places of Community\n"
 "\n"
@@ -3132,7 +3132,7 @@ msgstr ""
 "اور بد قسمتی سے اُن میں خاندانی جھگڑے ہوتے ہیں،  اُن کے واسطے دعا کریں کہ وہ "
 "غور کریں کہ روزہ کاپھل کیا ہونا چاہئے۔"
 
-#: admin/prayer-field-content.php:447
+#: admin/prayer-field-content.php:463
 msgid ""
 "We pray the promise of the rest of Isaiah 58:8-12 over this land.\n"
 "\n"
@@ -3169,7 +3169,7 @@ msgstr ""
 "(وہ شاگرد جو آگے شاگرد بنائیں، وہ آگےشاگرد بنائیں وہ آگئے شاگرد بنایں) کی "
 "روحانی نسل کے لئےدعا گو ہیں۔ آمین۔"
 
-#: admin/prayer-field-content.php:457
+#: admin/prayer-field-content.php:473
 msgid ""
 "“Do not lay up for yourselves treasures on earth, where moth and rust "
 "destroy and where thieves break in and steal, but lay up for yourselves "
@@ -3192,7 +3192,7 @@ msgstr ""
 "رکھّے گا اور دُوسرے سے مُحبّت۔ یا ایک سے مِلا رہے گا اور دُوسرے کو ناچِیز جانے گا۔ "
 "تُم خُدا اور دَولت دونوں کی خِدمت نہیں کرسکتے\"(متی۶: ۱۹-۲۴)۔"
 
-#: admin/prayer-field-content.php:458
+#: admin/prayer-field-content.php:474
 msgid ""
 "Most Muslims (and many Christians) believe that material wealth is evidence "
 "of being favored by God. Therefore, they believe the converse is also true: "
@@ -3211,7 +3211,7 @@ msgstr ""
 "اُنہیں قصور وار ٹھہرائے کہ پیسے کی خدمت آخر کار غلامی اور موت کی طرف لے جاتی "
 "ہے۔"
 
-#: admin/prayer-field-content.php:459
+#: admin/prayer-field-content.php:475
 msgid ""
 "May the believers of this place fix their eyes on Jesus. As they gaze on his "
 "bright glory, may the light of Christ enter their eyes and fill their whole "
@@ -3236,7 +3236,7 @@ msgstr ""
 "وہبھروسہکرتےہیںکہ تُو اُن کی اور اُن کے پیاروں کی فکر کرتا ہے تو وہ تجھ  میں "
 "خوشی پائیں۔"
 
-#: admin/prayer-field-content.php:460
+#: admin/prayer-field-content.php:476
 msgid ""
 "\"You need to come and tell us more of Jesus. I can feel my heart soar with "
 "you through the stories. We need to set aside time daily to really "
@@ -3256,7 +3256,7 @@ msgstr ""
 "اور  اپنی نگاہیں نظر آنے والی چیزوں پر نہیں بلکہ ابدی چیزوں پر لگانا چاہتے "
 "ہیں۔"
 
-#: admin/prayer-field-content.php:461
+#: admin/prayer-field-content.php:477
 msgid ""
 "Jesus said, \"The Kingdom of God is like treasure hidden in a field, which a "
 "man found and covered up. Then in his joy he goes and sells all that he has "
@@ -3278,7 +3278,7 @@ msgstr ""
 "خُدا کی خدمت کرتی ہیں  کہ وہ مزید پیداوار کریں۔  اپنی کلیسیا کو پیسے کی محبت "
 "سے محفوظ رکھ اور اُن کو حکمت عطا فرما کہ اِس کا استعمال عقل مندی سے  کریں۔"
 
-#: admin/prayer-field-content.php:462
+#: admin/prayer-field-content.php:478
 msgid ""
 "Places of Business\n"
 "\n"
@@ -3300,7 +3300,7 @@ msgstr ""
 "مسیحکاروباریتاجروںکے لئے دعا کریں کہ وہ مالی فائدے سے بڑھ کر خُدا کی خدمت کا "
 "انتخاب کرنے کے لئےاُس سے برکت حاصل کریں۔"
 
-#: admin/prayer-field-content.php:466
+#: admin/prayer-field-content.php:482
 msgid ""
 "Jesus told the story of a widow who put two small coins into the offering "
 "box (Mark 12:41-44). He said she put more in than any of the wealthy people. "
@@ -3327,7 +3327,7 @@ msgstr ""
 "اور دانشمندی عطا فرما کہوہاپنیزبردستگواہیکیسےسُنائیں اور اِس طرح "
 "کیفرمانبرداریسےبھرپورشاگردوںمیںاضافہہوجائے۔"
 
-#: admin/prayer-field-content.php:472
+#: admin/prayer-field-content.php:488
 msgid ""
 "“Therefore I tell you, do not be anxious about your life, what you will eat "
 "or what you will drink, nor about your body, what you will put on. Is not "
@@ -3364,7 +3364,7 @@ msgstr ""
 "پس کل کے لِئے فِکر نہ کرو کیونکہ کل کا دِن اپنے لِئے آپ فِکر کر لے گا۔ آج کے لِئے "
 "آج ہی کا دُکھکافیہے\"(متی۶: ۲۵- ۳۴)۔"
 
-#: admin/prayer-field-content.php:473
+#: admin/prayer-field-content.php:489
 msgid ""
 "Islam teaches that God is unknowable, and as a result, many feel like God is "
 "distant. We know the truth is that God Almighty wants an intimate "
@@ -3378,7 +3378,7 @@ msgstr ""
 "بالوں کو بھی گنرکھاہے (لوقا ۱۲: ۷)۔ اَےخُداوند ! مسیح کے سارے نئے پیروکار خُدا "
 "کی قربت کو جان کر خوشی سے بھرجائیں جو ہمیں\"پیارا\" کہتاہے۔"
 
-#: admin/prayer-field-content.php:474
+#: admin/prayer-field-content.php:490
 msgid ""
 "A sparrow flew through the open window of her kitchen and began to eat "
 "forgotten crumbs from the floor. Hannan listened to this passage joyfully, "
@@ -3398,7 +3398,7 @@ msgstr ""
 "اِیمانداروں کے لئے دعا کریں کہ  ہر کوئی خُدا کیدیکھبھالپربھروسہکرنےکیمِٹھاسکو "
 "سیکھ جائے۔"
 
-#: admin/prayer-field-content.php:475
+#: admin/prayer-field-content.php:491
 msgid ""
 "Anxious hearts come from inaccurate perceptions of the love, goodness, and "
 "power of God. Father, we pray for the people here to look at creation and "
@@ -3416,7 +3416,7 @@ msgstr ""
 "غم کو خوب جانتا ہے۔  اُن پر ظاہر کرکہ وہ خُدا کے لئے قیمتی ہیں کیونکہ  اُس نے "
 "اُنہیں بنایا اور اُنہیں مخلصی دینے کے لئے مرنے کا انتخاب کِیا۔"
 
-#: admin/prayer-field-content.php:476
+#: admin/prayer-field-content.php:492
 msgid ""
 "May the church in this region, both current and future, live out Philippians "
 "4:4-7:\n"
@@ -3440,7 +3440,7 @@ msgstr ""
 "خُدا کو اپنے جلال کے لئے جواب دیتے ہُوئے  اور یسوع مسیح میں آپ کے دلوں اور "
 "دماغوں کی حفاظتکرتےہُوئےدیکھیں۔\""
 
-#: admin/prayer-field-content.php:482
+#: admin/prayer-field-content.php:498
 msgid ""
 "Places of Government\n"
 "\n"
@@ -3472,7 +3472,7 @@ msgstr ""
 "حکومتیراہنماوںکےلیے دعا کرتےہیں جو اُن بےگھر افراد کےبنیادیانسانی حقوق کا "
 "تحفظ کریںگے۔"
 
-#: admin/prayer-field-content.php:485
+#: admin/prayer-field-content.php:501
 msgid ""
 "Today, we pray for people of this land to look at the birds of the air. Let "
 "them see how our Heavenly Father takes care of them and may they seek out "
@@ -3498,7 +3498,7 @@ msgstr ""
 "گھبراہٹ کے حملوں، نیند کا نہ آنا، اپاہج کرنے والے تناؤ اور خوف سے شفا اور "
 "آزادی کا تجربہ ہو۔"
 
-#: admin/prayer-field-content.php:493
+#: admin/prayer-field-content.php:509
 msgid ""
 "“Judge not, that you be not judged. For with the judgment you pronounce you "
 "will be judged, and with the measure you use it will be measured to you. Why "
@@ -3520,7 +3520,7 @@ msgstr ""
 "اور اپنے موتی سُؤروں کے آگے نہ ڈالو۔ اَیسا نہ ہو کہ وہ اُن کو پاؤں تلے رَوندیں "
 "اور پلٹ کر تُم کوپھاڑیں\"(متی۷: ۱- ۶)۔"
 
-#: admin/prayer-field-content.php:494
+#: admin/prayer-field-content.php:510
 msgid ""
 "Judgment and hypocrisy are core to all humanity's sinful nature. Muslims are "
 "no exception. We all quickly try to pull the speck out of our neighbor's eye "
@@ -3540,7 +3540,7 @@ msgstr ""
 "دعا کریں کہ خود کو اپنی  ریاکاری کے قصور وار ٹھہرائیں اور معافی اور نئے دل "
 "کے لئے مسیح کی طرف رجوع ہوں۔"
 
-#: admin/prayer-field-content.php:495
+#: admin/prayer-field-content.php:511
 msgid ""
 "Jesus, you long for us to see. Sin clouds our sight. We see one another "
 "through eyes of judgment, forgetting that we have been forgiven. Lord, "
@@ -3556,7 +3556,7 @@ msgstr ""
 "اور بہنوں کی اصلا ح کریں تو  سب کچھحلیمیسےکریں،  اُن کے لئے دعا مانگتے ہُوئے "
 "کہ جب ہم نہ دیکھ سکیں تو وہ بھی ہماری اصلاح کریں۔"
 
-#: admin/prayer-field-content.php:496
+#: admin/prayer-field-content.php:512
 msgid ""
 "It takes tremendous humility to accept correction with grace. It is "
 "especially hard when someone declares something that disagrees with the "
@@ -3572,7 +3572,7 @@ msgstr ""
 "اُنہیں خوشی          کے ساتھ پاک موتی حاصل ہو جائیں اور وہ اُنہیں روندنے یا "
 "عیب جوئی یا اصلاح پرناراض نہ ہوں۔"
 
-#: admin/prayer-field-content.php:497
+#: admin/prayer-field-content.php:513
 msgid ""
 "Pray for the church of this land to \"put away all malice and all deceit and "
 "hypocrisy and envy and all slander. Like newborn infants, long for the pure "
@@ -3590,7 +3590,7 @@ msgstr ""
 "کے ماخذ کو جاننے کی طرف راغب ہوں اور اُن کو دیکھنے اور چکھنے کا موقع ملے کہ "
 "خُداوند بھلا ہے۔"
 
-#: admin/prayer-field-content.php:498
+#: admin/prayer-field-content.php:514
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -3619,7 +3619,7 @@ msgstr ""
 "تجسس بڑھے اور                          اِیمانداراُن لوگوں کو جواب دینےکے لئے "
 "تیار ہوں  جو اپنی آنکھوں سے شہتیر نکالنا چاہتے ہیں۔"
 
-#: admin/prayer-field-content.php:503
+#: admin/prayer-field-content.php:519
 msgid ""
 "\"Therefore do not pronounce judgment before the time, before the Lord "
 "comes, who will bring to light the things now hidden in darkness and will "
@@ -3646,7 +3646,7 @@ msgstr ""
 "اُن کو حلیمی اوراِلٰہی محبت عطا فرما کہ وہ اپنی کلیسیا کو پاکیزگی کی طرف لے "
 "جائیں اور ریاکاری سے دُور رکھیں۔"
 
-#: admin/prayer-field-content.php:509
+#: admin/prayer-field-content.php:525
 msgid ""
 "“Ask, and it will be given to you; seek, and you will find; knock, and it "
 "will be opened to you. For everyone who asks receives, and the one who seeks "
@@ -3664,7 +3664,7 @@ msgstr ""
 "جانتے ہو تو تُمہارا باپ جو آسمان پر ہے اپنے مانگنے والوں کو اچّھی چِیزیں کیوں "
 "نہدےگا؟\"(متی۷: ۷- ۱۱)۔"
 
-#: admin/prayer-field-content.php:510
+#: admin/prayer-field-content.php:526
 msgid ""
 "\"I Dared to Call Him Father\" by Bilquis Sheikh recounts the story of a "
 "Muslim woman from Pakistan who turned to Christ. The title captures how "
@@ -3684,7 +3684,7 @@ msgstr ""
 "جاننے میں بڑھتے جا ئیں۔  خُدا سے دعا کریں کہ وہ مسلمانوں میں تجسس پیداکرے کہ "
 "وہ خُدا کو ہمارے آسمانی باپ کے طور پر جاننے کی خواہش رکھیں۔"
 
-#: admin/prayer-field-content.php:511
+#: admin/prayer-field-content.php:527
 msgid ""
 "“I just don’t know if I can do it,” Fouad shared, his head in his hands.  "
 "They were only recently married, but more than nine months past the "
@@ -3714,7 +3714,7 @@ msgstr ""
 "کھٹکھٹایا۔۔۔اور اب وہ  ایک حلیم ا ور مثالی باپ ہے جو اپنے بچوں کی پرورش "
 "بالکل نئے انداز میں کررہا ہے۔"
 
-#: admin/prayer-field-content.php:512
+#: admin/prayer-field-content.php:528
 msgid ""
 "Hamza kicked the ball gently toward little Ahmed.  He was a good little "
 "player, and so handsome too!  Hamza’s father-heart swelled with pride as he "
@@ -3753,7 +3753,7 @@ msgstr ""
 "کے خیال سے کانپ گیا۔ \"مانگو، ڈھونڈو، کھٹکھٹاؤ۔۔۔\" وہ اپنے بیٹے کو سیدھا "
 "راستہ کیسےدِکھا سکتا تھا جب کہ وہ خُو د خفیہ طور پر بے یقینی کا شکار تھا؟"
 
-#: admin/prayer-field-content.php:513
+#: admin/prayer-field-content.php:529
 msgid ""
 "May the church in this region ask, seek, and knock on behalf of the "
 "multitudes of Muslim peoples that surround them. Give them ideas, next "
@@ -3778,7 +3778,7 @@ msgstr ""
 "طریقے کے حصہ کے طور پر اِس طرح استعمال کرنا چاہتا ہے جس طرح  تُو  اُن کے خاندان "
 "کو بادشاہی میں لائے۔"
 
-#: admin/prayer-field-content.php:514
+#: admin/prayer-field-content.php:530
 msgid ""
 "Places of Education\n"
 "\n"
@@ -3805,7 +3805,7 @@ msgstr ""
 "کم ہیں۔ دعا ہے کہ اُن کاآسمانیباپپربھروسہپیداہوجائےکہ وہ خاندانوں کو اِنجیل "
 "سُنانے اور اُن میں بائبل کا مطالعہ شروع کرنے کے لئے دروازے کھولے گا۔"
 
-#: admin/prayer-field-content.php:519
+#: admin/prayer-field-content.php:535
 msgid ""
 "\"Every good gift and every perfect gift is from above, coming down from the "
 "Father of lights, with whom there is no variation or shadow due to change."
@@ -3830,7 +3830,8 @@ msgstr ""
 "اورعورتوں کے پاس لے جائے  جو مجبور ہو جائیں کہ نہ صرف خُود خوشخبری سُننی ہے "
 "بلکہ دوسروں کو بھی سُنانی ہے۔"
 
-#: admin/prayer-field-content.php:523
+#: admin/prayer-field-content.php:539 migrations/0000-initial.php:47
+#: migrations/0000-initial.php:62
 msgid ""
 "“So whatever you wish that others would do to you, do also to them, for this "
 "is the Law and the Prophets. Enter by the narrow gate. For the gate is wide "
@@ -3844,7 +3845,8 @@ msgstr ""
 "ہونے والے بُہت ہیں۔ کیونکہ وہ دروازہ تنگ ہے اور وہ راستہ سُکڑا ہے جو زِندگی کو "
 "پُہنچاتا ہے اور اُس کے پانے والےتھوڑےہیں\"(متی۷: ۱۲- ۱۴)۔"
 
-#: admin/prayer-field-content.php:524
+#: admin/prayer-field-content.php:540 migrations/0000-initial.php:48
+#: migrations/0000-initial.php:63
 msgid ""
 "For those praying today who live in this area, take a moment to imagine what "
 "it would look like if everyone would do to others what they would have done "
@@ -3854,7 +3856,8 @@ msgstr ""
 "ساتھ ہُوا ہے اگر وہ ہر             کسی کے ساتھ ویسا ہی کرے تو یہ کیسا لگے گا۔ "
 "دعا کریں کہ بادشاہی کے وہ حقائق سامنے آئیں۔"
 
-#: admin/prayer-field-content.php:525
+#: admin/prayer-field-content.php:541 migrations/0000-initial.php:48
+#: migrations/0000-initial.php:64
 msgid ""
 "For those praying today who do not live in this area, pray for Christians to "
 "bring meals to the sick, give rides to the carless, listen well to those "
@@ -3866,7 +3869,8 @@ msgstr ""
 "ہُوؤں کی بات اچھی طرح سُنیں،  جو ہسپتالوں میں ہیں اُن کی تیمار داری کو جائیں، "
 "اور ضرورت مندوں کی مدد کریں۔  اِن کاموں میں یسوع کا نام بلند ہو۔"
 
-#: admin/prayer-field-content.php:526
+#: admin/prayer-field-content.php:542 migrations/0000-initial.php:49
+#: migrations/0000-initial.php:65
 msgid ""
 "We pray today for believers who have chosen the hard, narrow way that leads "
 "to life. When they are tempted to be jealous of those who get to \"do as "
@@ -3884,7 +3888,8 @@ msgstr ""
 "کرنے، معاف کرنے،   مسافر پروری کرنے اور فروتنی کے ساتھ خدمت کرنے  کااِنتخاب "
 "کریں،  یسوع کی خاطر اپنی جانیں دیں اور دوسروں کو تنگ راستے کی طرف بلائیں۔"
 
-#: admin/prayer-field-content.php:527
+#: admin/prayer-field-content.php:543 migrations/0000-initial.php:50
+#: migrations/0000-initial.php:66
 msgid ""
 "Adil sat in the back of an old church building in the middle of the week, "
 "full of questions about Christianity.  It was forbidden for him to come when "
@@ -3913,7 +3918,8 @@ msgstr ""
 "زندگی کو بھی پیار کرتے ہیں۔ اپنے کرم سے اُن کی روحوں کو اُبھار کہ وہ تو بہ "
 "کریں اور جیتے رہیں۔"
 
-#: admin/prayer-field-content.php:528
+#: admin/prayer-field-content.php:544 migrations/0000-initial.php:51
+#: migrations/0000-initial.php:67
 msgid ""
 "Pray that God would give grace to the church in this region to live out "
 "Jesus' Golden Rule, “Do to Others”,  teaching with one another. Pray for "
@@ -3935,7 +3941,8 @@ msgstr ""
 "کلیسیائیں قائم کرنے بائبل کا مطالعہ کرنے میں مدد کر سکتے ہیں جو خُدا کے جلال "
 "کے لئے اِس طرزِ زندگی کو نقل کریں گی۔"
 
-#: admin/prayer-field-content.php:530
+#: admin/prayer-field-content.php:546 migrations/0000-initial.php:53
+#: migrations/0000-initial.php:69
 msgid ""
 "Places of Community\n"
 "\n"
@@ -3965,7 +3972,7 @@ msgstr ""
 "دِل ہوں اور  خواہش رکھیںکہ اُن کیبرادرییسوعکیتعلیم کے موافق تشکیل پائے کہ اپنے "
 "دشمنوں سے محبت رکھو، دوسروں کی خدمت کرو اور خود غرضی کو چھوڑو۔"
 
-#: admin/prayer-field-content.php:535
+#: admin/prayer-field-content.php:551 migrations/0000-initial.php:58
 msgid ""
 "Jesus, you are the way, the truth, and the life. No one comes to the Father "
 "except through you (John 14:6). Tonight, as Muslims break their fast, go to "
@@ -3987,7 +3994,7 @@ msgstr ""
 "مزید سیکھتے ہیں تو اُن کی راہنمائی کر کہ اپنے دوستوں اور خاندانوں کو بھی "
 "بتائیں تاکہ وہ مل کر تیری بابت سیکھ سکیں۔"
 
-#: admin/prayer-field-content.php:539
+#: admin/prayer-field-content.php:555
 msgid ""
 "“Beware of false prophets, who come to you in sheep's clothing but inwardly "
 "are ravenous wolves. You will recognize them by their fruits. Are grapes "
@@ -4004,7 +4011,7 @@ msgstr ""
 "سکتا نہ بُرا درخت اچّھا پَھل لا سکتا ہے۔ جو درخت اچّھا پَھل نہیں لاتا وہ کاٹا اور "
 "آگ میں ڈالا جاتا ہے۔ پس اُن کے پَھلوں سے تُم اُن کو پہچان لو گے\"(متی۷: ۱۵- ۲۰)۔"
 
-#: admin/prayer-field-content.php:540
+#: admin/prayer-field-content.php:556
 msgid ""
 "Like most people, Muslims care deeply about their outward appearance or "
 "reputation in the community. In contrast, Jesus cares about the person's "
@@ -4019,7 +4026,7 @@ msgstr ""
 "کام کر سکتا ہے۔  اِس علاقہ کےلوگوں کے لئےدعا کریں کہ وہ صاف دِل کی ضرورت کے "
 "متعلق مجرم ٹھہریں اور  اِس موضوع پر یسوع کی تعلیمات کو تلاش کریں۔"
 
-#: admin/prayer-field-content.php:541
+#: admin/prayer-field-content.php:557
 msgid ""
 "These were the very verses that brought Salima to walk the Way of Light. The "
 "beauty of Spirit fruit is borne only when the branch draws the sap from the "
@@ -4039,7 +4046,7 @@ msgstr ""
 "ہیں کہ جب تک وہ قائم نہیں رہیں گے وہ پھل نہیں لائیں گے۔ ہم قائم رہنے والا "
 "پھل مانگتےہیں (یوحنا۱۵)۔"
 
-#: admin/prayer-field-content.php:542
+#: admin/prayer-field-content.php:558
 msgid ""
 "Soumia longed to bear good fruit.  She wanted to be a mom who was patient "
 "and joyful, loving and self-controlled. She kept asking how it was possible, "
@@ -4059,7 +4066,7 @@ msgstr ""
 "لاتا وہ کاٹا اور آگ میں ڈالا جاتا ہے۔  دعا ہے کہ صومیہ اور اُس جیسے لوگوں کو "
 "خوشخبری کا فضل حاصل ہو جائے۔"
 
-#: admin/prayer-field-content.php:543
+#: admin/prayer-field-content.php:559
 msgid ""
 "One of the biggest arguments against disciple-making movements (DMM) is that "
 "if new believers lead simple churches, heresy will emerge. Opponents of DMM "
@@ -4078,7 +4085,7 @@ msgstr ""
 "کلام کی گہرائی میں مسلسل بڑھتی رہیں، اُن کی اِلٰہیات اور عمل بائبل کے موافق ہو "
 "اور  وہ اچھے او ر بُرے پھلوں میں امتیاز کرنے کی سمجھ رکھیں۔"
 
-#: admin/prayer-field-content.php:544
+#: admin/prayer-field-content.php:560
 msgid ""
 "Places of Business\n"
 "\n"
@@ -4102,7 +4109,7 @@ msgstr ""
 "کہ وہ دیانت داری اور اِیمانداری کےحصول میں قیمتی فیصلے کرتے ہیں   وہ       "
 "خُداکےجلال کے لئے اچھا پھل لائیں۔"
 
-#: admin/prayer-field-content.php:549
+#: admin/prayer-field-content.php:565
 msgid ""
 "\"But the wisdom from above is first pure, then peaceable, gentle, open to "
 "reason, full of mercy and good fruits, impartial and sincere. And a harvest "
@@ -4136,7 +4143,7 @@ msgstr ""
 "نتیجہمیںراستبازیکی فصل پیداہو جس کے باعث اِس ملک میں شاگردوں اور کلیسیاؤں کی "
 "تعداد بڑھتی جائے۔"
 
-#: admin/prayer-field-content.php:562
+#: admin/prayer-field-content.php:578
 msgid ""
 "“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of "
 "heaven, but the one who does the will of my Father who is in heaven.  On "
@@ -4152,7 +4159,7 @@ msgstr ""
 "گا کہ میری کبھی تُم سے واقفِیّت نہ تھی۔ اَے بدکارو میرے پاس سےچلےجاؤ\"(متی۷: ۲۱- "
 "۲۳)۔"
 
-#: admin/prayer-field-content.php:563
+#: admin/prayer-field-content.php:579
 msgid ""
 "In Islam, someone becomes a Muslim simply by reciting the shahada (Islamic "
 "declaration of faith) with conviction. Jesus says merely saying 'Lord, Lord' "
@@ -4168,7 +4175,7 @@ msgstr ""
 "کریں کہ اِس خطہ میں کھوئے ہُوئے لوگ یسوع کے وسیلہ سے نجات پائیں اور جو نجات "
 "یافتہ ہیں وہ یسوع کی مانند بن جائیں۔"
 
-#: admin/prayer-field-content.php:564
+#: admin/prayer-field-content.php:580
 msgid ""
 "Samir asked, \"To become a Muslim, you must say the shahada. What do you say "
 "to become a Christian?\" A brother answered, \"In Romans, it says '...if you "
@@ -4188,7 +4195,7 @@ msgstr ""
 "کُل اِختیار تیرے پاس ہے۔  ہماری دعا ہے کہ اِس علاقہ کے اِیماندار اپنے استاد اور "
 "خُداوند کی پیروی کریں اور وہ کام کریں جو وہ فرماتا ہے۔"
 
-#: admin/prayer-field-content.php:565
+#: admin/prayer-field-content.php:581
 msgid ""
 "\"What good is there for women in Jannah (paradise)? Men are promised "
 "virgins and wine, but what do women have to look forward to? Can you tell me "
@@ -4215,7 +4222,7 @@ msgstr ""
 "بغیر برکات لینا  چاہتے ہیں کہ اُن میں یسوع کے یہ الفاظ سُننے کا خوف پیدا ہو "
 "جائے  \"میری تُم سے کبھی واقفیت نہ تھی\"۔"
 
-#: admin/prayer-field-content.php:566
+#: admin/prayer-field-content.php:582
 msgid ""
 "In Matthew 10:26-33, Jesus tells his followers not to fear and that \"..."
 "whoever denies me before men, I also will deny before my Father who is in "
@@ -4233,7 +4240,7 @@ msgstr ""
 "بھی دعا گو ہیں، جنہوں نے ایذا رسانی کےوقت خوف میں مسیح کا اِنکار کِیا  کہ اُنکو "
 "اپنے واسطے بحال کر، جیسے تُونے پطرس کو تِین بار اِنکار کرنے کے بعد بحال کِیا تھا۔"
 
-#: admin/prayer-field-content.php:567
+#: admin/prayer-field-content.php:583
 msgid ""
 "Places of Government\n"
 "\n"
@@ -4265,7 +4272,7 @@ msgstr ""
 "اور عورتیں پیروی کرتے ہیں۔ کہ وہ 'لاقانونیت کے کارندے' ہونے سےتوبہکریں(متی۷: "
 "۲۳)۔"
 
-#: admin/prayer-field-content.php:572
+#: admin/prayer-field-content.php:588
 msgid ""
 "Miracles, prophecies, and mighty works do not rescue us; we must be known by "
 "God. Spirit of God, we pray that the lost in this land will hear and believe "
@@ -4283,7 +4290,7 @@ msgstr ""
 "ہے؟ وہ تجھ سے محبت رکھیں،  تجھے جانیں اور باپ کی مرضی پوری کریں۔ جو لوگ تجھ "
 "سے محبت رکھتے ہیں وہ تیرےحکموں پر عمل کریںگے۔(یوحنا۱۵: ۱۴)۔"
 
-#: admin/prayer-field-content.php:576
+#: admin/prayer-field-content.php:592
 msgid ""
 "“Everyone then who hears these words of mine and does them will be like a "
 "wise man who built his house on the rock. And the rain fell, and the floods "
@@ -4302,7 +4309,7 @@ msgstr ""
 "برسا اور پانی چڑھا اور آندِھیاں چلِیں اور اُس گھر کو صدمہ پُہنچایا اور وہ گِر گیا "
 "اور بِالکُل بربادہوگیا\"(متی۷: ۲۴- ۲۷)۔"
 
-#: admin/prayer-field-content.php:577
+#: admin/prayer-field-content.php:593
 msgid ""
 "Today, many people in this place are building their lives on careers, family "
 "relationships, reputation, money, influence, and health. These are all "
@@ -4318,7 +4325,7 @@ msgstr ""
 "ہے۔میرا خُدا۔ میری چٹان جِس پر مَیں بھروسارکھُّوں گا۔میری سِپر اور میری نجات کا "
 "سِینگ۔ میرااُونچا بُرج\"۔"
 
-#: admin/prayer-field-content.php:578
+#: admin/prayer-field-content.php:594
 msgid ""
 "Riyadh grew up as a Muslim but came to faith in Christ as a young man. "
 "Despite persecution and losing relationships with family members, he held on "
@@ -4345,7 +4352,7 @@ msgstr ""
 "کے کلام پر ہے۔ ریاض اور اُس کی بیوی جیسے راہنماؤں کے لئے دعا کریں کہ وہ اِس "
 "خطہ میں اپنے آپ کو دیگر راہنماؤں میں بڑھائیں۔"
 
-#: admin/prayer-field-content.php:579
+#: admin/prayer-field-content.php:595
 msgid ""
 "It started with cheating on exams in school. Then there was lying to parents "
 "and teachers...telling his fiancee what she wanted to hear… cutting corners, "
@@ -4373,7 +4380,7 @@ msgstr ""
 "کی تبدیلی کی گواہی کے نتیجہ میں دوست اور خاندان کے لوگ بھی یسوع کی تعلیمات "
 "کی تحقیق کرنے کے خواہش مند ہو جائیں۔"
 
-#: admin/prayer-field-content.php:580
+#: admin/prayer-field-content.php:596
 msgid ""
 "Obedience brings stability. When we obey Jesus' commandments, we remain in "
 "his love. (John 15:10) This is the foundation, the rock we build upon. The "
@@ -4397,7 +4404,7 @@ msgstr ""
 "بلکہ                    یسوع کے کلام پر عمل بھی کریں اور اُس کی محبت کی "
 "استقامت میں آرام پائیں۔"
 
-#: admin/prayer-field-content.php:581
+#: admin/prayer-field-content.php:597
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -4422,7 +4429,7 @@ msgstr ""
 "۲۷)۔ دوست اور خاندان کے افرادجو اکٹھے مسجد میں جاتے ہیں اُن کے لئےہم دعا گو "
 "ہیں کہ  وہ مل کر خُدا کا کلام پڑھنا شروع کریں اور تبدیل ہو جائیں۔"
 
-#: admin/prayer-field-content.php:584
+#: admin/prayer-field-content.php:600
 msgid ""
 "Have mercy, O God.  We confess that there are those in this area who have "
 "\"forsaken [God], the spring of living water and have dug their own "
@@ -4442,7 +4449,7 @@ msgstr ""
 "پیاس نہیں بجھا سکتے۔      اَے یسوع! اپنا کرم کر کے اُن کو دِکھلا کہ تیرا کلام "
 "سچا ہے، اور تیرے حکموں پر عمل کریں تو زندگی ا ور آرام ملتا ہے۔"
 
-#: admin/prayer-field-content.php:588
+#: admin/prayer-field-content.php:604
 msgid ""
 "\"And when Jesus finished these sayings, the crowds were astonished at his "
 "teaching, for he was teaching them as one who had authority, and not as "
@@ -4452,7 +4459,7 @@ msgstr ""
 "ہُوئی۔ کیونکہ وہ اُن کے فقِیہوں کی طرح نہیں بلکہ صاحِبِ اِختیار کی طرح اُن کو "
 "تعلِیمدیتاتھا\"(متی۷: ۲۸- ۲۹)۔"
 
-#: admin/prayer-field-content.php:589
+#: admin/prayer-field-content.php:605
 msgid ""
 "Let's pray with one heart that multitudes of Muslims in this area would read "
 "and be astonished by the teachings of Jesus that we have prayed throughout "
@@ -4464,7 +4471,7 @@ msgstr ""
 "دعا کی ہے۔دعا کریں کہ وہ اپنی زندگیوں پر اُس کےاِختیار کو پہچانیں اور "
 "فرمانبرداری سے جواب دیں۔"
 
-#: admin/prayer-field-content.php:590
+#: admin/prayer-field-content.php:606
 msgid ""
 "Yosri grew up without a father for much of his life. He experienced abuse as "
 "a child and unforgiveness had sown deep pain in his heart. When he came "
@@ -4486,7 +4493,7 @@ msgstr ""
 "کھُلے دل والے لوگوں کو کیسے تلاش کرنا ہے  جن کے ساتھ ڈِسکوری بائبل سٹڈیز جیسے "
 "طریقوں سے خُدا کے کلام کا مطالعہ کرناہے۔"
 
-#: admin/prayer-field-content.php:591
+#: admin/prayer-field-content.php:607
 msgid ""
 "Holy Spirit, please keep hovering over the people of this land. Reveal to "
 "them, Jesus.  Let them meet believers who teach obedience to everything "
@@ -4498,7 +4505,7 @@ msgstr ""
 "جس کا یسوع نے حکمدِیاہے(متی۲۸: ۲۰)۔ جب وہ یسوع کی تعلیم کو سُنیں تو،   "
 "حلیمیاور اِیمانکےساتھ قبول کریں اور اُس  کے پیچھے ہو لیں۔"
 
-#: admin/prayer-field-content.php:592
+#: admin/prayer-field-content.php:608
 msgid ""
 "Together, Lord Jesus, we pray that we and your children among this people "
 "group would humbly submit to your authority. Let no arrogance of education "
@@ -4514,7 +4521,7 @@ msgstr ""
 "خواہش کے لئے مجرم ٹھہرا۔ ہماری دعا ہے کہ تیرے فرزندوں میں سے سارا تکبر جاتا "
 "رہے اور وہ تیرے تابع ہوجائیں۔"
 
-#: admin/prayer-field-content.php:593
+#: admin/prayer-field-content.php:609
 msgid ""
 "Places of Education\n"
 "\n"
@@ -4537,7 +4544,7 @@ msgstr ""
 "پروفیسراگلی نسل پر اثر رکھتےہیںاُس کےجیاُٹھےمسیح سے ملاقات ہو جائے،  اُس پر "
 "اُمید رکھیں اوراپنے آس پاس لوگوں کے لئے خوشخبری لانے کے لئے استعمال ہوں۔"
 
-#: admin/prayer-field-content.php:598
+#: admin/prayer-field-content.php:614
 msgid ""
 "Lord, we lift our voices together one last time. Thank you for these 31 days "
 "of prayer for our brothers and sisters in this land. Today, we remember our "
@@ -4579,31 +4586,31 @@ msgstr ""
 "\n"
 "آمین،  ثُم آمین"
 
-#: admin/prayer-field-content.php:638
+#: admin/prayer-field-content.php:637 migrations/0000-initial.php:91
 msgid "Pray as the Lord leads you as you read today's verse"
 msgstr ""
 "جب آپ آج کی آیت پڑھتے ہیں تو جیسے خُداوند آپ کی راہنمائی کرتا ہے دعا کریں۔"
 
-#: admin/prayer-field-content.php:646
+#: admin/prayer-field-content.php:645 migrations/0000-initial.php:99
 msgid "Praying with insight"
 msgstr "دِل سےدعا کریں"
 
-#: admin/prayer-field-content.php:657
+#: admin/prayer-field-content.php:656 migrations/0000-initial.php:110
 msgid "For believers"
 msgstr "اِیمانداروں کے لئے"
 
-#: admin/prayer-field-content.php:665
+#: admin/prayer-field-content.php:664 migrations/0000-initial.php:118
 msgid "For the lost"
 msgstr "کھوئےہُوؤں کے لئے"
 
-#: admin/prayer-field-content.php:673
+#: admin/prayer-field-content.php:672 migrations/0000-initial.php:126
 msgid "For the church"
 msgstr "کلیسیا کے لئے"
 
-#: admin/prayer-field-content.php:682
+#: admin/prayer-field-content.php:681 migrations/0000-initial.php:135
 msgid "For areas of influence"
 msgstr "اثرو رسوخ والے             علاقوں کے لئے"
 
-#: admin/prayer-field-content.php:690
+#: admin/prayer-field-content.php:689 migrations/0000-initial.php:143
 msgid "Declaration of the scripture"
 msgstr "کلامِ مقدس کےپھیلا و کے لئے۔"
