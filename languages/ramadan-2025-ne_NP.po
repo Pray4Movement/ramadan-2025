@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Disciple.Tools - Ramadan 2025 1.5.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ramadan-2025\n"
-"POT-Creation-Date: 2025-02-04T14:38:41+00:00\n"
+"POT-Creation-Date: 2025-03-07T21:08:33+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -15,13 +15,13 @@ msgstr ""
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: ramadan-2025\n"
 
-#: admin/prayer-field-content.php:69
+#: admin/prayer-field-content.php:85
 msgid ""
 "\"Blessed are the poor in spirit, for theirs is the kingdom of heaven."
 "\" (Matthew 5:3) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:70
+#: admin/prayer-field-content.php:86
 msgid ""
 "Islam is a works-based religion. The more faithfully Muslims practice the "
 "five pillars of Islam, the better their chances are of entering paradise. "
@@ -30,7 +30,7 @@ msgid ""
 "kingdom of heaven."
 msgstr ""
 
-#: admin/prayer-field-content.php:71
+#: admin/prayer-field-content.php:87
 msgid ""
 "Dina did everything she could to make herself clean before God, including "
 "wearing the niqab, her traditional Muslim head covering. She was so "
@@ -44,7 +44,7 @@ msgid ""
 "workplaces, families, and communities."
 msgstr ""
 
-#: admin/prayer-field-content.php:72
+#: admin/prayer-field-content.php:88
 msgid ""
 "Hejer said yes to being a housecleaner for one more household. The extra "
 "money would get her one step closer to the amount she needed to pay for the "
@@ -58,7 +58,7 @@ msgid ""
 "inability to earn God's favor."
 msgstr ""
 
-#: admin/prayer-field-content.php:73
+#: admin/prayer-field-content.php:89
 msgid ""
 "Throughout the Muslim world, churches and believers within those churches "
 "are viewed as inferior. Often, they have fewer rights and resources than the "
@@ -69,7 +69,7 @@ msgid ""
 "power is made perfect in them."
 msgstr ""
 
-#: admin/prayer-field-content.php:74
+#: admin/prayer-field-content.php:90
 msgid ""
 "Pray for places of education in this area. Pray for students who hope that "
 "an education will lead to better jobs and better lives than their parents "
@@ -78,7 +78,7 @@ msgid ""
 "of his glorious inheritance\" are only for the poor in spirit."
 msgstr ""
 
-#: admin/prayer-field-content.php:75
+#: admin/prayer-field-content.php:91
 msgid ""
 "We declare your teaching, Jesus, that the poor in spirit are blessed among "
 "these people, for theirs is the kingdom of heaven. We pray for you to "
@@ -87,13 +87,13 @@ msgid ""
 "Finally, we pray for ourselves. Please make us poor in spirit."
 msgstr ""
 
-#: admin/prayer-field-content.php:79
+#: admin/prayer-field-content.php:95
 msgid ""
 "\"Blessed are those who mourn, for they shall be comforted.\" (Matthew 5:4) "
 "ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:80
+#: admin/prayer-field-content.php:96
 msgid ""
 "Excessive wailing and mourning at the death of a relative is prohibited in "
 "Islam. Each culture defines “excessive” differently. However, it's not rare "
@@ -104,7 +104,7 @@ msgid ""
 "Jesus could bring hope."
 msgstr ""
 
-#: admin/prayer-field-content.php:81
+#: admin/prayer-field-content.php:97
 msgid ""
 "\"My brothers won't let me go see her. If we go to her grave now and ask "
 "Jesus, will he raise her from the dead?\" Leila's heartbroken question about "
@@ -121,7 +121,7 @@ msgid ""
 "comfort."
 msgstr ""
 
-#: admin/prayer-field-content.php:82
+#: admin/prayer-field-content.php:98
 msgid ""
 "\"Say the Shehadda (the confession of being Muslim). It is your fault that "
 "he died.\" Deep grief, fear, and a desire for control caused Khalid to blame "
@@ -133,7 +133,7 @@ msgid ""
 "Ask that the Father, who sees and draws near, would come to comfort in truth."
 msgstr ""
 
-#: admin/prayer-field-content.php:83
+#: admin/prayer-field-content.php:99
 msgid ""
 "Pray for the church to know how to comfort unbelievers with the comfort they "
 "themselves have received from God. It is very difficult when parents die who "
@@ -148,7 +148,7 @@ msgid ""
 "your church to know how to comfort the mourning in truth."
 msgstr ""
 
-#: admin/prayer-field-content.php:84
+#: admin/prayer-field-content.php:100
 msgid ""
 "Pray for places of education in this country. Pause to pray for teachers "
 "working among these people. So many of their students have experienced "
@@ -160,7 +160,7 @@ msgid ""
 "50:4)."
 msgstr ""
 
-#: admin/prayer-field-content.php:85
+#: admin/prayer-field-content.php:101
 msgid ""
 "We believe and declare that you, Jesus, comfort those who mourn. You are the "
 "Man of Sorrows and acquainted with grief. As you \"lifted up and carried\" "
@@ -168,12 +168,12 @@ msgid ""
 "carry the people in this region who are mourning."
 msgstr ""
 
-#: admin/prayer-field-content.php:89
+#: admin/prayer-field-content.php:105
 msgid ""
 "\"Blessed are the meek, for they shall inherit the earth.\" (Matthew 5:5) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:90
+#: admin/prayer-field-content.php:106
 msgid ""
 "Meekness has several meanings: \"enduring injury without resentment,\" or "
 "\"humbly patient under provocation,\" or \"gentle; kind”. Jesus shows us "
@@ -188,7 +188,7 @@ msgid ""
 "to be dishonored on earth so that Jesus will be honored."
 msgstr ""
 
-#: admin/prayer-field-content.php:91
+#: admin/prayer-field-content.php:107
 msgid ""
 "Pray for meekness for believers here. The world shouts that in order to have "
 "influence, you must have money and power. You must fight for your rights, "
@@ -200,7 +200,7 @@ msgid ""
 "is, in the long run, greater than that of the impulsive and demanding."
 msgstr ""
 
-#: admin/prayer-field-content.php:92
+#: admin/prayer-field-content.php:108
 msgid ""
 "Just as the powerful centurion humbled himself before Jesus' authority when "
 "he recognized it (Matthew 8:5-13), pray for the lost in this area to come to "
@@ -209,14 +209,14 @@ msgid ""
 "them the way of Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:93
+#: admin/prayer-field-content.php:109
 msgid ""
 "Jesus sent out His followers as sheep among wolves. Pray for the church to "
 "model their trust in Jesus through living and acting with humility. Pray for "
 "Christian leaders to be an example of servant leadership and meekness."
 msgstr ""
 
-#: admin/prayer-field-content.php:94
+#: admin/prayer-field-content.php:110
 msgid ""
 "Pray for places of business in this area:\n"
 "- For employers to act with justice toward their employees.\n"
@@ -226,7 +226,7 @@ msgid ""
 "meekness in God-honoring ways."
 msgstr ""
 
-#: admin/prayer-field-content.php:98
+#: admin/prayer-field-content.php:114
 msgid ""
 "We declare your teaching, Jesus, that the meek are blessed, for they will "
 "inherit the earth. You \"oppose the proud but give grace to the "
@@ -235,13 +235,13 @@ msgid ""
 "God, draw near to you, and receive grace."
 msgstr ""
 
-#: admin/prayer-field-content.php:104
+#: admin/prayer-field-content.php:120
 msgid ""
 "\"Blessed are those who hunger and thirst for righteousness, for they shall "
 "be satisfied.\" (Matthew 5:6) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:105
+#: admin/prayer-field-content.php:121
 msgid ""
 "True righteousness is achieved only through the blood of Jesus, with him "
 "being \"made sin for us so that we might become the righteousness of "
@@ -256,7 +256,7 @@ msgid ""
 "through the cross."
 msgstr ""
 
-#: admin/prayer-field-content.php:106
+#: admin/prayer-field-content.php:122
 msgid ""
 "The six children were jumping on beds, dreaming up imaginary houses for "
 "dolls, and talking all at once. But Asmae sat on the floor, her back against "
@@ -271,7 +271,7 @@ msgid ""
 "only with Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:107
+#: admin/prayer-field-content.php:123
 msgid ""
 "Maryam sat at the shop, waiting for someone to weigh out herbs to help with "
 "her stomach issues. Five other women were there waiting, and having a "
@@ -292,7 +292,7 @@ msgid ""
 "speaking the gospel."
 msgstr ""
 
-#: admin/prayer-field-content.php:108
+#: admin/prayer-field-content.php:124
 msgid ""
 "Lord, we ask for you to purify your church, your bride. May the beauty of "
 "grace not lull anyone into thinking that you are tolerant of sin. Sin "
@@ -304,7 +304,7 @@ msgid ""
 "righteousness built on the foundation of Jesus (1 Cor 3:12-13)."
 msgstr ""
 
-#: admin/prayer-field-content.php:109
+#: admin/prayer-field-content.php:125
 msgid ""
 "Pray for places of government in this region. Father, we ask for Daniels and "
 "Josephs in the government. We pray for blameless ones dressed in the "
@@ -317,7 +317,7 @@ msgid ""
 "Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:110
+#: admin/prayer-field-content.php:126
 msgid ""
 "Jesus, you alone can satisfy the deepest longings of our hearts. Today, we "
 "intercede on behalf of the people here, asking for you to stir a deep hunger "
@@ -330,12 +330,12 @@ msgid ""
 "Give them opportunities to know about you and to be satisfied by you."
 msgstr ""
 
-#: admin/prayer-field-content.php:120
+#: admin/prayer-field-content.php:136
 msgid ""
 "\"Blessed are the merciful, for they shall receive mercy.\" (Matthew 5:7) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:121
+#: admin/prayer-field-content.php:137
 msgid ""
 "One of the 99 names of God that Muslims often reference is “God the "
 "Merciful.” It is the one hope many Muslims hold on to when they acknowledge "
@@ -347,7 +347,7 @@ msgid ""
 "we can trust in a merciful and just God."
 msgstr ""
 
-#: admin/prayer-field-content.php:122
+#: admin/prayer-field-content.php:138
 msgid ""
 "One sister shook her head, accusingly reporting that she had seen another "
 "sister from her balcony pretending during Ramadan. \"She can't be a "
@@ -361,7 +361,7 @@ msgid ""
 "Father but also extend mercy to one another."
 msgstr ""
 
-#: admin/prayer-field-content.php:123
+#: admin/prayer-field-content.php:139
 msgid ""
 "As a believer looked into the eyes of her friend and apologized for bringing "
 "danger to her, this not-yet-believer extended mercy. \"I know that you are a "
@@ -374,7 +374,7 @@ msgid ""
 "they need the mercy and justice of God, which is offered through the cross."
 msgstr ""
 
-#: admin/prayer-field-content.php:124
+#: admin/prayer-field-content.php:140
 msgid ""
 "\"He has shown you, O mortal, what is good. And what does the Lord require "
 "of you? To act justly and to love mercy and to walk humbly with your God."
@@ -384,7 +384,7 @@ msgid ""
 "acting with justice in the community."
 msgstr ""
 
-#: admin/prayer-field-content.php:125
+#: admin/prayer-field-content.php:141
 msgid ""
 "Pray for places of religion in this area. Today, as Muslims enter mosques "
 "all over the region, pray for those entering to ponder God's mercy. As they "
@@ -395,7 +395,7 @@ msgid ""
 "be quick to show mercy to their neighbors."
 msgstr ""
 
-#: admin/prayer-field-content.php:126
+#: admin/prayer-field-content.php:142
 msgid ""
 "James 3:17 says, \"But the wisdom from above is first pure, then peaceable, "
 "gentle, open to reason, full of mercy and good fruits, impartial and sincere."
@@ -404,12 +404,12 @@ msgid ""
 "other descriptors of wisdom in this verse fill them as well."
 msgstr ""
 
-#: admin/prayer-field-content.php:131
+#: admin/prayer-field-content.php:147
 msgid ""
 "“Blessed are the pure in heart, for they shall see God.\" (Matthew 5:8) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:132
+#: admin/prayer-field-content.php:148
 msgid ""
 "Traditional Islam does not teach about having a personal relationship with "
 "God. The idea that Jesus communicated in this sermon that those who are pure "
@@ -418,7 +418,7 @@ msgid ""
 "about their relationship with God through Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:133
+#: admin/prayer-field-content.php:149
 msgid ""
 "A pure heart means an undivided heart. All the dross has been exposed and "
 "removed. No corners of the soul are dedicated to idols. A Hand of Fatima on "
@@ -431,7 +431,7 @@ msgid ""
 "pure hearts that increasingly see God."
 msgstr ""
 
-#: admin/prayer-field-content.php:134
+#: admin/prayer-field-content.php:150
 msgid ""
 "The only way to a pure heart is through the blood of Jesus. Outward "
 "cleansing is highly valued in Islam, and people often speak of hearts that "
@@ -450,7 +450,7 @@ msgid ""
 "died, once and for all. It is finished."
 msgstr ""
 
-#: admin/prayer-field-content.php:135
+#: admin/prayer-field-content.php:151
 msgid ""
 "\"Truly God is good to Israel,\n"
 "to those who are pure in heart.\n"
@@ -475,7 +475,7 @@ msgid ""
 "73:23-26) ESV\n"
 msgstr ""
 
-#: admin/prayer-field-content.php:153
+#: admin/prayer-field-content.php:169
 msgid ""
 "Pray for places of education in this area. Pray for children in schools to:\n"
 "- Be protected from evil, abuse, inappropriate images, and unwelcome "
@@ -487,7 +487,7 @@ msgid ""
 "- Be shielded from themes that are too much for their young hearts."
 msgstr ""
 
-#: admin/prayer-field-content.php:158
+#: admin/prayer-field-content.php:174
 msgid ""
 "We declare that purity be seen in servants of God:\n"
 "\n"
@@ -503,13 +503,13 @@ msgid ""
 "Spirit, genuine love, truthful speech, and your power."
 msgstr ""
 
-#: admin/prayer-field-content.php:166
+#: admin/prayer-field-content.php:182
 msgid ""
 "“Blessed are the peacemakers, for they shall be called sons of God."
 "\" (Matthew 5:9) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:167
+#: admin/prayer-field-content.php:183
 msgid ""
 "The most common greeting across the Muslim world is Salam (Peace). Hearts "
 "long for peace and even fight for peace, but peace is only found through the "
@@ -521,7 +521,7 @@ msgid ""
 "bringing the gospel. God is the great reconciler."
 msgstr ""
 
-#: admin/prayer-field-content.php:168
+#: admin/prayer-field-content.php:184
 msgid ""
 "It was just a Christian women’s craft party, but the tension was palpable. "
 "It always was when she was there. “I’ve got to do better than this,” Sonia "
@@ -542,7 +542,7 @@ msgid ""
 "you doing, my Sister?”"
 msgstr ""
 
-#: admin/prayer-field-content.php:169
+#: admin/prayer-field-content.php:185
 msgid ""
 "“You don’t know the REAL Hesna,” Ali spat his sister’s name out of his "
 "mouth.  His face clouded over as he recalled their terrible fight after "
@@ -557,7 +557,7 @@ msgid ""
 "conversation, to make peace."
 msgstr ""
 
-#: admin/prayer-field-content.php:170
+#: admin/prayer-field-content.php:186
 msgid ""
 "Pray that the \"God of peace would soon crush Satan\" (Romans 16:20) and "
 "bring eternal peace. Satan is the accuser, the liar, the one who whispers "
@@ -567,7 +567,7 @@ msgid ""
 "peace bringers."
 msgstr ""
 
-#: admin/prayer-field-content.php:171
+#: admin/prayer-field-content.php:187
 msgid ""
 "Pray for places of community in this area. Pray for sports clubs to:\n"
 "- be places where Christians can build relationships with Muslims and model "
@@ -577,7 +577,7 @@ msgid ""
 "- be places where Christians live out the peace of Christ in winsome ways."
 msgstr ""
 
-#: admin/prayer-field-content.php:175
+#: admin/prayer-field-content.php:191
 msgid ""
 "When movements to Christ happen among a people group, everything gets "
 "multiplied: churches, disciples, obedience, leaders, intercessors, disciple-"
@@ -588,13 +588,13 @@ msgid ""
 "people."
 msgstr ""
 
-#: admin/prayer-field-content.php:181
+#: admin/prayer-field-content.php:197
 msgid ""
 "“Blessed are those who are persecuted for righteousness' sake, for theirs is "
 "the kingdom of heaven.\" (Matthew 5:10) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:182
+#: admin/prayer-field-content.php:198
 msgid ""
 "Throughout most of the Muslim world, Christians are persecuted for their "
 "faith. This persecution causes many Christians from Muslim backgrounds or "
@@ -605,7 +605,7 @@ msgid ""
 "prayer time today."
 msgstr ""
 
-#: admin/prayer-field-content.php:183
+#: admin/prayer-field-content.php:199
 msgid ""
 "Pray that God's children who are right now in prison because of their faith "
 "in Jesus would remember and believe the truth of Jesus' words. \"Blessed are "
@@ -618,7 +618,7 @@ msgid ""
 "\"fellowship in his suffering.\""
 msgstr ""
 
-#: admin/prayer-field-content.php:184
+#: admin/prayer-field-content.php:200
 msgid ""
 "When the oppressors strike the faces of believers, may their hearts be "
 "stricken by the grace and light of Jesus in the face of his children. May "
@@ -629,7 +629,7 @@ msgid ""
 "jailer at Philippi, \"What must I do to be saved?\""
 msgstr ""
 
-#: admin/prayer-field-content.php:185
+#: admin/prayer-field-content.php:201
 msgid ""
 "One of the most difficult things for the persecuted church all over the "
 "world is gathering faithfully. Believers who have not yet told their "
@@ -642,7 +642,7 @@ msgid ""
 "is worthy."
 msgstr ""
 
-#: admin/prayer-field-content.php:186
+#: admin/prayer-field-content.php:202
 msgid ""
 "Pray for places of business in this region:\n"
 " - Pray for employers who would esteem their Christian employees because of "
@@ -653,7 +653,7 @@ msgid ""
 "this and repent."
 msgstr ""
 
-#: admin/prayer-field-content.php:190
+#: admin/prayer-field-content.php:206
 msgid ""
 "Persecution can accelerate movements when it results in greater boldness "
 "among believers: \"And there arose on that day a great persecution against "
@@ -666,7 +666,7 @@ msgid ""
 "Gospel works."
 msgstr ""
 
-#: admin/prayer-field-content.php:194
+#: admin/prayer-field-content.php:210
 msgid ""
 "“Blessed are you when others revile you and persecute you and utter all "
 "kinds of evil against you falsely on my account. Rejoice and be glad, for "
@@ -674,7 +674,7 @@ msgid ""
 "before you.\" (Matthew 5:11-12) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:195
+#: admin/prayer-field-content.php:211
 msgid ""
 "Throughout the Muslim world, Christians are falsely accused of worshiping "
 "three gods or of teaching that God and the Virgin Mary had a sexual "
@@ -687,7 +687,7 @@ msgid ""
 "persecution."
 msgstr ""
 
-#: admin/prayer-field-content.php:196
+#: admin/prayer-field-content.php:212
 msgid ""
 "We pray today for the believers who are afraid to declare that they stand "
 "with Jesus. For those who have been falsely accused of conspiring against "
@@ -699,7 +699,7 @@ msgid ""
 "lift the cross of suffering and follow Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:197
+#: admin/prayer-field-content.php:213
 msgid ""
 "Father, we pray for those who are persecuting your children. For those who "
 "have uttered evil against them falsely. We pray that they will see the good "
@@ -712,7 +712,7 @@ msgid ""
 "them, Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:198
+#: admin/prayer-field-content.php:214
 msgid ""
 "\"To the present hour we hunger and thirst, we are poorly dressed and "
 "buffeted and homeless, and we labor, working with our own hands. When "
@@ -728,7 +728,7 @@ msgid ""
 "- consolation and encouragement"
 msgstr ""
 
-#: admin/prayer-field-content.php:203
+#: admin/prayer-field-content.php:219
 msgid ""
 "Pray for places of government in this region. Pray for:\n"
 "- compassionate judges to preside over cases against Christians in which "
@@ -739,7 +739,7 @@ msgid ""
 "their citizens, even Christians"
 msgstr ""
 
-#: admin/prayer-field-content.php:207
+#: admin/prayer-field-content.php:223
 msgid ""
 "\"When he was reviled, he did not revile in return; when he suffered, he did "
 "not threaten, but continued entrusting himself to him who judges justly. He "
@@ -753,14 +753,14 @@ msgid ""
 "will go on to do the same with others."
 msgstr ""
 
-#: admin/prayer-field-content.php:212
+#: admin/prayer-field-content.php:228
 msgid ""
 "“You are the salt of the earth, but if salt has lost its taste, how shall "
 "its saltiness be restored? It is no longer good for anything except to be "
 "thrown out and trampled under people's feet.\" (Matthew 5:13) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:213
+#: admin/prayer-field-content.php:229
 msgid ""
 "Most people who lead Muslims to put their faith in Christ talk about how "
 "many different conversations, supernatural experiences, and divine "
@@ -771,7 +771,7 @@ msgid ""
 "evangelistic TV programming, and more."
 msgstr ""
 
-#: admin/prayer-field-content.php:214
+#: admin/prayer-field-content.php:230
 msgid ""
 "Oh Jesus, let your children retain their saltiness.  We pray that believers "
 "will abide in you, lingering long in your presence, listening to you and "
@@ -781,7 +781,7 @@ msgid ""
 "preach Christ and him crucified, even if they do so with fear and trembling."
 msgstr ""
 
-#: admin/prayer-field-content.php:215
+#: admin/prayer-field-content.php:231
 msgid ""
 "Lord, you see each person wounded by sin in this area.  You know each one "
 "that is living a tasteless life that has no meaning because they do not know "
@@ -795,7 +795,7 @@ msgid ""
 "cleansed by your blood.  Let them taste and see that you are good."
 msgstr ""
 
-#: admin/prayer-field-content.php:216
+#: admin/prayer-field-content.php:232
 msgid ""
 "Jesus' parallel teaching on this passage in Mark 9:50 gives an interesting "
 "twist, \"Salt is good, but if the salt has lost its saltiness, how will you "
@@ -808,7 +808,7 @@ msgid ""
 "another."
 msgstr ""
 
-#: admin/prayer-field-content.php:217
+#: admin/prayer-field-content.php:233
 msgid ""
 "Pray for places of religion among these people. Pray for Quranic classes "
 "where children go to memorize the Quran and learn the basics of Islam. Pray "
@@ -821,7 +821,7 @@ msgid ""
 "the earth'"
 msgstr ""
 
-#: admin/prayer-field-content.php:221
+#: admin/prayer-field-content.php:237
 msgid ""
 "God we declare Colossians 4:6 for believers among this people. \"Let your "
 "speech always be gracious, seasoned with salt, so that you know how you "
@@ -833,7 +833,7 @@ msgid ""
 "future discussions about God's word."
 msgstr ""
 
-#: admin/prayer-field-content.php:227
+#: admin/prayer-field-content.php:243
 msgid ""
 "“You are the light of the world. A city set on a hill cannot be hidden. Nor "
 "do people light a lamp and put it under a basket, but on a stand, and it "
@@ -842,7 +842,7 @@ msgid ""
 "Father who is in heaven.\" (Matthew 5:14-16) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:228
+#: admin/prayer-field-content.php:244
 msgid ""
 "Many Muslims equate western culture with Christianity and assume all "
 "westerners are Christians. As a result they see evil deeds and immoral "
@@ -853,7 +853,7 @@ msgid ""
 "2:18) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:229
+#: admin/prayer-field-content.php:245
 msgid ""
 "A young woman was working with children with disabilities. As she and a "
 "young boy drew a picture of a large hand reaching down from bright light "
@@ -865,7 +865,7 @@ msgid ""
 "others see their obedience and long to come into the kingdom of light."
 msgstr ""
 
-#: admin/prayer-field-content.php:230
+#: admin/prayer-field-content.php:246
 msgid ""
 "So many are looking “to the earth, but behold, distress and darkness, the "
 "gloom of anguish.”(Isaiah 8:22) ESV Nevertheless, the time of darkness and "
@@ -879,7 +879,7 @@ msgid ""
 "God."
 msgstr ""
 
-#: admin/prayer-field-content.php:232
+#: admin/prayer-field-content.php:248
 msgid ""
 "Jesus said, \"I am the light of the world. Whoever follows me will not walk "
 "in darkness, but will have the light of life.\" (John 8:12) ESV We pray for "
@@ -888,7 +888,7 @@ msgid ""
 "the darkest of areas."
 msgstr ""
 
-#: admin/prayer-field-content.php:233
+#: admin/prayer-field-content.php:249
 msgid ""
 "Pray for places of education in this area. Pray for universities to be "
 "places where:\n"
@@ -900,7 +900,7 @@ msgid ""
 "classes, and clubs"
 msgstr ""
 
-#: admin/prayer-field-content.php:237
+#: admin/prayer-field-content.php:253
 msgid ""
 "Father, may Christians live out the reality that they are the light of the "
 "world. We pray for their light to shine before others so that Muslims they "
@@ -912,7 +912,7 @@ msgid ""
 "of the World."
 msgstr ""
 
-#: admin/prayer-field-content.php:241
+#: admin/prayer-field-content.php:257
 msgid ""
 "“Do not think that I have come to abolish the Law or the Prophets; I have "
 "not come to abolish them but to fulfill them. For truly, I say to you, until "
@@ -925,7 +925,7 @@ msgid ""
 "of heaven.\" (Matthew 5:17-20) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:242
+#: admin/prayer-field-content.php:258
 msgid ""
 "The Islamic doctrine of abrogation means that some verses in the Quran can "
 "be \"canceled out\" by later verses. This is contrary to the unchanging "
@@ -940,7 +940,7 @@ msgid ""
 "and to make him the anchor for their souls."
 msgstr ""
 
-#: admin/prayer-field-content.php:243
+#: admin/prayer-field-content.php:259
 msgid ""
 "Pray that as new believers increase in knowledge and understanding of the "
 "Word of God, they will see both the freedom from empty rituals and the "
@@ -954,7 +954,7 @@ msgid ""
 "God and people."
 msgstr ""
 
-#: admin/prayer-field-content.php:244
+#: admin/prayer-field-content.php:260
 msgid ""
 "Father, let the lost recognize that the Scriptures are true. We declare that "
 "the Word of the Lord endures forever and we pray against the schemes of the "
@@ -972,7 +972,7 @@ msgid ""
 "lie. He reveals himself to us because he wants us to know him more and more."
 msgstr ""
 
-#: admin/prayer-field-content.php:245
+#: admin/prayer-field-content.php:261
 msgid ""
 "Pray for the church, meeting openly or underground, no matter the size, to "
 "be filled with sinners who confess that only through the righteousness of "
@@ -983,7 +983,7 @@ msgid ""
 "more."
 msgstr ""
 
-#: admin/prayer-field-content.php:246
+#: admin/prayer-field-content.php:262
 msgid ""
 "Pray for places of community among this people. Pray for every neighborhood "
 "to:\n"
@@ -995,7 +995,7 @@ msgid ""
 "to the righteousness we can only have through Christ"
 msgstr ""
 
-#: admin/prayer-field-content.php:250
+#: admin/prayer-field-content.php:266
 msgid ""
 "Lord, we ask for Muslims in this place to see examples of true followers of "
 "Christ who:\n"
@@ -1009,7 +1009,7 @@ msgid ""
 "plan of redemption from creation to Christ from the Bible."
 msgstr ""
 
-#: admin/prayer-field-content.php:258
+#: admin/prayer-field-content.php:274
 msgid ""
 "“You have heard that it was said to those of old, ‘You shall not murder; and "
 "whoever murders will be liable to judgment.’ But I say to you that everyone "
@@ -1025,7 +1025,7 @@ msgid ""
 "penny.\" (Matthew 5:21-26) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:259
+#: admin/prayer-field-content.php:275
 msgid ""
 "Hunger, thirst, and more often nicotine withdrawals during the Ramadan fast "
 "can make people argumentative and hostile in the afternoon hours leading up "
@@ -1040,7 +1040,7 @@ msgid ""
 "forgiven through Jesus' death, burial, and resurrection."
 msgstr ""
 
-#: admin/prayer-field-content.php:260
+#: admin/prayer-field-content.php:276
 msgid ""
 "\"How dare she take her 'liberty in Christ' to mean she can live like an "
 "immoral woman -- going out at night with men, drinking...?\" Ahmed fumed. "
@@ -1053,7 +1053,7 @@ msgid ""
 "one another today, in Jesus' name."
 msgstr ""
 
-#: admin/prayer-field-content.php:261
+#: admin/prayer-field-content.php:277
 msgid ""
 "Lord, we pray for those who are quick to anger and quick to ridicule. Let "
 "them see and understand that they cannot control others, nor can they be "
@@ -1065,7 +1065,7 @@ msgid ""
 "God.\" (2 Cor 4: 20)"
 msgstr ""
 
-#: admin/prayer-field-content.php:262
+#: admin/prayer-field-content.php:278
 msgid ""
 "Pride and comparison cause deep hurt in the hearts of God's children who are "
 "working in the fields and longing for harvest. When hurt leads to anger and "
@@ -1077,7 +1077,7 @@ msgid ""
 "humility, repentance, and unity."
 msgstr ""
 
-#: admin/prayer-field-content.php:263
+#: admin/prayer-field-content.php:279
 msgid ""
 "Pray for places of business in this place.\n"
 "\n"
@@ -1092,7 +1092,7 @@ msgid ""
 "pursue reconciliation with others."
 msgstr ""
 
-#: admin/prayer-field-content.php:268
+#: admin/prayer-field-content.php:284
 msgid ""
 "Today, may the people of this land experience the new life Jesus came to "
 "give us. May they walk in his transforming power to:\n"
@@ -1105,7 +1105,7 @@ msgid ""
 "Christ forgave us (Ephesians 4:26-32)"
 msgstr ""
 
-#: admin/prayer-field-content.php:276
+#: admin/prayer-field-content.php:292
 msgid ""
 "“You have heard that it was said, ‘You shall not commit adultery.’ But I say "
 "to you that everyone who looks at a woman with lustful intent has already "
@@ -1117,7 +1117,7 @@ msgid ""
 "\" (Matthew 5:27-30) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:277
+#: admin/prayer-field-content.php:293
 msgid ""
 "Mohammed said that it was permitted to have four wives if all were treated "
 "equally. He himself had at least 11 wives. Many were widows or prisoners of "
@@ -1129,7 +1129,7 @@ msgid ""
 "revealed across this land."
 msgstr ""
 
-#: admin/prayer-field-content.php:278
+#: admin/prayer-field-content.php:294
 msgid ""
 "\"Pay attention to this. See what Scripture says,\" one woman said to her "
 "husband. We were reading this passage together with a new believing couple "
@@ -1140,7 +1140,7 @@ msgid ""
 "delight and faithfulness."
 msgstr ""
 
-#: admin/prayer-field-content.php:279
+#: admin/prayer-field-content.php:295
 msgid ""
 "\"My husband took the cologne I gave him, went to the neighboring country, "
 "and used it to woo and marry another woman.\" Sumayah was crushed and asked "
@@ -1153,7 +1153,7 @@ msgid ""
 "beauty of Christ's sacrifice."
 msgstr ""
 
-#: admin/prayer-field-content.php:280
+#: admin/prayer-field-content.php:296
 msgid ""
 "We pray for the church of this place to live out 1 Thessalonians 4:3-7. May "
 "the church: \n"
@@ -1164,7 +1164,7 @@ msgid ""
 "- know that God has not called them for impurity, but in holiness"
 msgstr ""
 
-#: admin/prayer-field-content.php:285
+#: admin/prayer-field-content.php:301
 msgid ""
 "Pray for places of religion.\n"
 "\n"
@@ -1176,7 +1176,7 @@ msgid ""
 "solution for their shame."
 msgstr ""
 
-#: admin/prayer-field-content.php:289
+#: admin/prayer-field-content.php:305
 msgid ""
 "Jesus, you want to give us better than what the world offers. We pray for "
 "you to soften the hearts of Muslim men and women throughout this land to "
@@ -1190,7 +1190,7 @@ msgid ""
 "along with its desires, but whoever does the will of God abides forever.\""
 msgstr ""
 
-#: admin/prayer-field-content.php:295
+#: admin/prayer-field-content.php:311
 msgid ""
 "“It was also said, ‘Whoever divorces his wife, let him give her a "
 "certificate of divorce.’ But I say to you that everyone who divorces his "
@@ -1199,7 +1199,7 @@ msgid ""
 "ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:296
+#: admin/prayer-field-content.php:312
 msgid ""
 "Divorce, though taboo, is also common in the Muslim world. Women especially "
 "face significant hardship and social shame following a divorce. As we pray "
@@ -1209,7 +1209,7 @@ msgid ""
 "commitment of love and trust in marriage."
 msgstr ""
 
-#: admin/prayer-field-content.php:297
+#: admin/prayer-field-content.php:313
 msgid ""
 "\"Did you hear about Samia and Mahmoud?!”  This sister’s eyes widen with "
 "true sorrow at the recent news of a believing couple’s separation, which "
@@ -1224,7 +1224,7 @@ msgid ""
 "often suffers in tandem with their Islamic family members and neighbors."
 msgstr ""
 
-#: admin/prayer-field-content.php:298
+#: admin/prayer-field-content.php:314
 msgid ""
 "“I can’t UN-hear what she said,” Thawraya half spat, and half wept out the "
 "words. How could she do this? “We treated her like a daughter; we gave her "
@@ -1244,7 +1244,7 @@ msgid ""
 "herself had been a bride by age 13…."
 msgstr ""
 
-#: admin/prayer-field-content.php:300
+#: admin/prayer-field-content.php:316
 msgid ""
 "Pray for both the current and future church in this region to be a place "
 "where marriage between believers is honored, protected, and supported. Pray "
@@ -1257,7 +1257,7 @@ msgid ""
 "watching."
 msgstr ""
 
-#: admin/prayer-field-content.php:301
+#: admin/prayer-field-content.php:317
 msgid ""
 "Pray for places of government.\n"
 "\n"
@@ -1269,7 +1269,7 @@ msgid ""
 "and protect the rights of victims."
 msgstr ""
 
-#: admin/prayer-field-content.php:306
+#: admin/prayer-field-content.php:322
 msgid ""
 "\"But from the beginning of creation, 'God made them male and female.' "
 "Therefore, a man shall leave his father and mother and hold fast to his "
@@ -1284,7 +1284,7 @@ msgid ""
 "also follow you."
 msgstr ""
 
-#: admin/prayer-field-content.php:310
+#: admin/prayer-field-content.php:326
 msgid ""
 "“Again you have heard that it was said to those of old, ‘You shall not swear "
 "falsely, but shall perform to the Lord what you have sworn.’ But I say to "
@@ -1295,7 +1295,7 @@ msgid ""
 "‘No’; anything more than this comes from evil.\" (Matthew 5:33-37) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:311
+#: admin/prayer-field-content.php:327
 msgid ""
 "Islam teaches that deception under certain circumstances is acceptable, and "
 "the effects of this teaching breeds mistrust—of God and of others. But the "
@@ -1307,7 +1307,7 @@ msgid ""
 "they be able to simply let their 'yes' be ‘yes’ and their 'no' be ‘no’."
 msgstr ""
 
-#: admin/prayer-field-content.php:312
+#: admin/prayer-field-content.php:328
 msgid ""
 "\"Lies are very useful sometimes. They smooth things over and make them "
 "easier, \" one new brother declared. Another said, \"I forgot to attend my "
@@ -1321,7 +1321,7 @@ msgid ""
 "language of truth."
 msgstr ""
 
-#: admin/prayer-field-content.php:313
+#: admin/prayer-field-content.php:329
 msgid ""
 "While sharing food at a bus stop, one man told another to pick out anything "
 "he wanted to eat and assured him that he would cover the bill for them both. "
@@ -1334,7 +1334,7 @@ msgid ""
 "speak the truth and learn trust."
 msgstr ""
 
-#: admin/prayer-field-content.php:314
+#: admin/prayer-field-content.php:330
 msgid ""
 "In the book of Acts, we see the early church confronted with a serious issue "
 "of dishonesty in the story of Ananias and Sapphira (Acts 5). God dealt "
@@ -1349,7 +1349,7 @@ msgid ""
 "another.\" ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:315
+#: admin/prayer-field-content.php:331
 msgid ""
 "Pray for places of education.\n"
 "\n"
@@ -1363,7 +1363,7 @@ msgid ""
 "the Gospel."
 msgstr ""
 
-#: admin/prayer-field-content.php:320
+#: admin/prayer-field-content.php:336
 msgid ""
 "Jesus said to the woman at the well, \"But the hour is coming, and is now "
 "here, when the true worshipers will worship the Father in spirit and truth, "
@@ -1373,7 +1373,7 @@ msgid ""
 "the same and to be transformed by the truth of Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:324
+#: admin/prayer-field-content.php:340
 msgid ""
 "“You have heard that it was said, ‘An eye for an eye and a tooth for a "
 "tooth.’ But I say to you, Do not resist the one who is evil. But if anyone "
@@ -1384,7 +1384,7 @@ msgid ""
 "5:38-42) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:325
+#: admin/prayer-field-content.php:341
 msgid ""
 "It is surprising when Christians from a Muslim background share their "
 "testimony, how often Matthew 5:38-42 is quoted. Jesus' teaching to \"turn "
@@ -1397,7 +1397,7 @@ msgid ""
 "from the Injil (New Testament)."
 msgstr ""
 
-#: admin/prayer-field-content.php:326
+#: admin/prayer-field-content.php:342
 msgid ""
 "\"He's not too big; you could have taken him,\" an older woman said. A "
 "brother had been beaten and stabbed the evening before by someone who had "
@@ -1410,7 +1410,7 @@ msgid ""
 "courage to radically love those who hurt them."
 msgstr ""
 
-#: admin/prayer-field-content.php:327
+#: admin/prayer-field-content.php:343
 msgid ""
 "Sometimes, mercy seems like injustice. If the one who is begging or "
 "borrowing seems lazy and \"needs to be taught a lesson,\" should people give "
@@ -1426,7 +1426,7 @@ msgid ""
 "the fear based on the lie that they depend only on themselves for care."
 msgstr ""
 
-#: admin/prayer-field-content.php:328
+#: admin/prayer-field-content.php:344
 msgid ""
 "Paul's words to the church in Rome can only be realized by the power of "
 "God's Spirit in His Church (Romans 12:17-19). We pray for the church in this "
@@ -1437,7 +1437,7 @@ msgid ""
 "- never avenge themselves, but leave it to the wrath of God"
 msgstr ""
 
-#: admin/prayer-field-content.php:333
+#: admin/prayer-field-content.php:349
 msgid ""
 "Places of Community\n"
 "\n"
@@ -1451,7 +1451,7 @@ msgid ""
 "among these people."
 msgstr ""
 
-#: admin/prayer-field-content.php:338
+#: admin/prayer-field-content.php:354
 msgid ""
 "Jesus, you perfectly fulfilled the prophecies of Isaiah,\n"
 "\"I gave my back to those who strike,\n"
@@ -1473,7 +1473,7 @@ msgid ""
 "make disciples in our generation. Amen."
 msgstr ""
 
-#: admin/prayer-field-content.php:354
+#: admin/prayer-field-content.php:370
 msgid ""
 "“You have heard that it was said, ‘You shall love your neighbor and hate "
 "your enemy.’ But I say to you, Love your enemies and pray for those who "
@@ -1486,7 +1486,7 @@ msgid ""
 "perfect.\" (Matthew 5:43-48) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:355
+#: admin/prayer-field-content.php:371
 msgid ""
 "The whole Muslim world continues to watch the war that started between "
 "Israel and Gaza on October 7, 2023. Emotion runs high. Hatred for the enemy "
@@ -1496,7 +1496,7 @@ msgid ""
 "would live out this teaching and for Muslims to be convicted by it."
 msgstr ""
 
-#: admin/prayer-field-content.php:356
+#: admin/prayer-field-content.php:372
 msgid ""
 "After suffering in prison, dignity and bones were both broken because of "
 "declaring allegiance to Jesus, and it was hard for Simon to forgive. \"They "
@@ -1509,7 +1509,7 @@ msgid ""
 "the power of the blood of Jesus and the glory of His grace."
 msgstr ""
 
-#: admin/prayer-field-content.php:357
+#: admin/prayer-field-content.php:373
 msgid ""
 "\"This verse makes no sense,\" Sophia said when her friend told her that God "
 "asks us to love our enemies. She was angry about the suffering in Palestine, "
@@ -1524,7 +1524,7 @@ msgid ""
 "the most powerful weapon of freedom."
 msgstr ""
 
-#: admin/prayer-field-content.php:358
+#: admin/prayer-field-content.php:374
 msgid ""
 "May the existing church and the future church in this region live out Romans "
 "12:20-21, \"...if your enemy is hungry, feed him; if he is thirsty, give him "
@@ -1532,7 +1532,7 @@ msgid ""
 "Do not be overcome by evil, but overcome evil with good.” ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:359
+#: admin/prayer-field-content.php:375
 msgid ""
 "Places of Business\n"
 "\n"
@@ -1545,7 +1545,7 @@ msgid ""
 "nonbelievers to be convicted by selfless love."
 msgstr ""
 
-#: admin/prayer-field-content.php:363
+#: admin/prayer-field-content.php:379
 msgid ""
 "God, you pour out blessings (sun and rain, for example) on those who hate "
 "you, reject your love, and despise your message.\n"
@@ -1557,7 +1557,7 @@ msgid ""
 "read His Word."
 msgstr ""
 
-#: admin/prayer-field-content.php:369
+#: admin/prayer-field-content.php:385
 msgid ""
 "“Beware of practicing your righteousness before other people in order to be "
 "seen by them, for then you will have no reward from your Father who is in "
@@ -1569,7 +1569,7 @@ msgid ""
 "sees in secret will reward you.\" (Matthew 6:1-4) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:370
+#: admin/prayer-field-content.php:386
 msgid ""
 "Zakat, one of the five pillars of Islam, requires Muslims to donate a set "
 "percentage of their wealth each year to Muslim charities. The New Testament "
@@ -1580,7 +1580,7 @@ msgid ""
 "(Ezekiel 36:26)"
 msgstr ""
 
-#: admin/prayer-field-content.php:371
+#: admin/prayer-field-content.php:387
 msgid ""
 "As new believers follow the example of the early church's generosity (Acts "
 "2), may they believe their Father sees what is done in secret and not fall "
@@ -1591,7 +1591,7 @@ msgid ""
 "loved, already forgiven. Let them give freely before the eyes of the Father."
 msgstr ""
 
-#: admin/prayer-field-content.php:372
+#: admin/prayer-field-content.php:388
 msgid ""
 "When the burden of trying to give enough is too heavy, when the need to "
 "appear righteous seems tremendously important but impossible, may those who "
@@ -1601,7 +1601,7 @@ msgid ""
 "truth from believers."
 msgstr ""
 
-#: admin/prayer-field-content.php:373
+#: admin/prayer-field-content.php:389
 msgid ""
 "Lord, we pray for Your church to repent from hypocrisy.  Whenever Your "
 "children fall into giving as a way to be seen by others, let them be grieved "
@@ -1611,7 +1611,7 @@ msgid ""
 "joy."
 msgstr ""
 
-#: admin/prayer-field-content.php:374
+#: admin/prayer-field-content.php:390
 msgid ""
 "Places of Government\n"
 "\n"
@@ -1624,7 +1624,7 @@ msgid ""
 "humble ways."
 msgstr ""
 
-#: admin/prayer-field-content.php:379
+#: admin/prayer-field-content.php:395
 msgid ""
 "May the same words be true of reproducing churches and disciples in this "
 "region as was written about the reproducing church in Macedonia:\n"
@@ -1637,7 +1637,7 @@ msgid ""
 "8:1-3) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:385
+#: admin/prayer-field-content.php:401
 msgid ""
 "“And when you pray, you must not be like the hypocrites. For they love to "
 "stand and pray in the synagogues and at the street corners, that they may be "
@@ -1649,7 +1649,7 @@ msgid ""
 "your Father knows what you need before you ask him.\" (Matthew 6:5-8) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:386
+#: admin/prayer-field-content.php:402
 msgid ""
 "Muslims and Christians often use the same Arabic word for \"prayer\". The "
 "meanings of that word, however, could not be more different. Islamic salat "
@@ -1662,7 +1662,7 @@ msgid ""
 "encounter with God through it."
 msgstr ""
 
-#: admin/prayer-field-content.php:387
+#: admin/prayer-field-content.php:403
 msgid ""
 "Father, we ask that you teach your children to linger before you in the "
 "quiet place. Jesus, strengthen your disciples to follow your example of "
@@ -1674,7 +1674,7 @@ msgid ""
 "(Romans 8). Help each child to simply come to their Father and ask."
 msgstr ""
 
-#: admin/prayer-field-content.php:388
+#: admin/prayer-field-content.php:404
 msgid ""
 "Cleanse us and the people of this place from self-righteousness. We confess "
 "the idol of approval that so many try to carry. In Islam, some look with "
@@ -1689,7 +1689,7 @@ msgid ""
 "can come and receive your righteousness through the blood of Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:389
+#: admin/prayer-field-content.php:405
 msgid ""
 "Holy Spirit, when believers meet together to pray, let them pray with one "
 "Spirit. Let them \"lift up voices together\" and remember your words. (Acts "
@@ -1700,7 +1700,7 @@ msgid ""
 "you know what we need before we ask."
 msgstr ""
 
-#: admin/prayer-field-content.php:390
+#: admin/prayer-field-content.php:406
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -1717,7 +1717,7 @@ msgid ""
 "Christian media."
 msgstr ""
 
-#: admin/prayer-field-content.php:395
+#: admin/prayer-field-content.php:411
 msgid ""
 "Let's pray Paul's prayer for the Ephesian church (Ephesians 3:14-19) over "
 "the people of this area:\n"
@@ -1741,7 +1741,7 @@ msgid ""
 "knowledge. That they may be filled with all the fullness of God."
 msgstr ""
 
-#: admin/prayer-field-content.php:410
+#: admin/prayer-field-content.php:426
 msgid ""
 "\"Pray then like this: “Our Father in heaven, hallowed be your name. Your "
 "kingdom come, your will be done, on earth as it is in heaven. Give us this "
@@ -1752,7 +1752,7 @@ msgid ""
 "Father forgive your trespasses.\" (Matthew 6:9-15) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:411
+#: admin/prayer-field-content.php:427
 msgid ""
 "In Islam, God has 99 names–such as All-Merciful, The Beneficent, and The "
 "Source of Peace – but none of those names is Love. Father God, who reveals "
@@ -1760,7 +1760,7 @@ msgid ""
 "Muslims in this region with your true nature."
 msgstr ""
 
-#: admin/prayer-field-content.php:412
+#: admin/prayer-field-content.php:428
 msgid ""
 "Father, what a gift it is to be called your children. May the believers in "
 "this place know their identity as your beloved adopted ones and speak your "
@@ -1772,7 +1772,7 @@ msgid ""
 "linger in your presence, listening, trusting, and speaking honestly to you."
 msgstr ""
 
-#: admin/prayer-field-content.php:413
+#: admin/prayer-field-content.php:429
 msgid ""
 "Praying is speaking to God, our Father in heaven. Please let Muslims see "
 "that you long for them to believe in Jesus and have the right to be called "
@@ -1785,7 +1785,7 @@ msgid ""
 "God through Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:414
+#: admin/prayer-field-content.php:430
 msgid ""
 "It is not uncommon for Muslims who turn to Christ to lose their jobs and "
 "their family support system. We pray, Lord, for all believers to be a part "
@@ -1800,7 +1800,7 @@ msgid ""
 "families to have countless testimonies of God's provision of daily bread."
 msgstr ""
 
-#: admin/prayer-field-content.php:417
+#: admin/prayer-field-content.php:433
 msgid ""
 "Places of Education\n"
 "\n"
@@ -1813,7 +1813,7 @@ msgid ""
 "is in heaven"
 msgstr ""
 
-#: admin/prayer-field-content.php:422
+#: admin/prayer-field-content.php:438
 msgid ""
 "The Gospels are filled with clear warnings that extending forgiveness is an "
 "essential outcome of receiving God's forgiveness. Today, we pray and ask for "
@@ -1830,7 +1830,7 @@ msgid ""
 "to want to know the source of such life-transforming freedom."
 msgstr ""
 
-#: admin/prayer-field-content.php:431
+#: admin/prayer-field-content.php:447
 msgid ""
 "“And when you fast, do not look gloomy like the hypocrites, for they "
 "disfigure their faces that their fasting may be seen by others. Truly, I say "
@@ -1840,7 +1840,7 @@ msgid ""
 "\" (Matthew 6:16-18) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:432
+#: admin/prayer-field-content.php:448
 msgid ""
 "Muslims and Christians use the same Arabic word for \"fasting.\" And similar "
 "to what we learned yesterday about prayer, the meanings are fundamentally "
@@ -1854,7 +1854,7 @@ msgid ""
 "challenged to continue investigating His teachings."
 msgstr ""
 
-#: admin/prayer-field-content.php:433
+#: admin/prayer-field-content.php:449
 msgid ""
 "Jesus, thank you for teaching us that admiration of others is a poor reward "
 "for fasting. Father, thank you for seeing what is in secret.  Nothing is "
@@ -1867,7 +1867,7 @@ msgid ""
 "them. May believers be satisfied only in eating the bread of Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:434
+#: admin/prayer-field-content.php:450
 msgid ""
 "May all who fast to be seen by others find their fast empty. Thank you, "
 "Father, for seeing the thoughts and motives of the heart. For those who are "
@@ -1878,7 +1878,7 @@ msgid ""
 "know God as revealed in Jesus Christ by His Spirit."
 msgstr ""
 
-#: admin/prayer-field-content.php:435
+#: admin/prayer-field-content.php:451
 msgid ""
 "We pray for the church among this people group to be an example of true "
 "fasting that pleases God (Isaiah 58:6-7):\n"
@@ -1894,7 +1894,7 @@ msgid ""
 "place."
 msgstr ""
 
-#: admin/prayer-field-content.php:443
+#: admin/prayer-field-content.php:459
 msgid ""
 "Places of Community\n"
 "\n"
@@ -1907,7 +1907,7 @@ msgid ""
 "soft hearts to meet a Christian who could share about Christian fasting."
 msgstr ""
 
-#: admin/prayer-field-content.php:447
+#: admin/prayer-field-content.php:463
 msgid ""
 "We pray the promise of the rest of Isaiah 58:8-12 over this land.\n"
 "\n"
@@ -1927,7 +1927,7 @@ msgid ""
 "disciples who make disciples) in this land. Amen."
 msgstr ""
 
-#: admin/prayer-field-content.php:457
+#: admin/prayer-field-content.php:473
 msgid ""
 "“Do not lay up for yourselves treasures on earth, where moth and rust "
 "destroy and where thieves break in and steal, but lay up for yourselves "
@@ -1941,7 +1941,7 @@ msgid ""
 "You cannot serve God and money.\" (Matthew 6:19-24) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:458
+#: admin/prayer-field-content.php:474
 msgid ""
 "Most Muslims (and many Christians) believe that material wealth is evidence "
 "of being favored by God. Therefore, they believe the converse is also true: "
@@ -1952,7 +1952,7 @@ msgid ""
 "convict them that serving money ultimately leads to bondage and death."
 msgstr ""
 
-#: admin/prayer-field-content.php:459
+#: admin/prayer-field-content.php:475
 msgid ""
 "May the believers of this place fix their eyes on Jesus. As they gaze on his "
 "bright glory, may the light of Christ enter their eyes and fill their whole "
@@ -1966,7 +1966,7 @@ msgid ""
 "as they trust in you to care for them and their loved ones."
 msgstr ""
 
-#: admin/prayer-field-content.php:460
+#: admin/prayer-field-content.php:476
 msgid ""
 "\"You need to come and tell us more of Jesus. I can feel my heart soar with "
 "you through the stories. We need to set aside time daily to really "
@@ -1978,7 +1978,7 @@ msgid ""
 "not have divided hearts."
 msgstr ""
 
-#: admin/prayer-field-content.php:461
+#: admin/prayer-field-content.php:477
 msgid ""
 "Jesus said, \"The Kingdom of God is like treasure hidden in a field, which a "
 "man found and covered up. Then in his joy he goes and sells all that he has "
@@ -1991,7 +1991,7 @@ msgid ""
 "for the wise use of it."
 msgstr ""
 
-#: admin/prayer-field-content.php:462
+#: admin/prayer-field-content.php:478
 msgid ""
 "Places of Business\n"
 "\n"
@@ -2004,7 +2004,7 @@ msgid ""
 "serve Him above financial gain."
 msgstr ""
 
-#: admin/prayer-field-content.php:466
+#: admin/prayer-field-content.php:482
 msgid ""
 "Jesus told the story of a widow who put two small coins into the offering "
 "box (Mark 12:41-44). He said she put more in than any of the wealthy people. "
@@ -2020,7 +2020,7 @@ msgid ""
 "like this."
 msgstr ""
 
-#: admin/prayer-field-content.php:472
+#: admin/prayer-field-content.php:488
 msgid ""
 "“Therefore I tell you, do not be anxious about your life, what you will eat "
 "or what you will drink, nor about your body, what you will put on. Is not "
@@ -2041,7 +2041,7 @@ msgid ""
 "itself. Sufficient for the day is its own trouble.\" (Matthew 6:25-34) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:473
+#: admin/prayer-field-content.php:489
 msgid ""
 "Islam teaches that God is unknowable, and as a result, many feel like God is "
 "distant. We know the truth is that God Almighty wants an intimate "
@@ -2050,7 +2050,7 @@ msgid ""
 "filled with joy at knowing the intimacy of God, who calls us \"beloved\"."
 msgstr ""
 
-#: admin/prayer-field-content.php:474
+#: admin/prayer-field-content.php:490
 msgid ""
 "A sparrow flew through the open window of her kitchen and began to eat "
 "forgotten crumbs from the floor. Hannan listened to this passage joyfully, "
@@ -2062,7 +2062,7 @@ msgid ""
 "would learn the sweetness of trusting in the care of God."
 msgstr ""
 
-#: admin/prayer-field-content.php:475
+#: admin/prayer-field-content.php:491
 msgid ""
 "Anxious hearts come from inaccurate perceptions of the love, goodness, and "
 "power of God. Father, we pray for the people here to look at creation and "
@@ -2073,7 +2073,7 @@ msgid ""
 "to God because he made them and chose to die to offer them redemption."
 msgstr ""
 
-#: admin/prayer-field-content.php:476
+#: admin/prayer-field-content.php:492
 msgid ""
 "May the church in this region, both current and future, live out Philippians "
 "4:4-7:\n"
@@ -2088,7 +2088,7 @@ msgid ""
 "and your minds in Christ Jesus.'"
 msgstr ""
 
-#: admin/prayer-field-content.php:482
+#: admin/prayer-field-content.php:498
 msgid ""
 "Places of Government\n"
 "\n"
@@ -2106,7 +2106,7 @@ msgid ""
 "leaders who will protect the basic human rights of these refugee peoples."
 msgstr ""
 
-#: admin/prayer-field-content.php:485
+#: admin/prayer-field-content.php:501
 msgid ""
 "Today, we pray for people of this land to look at the birds of the air. Let "
 "them see how our Heavenly Father takes care of them and may they seek out "
@@ -2121,7 +2121,7 @@ msgid ""
 "anxiety, panic attacks, sleep paralysis, and crippling stresses and fears."
 msgstr ""
 
-#: admin/prayer-field-content.php:493
+#: admin/prayer-field-content.php:509
 msgid ""
 "“Judge not, that you be not judged. For with the judgment you pronounce you "
 "will be judged, and with the measure you use it will be measured to you. Why "
@@ -2134,7 +2134,7 @@ msgid ""
 "underfoot and turn to attack you.\" (Matthew 7:1-6) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:494
+#: admin/prayer-field-content.php:510
 msgid ""
 "Judgment and hypocrisy are core to all humanity's sinful nature. Muslims are "
 "no exception. We all quickly try to pull the speck out of our neighbor's eye "
@@ -2146,7 +2146,7 @@ msgid ""
 "turn to Christ for forgiveness and new hearts."
 msgstr ""
 
-#: admin/prayer-field-content.php:495
+#: admin/prayer-field-content.php:511
 msgid ""
 "Jesus, you long for us to see. Sin clouds our sight. We see one another "
 "through eyes of judgment, forgetting that we have been forgiven. Lord, "
@@ -2156,7 +2156,7 @@ msgid ""
 "we cannot see"
 msgstr ""
 
-#: admin/prayer-field-content.php:496
+#: admin/prayer-field-content.php:512
 msgid ""
 "It takes tremendous humility to accept correction with grace. It is "
 "especially hard when someone declares something that disagrees with the "
@@ -2166,7 +2166,7 @@ msgid ""
 "joy and not trample them or be angry at being judged or corrected."
 msgstr ""
 
-#: admin/prayer-field-content.php:497
+#: admin/prayer-field-content.php:513
 msgid ""
 "Pray for the church of this land to \"put away all malice and all deceit and "
 "hypocrisy and envy and all slander. Like newborn infants, long for the pure "
@@ -2177,7 +2177,7 @@ msgid ""
 "God's Word and to have opportunities to taste and see that the Lord is good."
 msgstr ""
 
-#: admin/prayer-field-content.php:498
+#: admin/prayer-field-content.php:514
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -2194,7 +2194,7 @@ msgid ""
 "those who want to take logs out of their own eyes."
 msgstr ""
 
-#: admin/prayer-field-content.php:503
+#: admin/prayer-field-content.php:519
 msgid ""
 "\"Therefore do not pronounce judgment before the time, before the Lord "
 "comes, who will bring to light the things now hidden in darkness and will "
@@ -2210,7 +2210,7 @@ msgid ""
 "from hypocrisy."
 msgstr ""
 
-#: admin/prayer-field-content.php:509
+#: admin/prayer-field-content.php:525
 msgid ""
 "“Ask, and it will be given to you; seek, and you will find; knock, and it "
 "will be opened to you. For everyone who asks receives, and the one who seeks "
@@ -2221,7 +2221,7 @@ msgid ""
 "good things to those who ask him!\" (Matthew 7:7-11) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:510
+#: admin/prayer-field-content.php:526
 msgid ""
 "\"I Dared to Call Him Father\" by Bilquis Sheikh recounts the story of a "
 "Muslim woman from Pakistan who turned to Christ. The title captures how "
@@ -2233,7 +2233,7 @@ msgid ""
 "to want to know more about God as our Heavenly Father."
 msgstr ""
 
-#: admin/prayer-field-content.php:511
+#: admin/prayer-field-content.php:527
 msgid ""
 "“I just don’t know if I can do it,” Fouad shared, his head in his hands.  "
 "They were only recently married, but more than nine months past the "
@@ -2250,7 +2250,7 @@ msgid ""
 "brand new Way."
 msgstr ""
 
-#: admin/prayer-field-content.php:512
+#: admin/prayer-field-content.php:528
 msgid ""
 "Hamza kicked the ball gently toward little Ahmed.  He was a good little "
 "player, and so handsome too!  Hamza’s father-heart swelled with pride as he "
@@ -2272,7 +2272,7 @@ msgid ""
 "secretly so unsure?"
 msgstr ""
 
-#: admin/prayer-field-content.php:513
+#: admin/prayer-field-content.php:529
 msgid ""
 "May the church in this region ask, seek, and knock on behalf of the "
 "multitudes of Muslim peoples that surround them. Give them ideas, next "
@@ -2286,7 +2286,7 @@ msgid ""
 "family members into the Kingdom."
 msgstr ""
 
-#: admin/prayer-field-content.php:514
+#: admin/prayer-field-content.php:530
 msgid ""
 "Places of Education\n"
 "\n"
@@ -2302,7 +2302,7 @@ msgid ""
 "families and to start Bible studies among them."
 msgstr ""
 
-#: admin/prayer-field-content.php:519
+#: admin/prayer-field-content.php:535
 msgid ""
 "\"Every good gift and every perfect gift is from above, coming down from the "
 "Father of lights, with whom there is no variation or shadow due to change."
@@ -2316,7 +2316,8 @@ msgid ""
 "listen to their message but would share it with others."
 msgstr ""
 
-#: admin/prayer-field-content.php:523
+#: admin/prayer-field-content.php:539 migrations/0000-initial.php:47
+#: migrations/0000-initial.php:62
 msgid ""
 "“So whatever you wish that others would do to you, do also to them, for this "
 "is the Law and the Prophets. Enter by the narrow gate. For the gate is wide "
@@ -2325,14 +2326,16 @@ msgid ""
 "those who find it are few.\" (Matthew 7:12-14) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:524
+#: admin/prayer-field-content.php:540 migrations/0000-initial.php:48
+#: migrations/0000-initial.php:63
 msgid ""
 "For those praying today who live in this area, take a moment to imagine what "
 "it would look like if everyone would do to others what they would have done "
 "unto them. Pray for those Kingdom realities to come."
 msgstr ""
 
-#: admin/prayer-field-content.php:525
+#: admin/prayer-field-content.php:541 migrations/0000-initial.php:48
+#: migrations/0000-initial.php:64
 msgid ""
 "For those praying today who do not live in this area, pray for Christians to "
 "bring meals to the sick, give rides to the carless, listen well to those "
@@ -2340,7 +2343,8 @@ msgid ""
 "May the name of Jesus be exalted in these actions."
 msgstr ""
 
-#: admin/prayer-field-content.php:526
+#: admin/prayer-field-content.php:542 migrations/0000-initial.php:49
+#: migrations/0000-initial.php:65
 msgid ""
 "We pray today for believers who have chosen the hard, narrow way that leads "
 "to life. When they are tempted to be jealous of those who get to \"do as "
@@ -2351,7 +2355,8 @@ msgid ""
 "giving their lives for Jesus' sake, calling others to the narrow way."
 msgstr ""
 
-#: admin/prayer-field-content.php:527
+#: admin/prayer-field-content.php:543 migrations/0000-initial.php:50
+#: migrations/0000-initial.php:66
 msgid ""
 "Adil sat in the back of an old church building in the middle of the week, "
 "full of questions about Christianity.  It was forbidden for him to come when "
@@ -2367,7 +2372,8 @@ msgid ""
 "repent and live."
 msgstr ""
 
-#: admin/prayer-field-content.php:528
+#: admin/prayer-field-content.php:544 migrations/0000-initial.php:51
+#: migrations/0000-initial.php:67
 msgid ""
 "Pray that God would give grace to the church in this region to live out "
 "Jesus' Golden Rule, “Do to Others”,  teaching with one another. Pray for "
@@ -2379,7 +2385,8 @@ msgid ""
 "and Bible studies that would replicate such a way of life for God's glory."
 msgstr ""
 
-#: admin/prayer-field-content.php:530
+#: admin/prayer-field-content.php:546 migrations/0000-initial.php:53
+#: migrations/0000-initial.php:69
 msgid ""
 "Places of Community\n"
 "\n"
@@ -2396,7 +2403,7 @@ msgid ""
 "others, and selflessness."
 msgstr ""
 
-#: admin/prayer-field-content.php:535
+#: admin/prayer-field-content.php:551 migrations/0000-initial.php:58
 msgid ""
 "Jesus, you are the way, the truth, and the life. No one comes to the Father "
 "except through you (John 14:6). Tonight, as Muslims break their fast, go to "
@@ -2409,7 +2416,7 @@ msgid ""
 "you together."
 msgstr ""
 
-#: admin/prayer-field-content.php:539
+#: admin/prayer-field-content.php:555
 msgid ""
 "“Beware of false prophets, who come to you in sheep's clothing but inwardly "
 "are ravenous wolves. You will recognize them by their fruits. Are grapes "
@@ -2420,7 +2427,7 @@ msgid ""
 "will recognize them by their fruits.\" (Matthew 7:15-20) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:540
+#: admin/prayer-field-content.php:556
 msgid ""
 "Like most people, Muslims care deeply about their outward appearance or "
 "reputation in the community. In contrast, Jesus cares about the person's "
@@ -2430,7 +2437,7 @@ msgid ""
 "teachings on the topic."
 msgstr ""
 
-#: admin/prayer-field-content.php:541
+#: admin/prayer-field-content.php:557
 msgid ""
 "These were the very verses that brought Salima to walk the Way of Light. The "
 "beauty of Spirit fruit is borne only when the branch draws the sap from the "
@@ -2442,7 +2449,7 @@ msgid ""
 "ask for fruit that remains. (John 15)"
 msgstr ""
 
-#: admin/prayer-field-content.php:542
+#: admin/prayer-field-content.php:558
 msgid ""
 "Soumia longed to bear good fruit.  She wanted to be a mom who was patient "
 "and joyful, loving and self-controlled. She kept asking how it was possible, "
@@ -2454,7 +2461,7 @@ msgid ""
 "May Soumia and those like her receive the grace of the Gospel."
 msgstr ""
 
-#: admin/prayer-field-content.php:543
+#: admin/prayer-field-content.php:559
 msgid ""
 "One of the biggest arguments against disciple-making movements (DMM) is that "
 "if new believers lead simple churches, heresy will emerge. Opponents of DMM "
@@ -2466,7 +2473,7 @@ msgid ""
 "good fruit and bad fruit."
 msgstr ""
 
-#: admin/prayer-field-content.php:544
+#: admin/prayer-field-content.php:560
 msgid ""
 "Places of Business\n"
 "\n"
@@ -2480,7 +2487,7 @@ msgid ""
 "honesty will bear good fruit for God's glory."
 msgstr ""
 
-#: admin/prayer-field-content.php:549
+#: admin/prayer-field-content.php:565
 msgid ""
 "\"But the wisdom from above is first pure, then peaceable, gentle, open to "
 "reason, full of mercy and good fruits, impartial and sincere. And a harvest "
@@ -2500,7 +2507,7 @@ msgid ""
 "disciples and churches multiplying throughout this land."
 msgstr ""
 
-#: admin/prayer-field-content.php:562
+#: admin/prayer-field-content.php:578
 msgid ""
 "“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of "
 "heaven, but the one who does the will of my Father who is in heaven.  On "
@@ -2510,7 +2517,7 @@ msgid ""
 "workers of lawlessness.’\" (Matthew 7:21-23) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:563
+#: admin/prayer-field-content.php:579
 msgid ""
 "In Islam, someone becomes a Muslim simply by reciting the shahada (Islamic "
 "declaration of faith) with conviction. Jesus says merely saying 'Lord, Lord' "
@@ -2520,7 +2527,7 @@ msgid ""
 "this region to become like Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:564
+#: admin/prayer-field-content.php:580
 msgid ""
 "Samir asked, \"To become a Muslim, you must say the shahada. What do you say "
 "to become a Christian?\" A brother answered, \"In Romans, it says '...if you "
@@ -2532,7 +2539,7 @@ msgid ""
 "follow their teacher and Lord and do what he says."
 msgstr ""
 
-#: admin/prayer-field-content.php:565
+#: admin/prayer-field-content.php:581
 msgid ""
 "\"What good is there for women in Jannah (paradise)? Men are promised "
 "virgins and wine, but what do women have to look forward to? Can you tell me "
@@ -2547,7 +2554,7 @@ msgid ""
 "their lives. Stir in them a fear of hearing Jesus' words, 'I never knew you.'"
 msgstr ""
 
-#: admin/prayer-field-content.php:566
+#: admin/prayer-field-content.php:582
 msgid ""
 "In Matthew 10:26-33, Jesus tells his followers not to fear and that \"..."
 "whoever denies me before men, I also will deny before my Father who is in "
@@ -2558,7 +2565,7 @@ msgid ""
 "yourself, just as you did Peter after he denied you three times."
 msgstr ""
 
-#: admin/prayer-field-content.php:567
+#: admin/prayer-field-content.php:583
 msgid ""
 "Places of Government\n"
 "\n"
@@ -2575,7 +2582,7 @@ msgid ""
 "May they repent of being 'workers of lawlessness'. (Matthew 7:23)"
 msgstr ""
 
-#: admin/prayer-field-content.php:572
+#: admin/prayer-field-content.php:588
 msgid ""
 "Miracles, prophecies, and mighty works do not rescue us; we must be known by "
 "God. Spirit of God, we pray that the lost in this land will hear and believe "
@@ -2586,7 +2593,7 @@ msgid ""
 "love you, will obey you. (John 15:14)"
 msgstr ""
 
-#: admin/prayer-field-content.php:576
+#: admin/prayer-field-content.php:592
 msgid ""
 "“Everyone then who hears these words of mine and does them will be like a "
 "wise man who built his house on the rock. And the rain fell, and the floods "
@@ -2598,7 +2605,7 @@ msgid ""
 "it.” (Matthew 7:24-27) ESV"
 msgstr ""
 
-#: admin/prayer-field-content.php:577
+#: admin/prayer-field-content.php:593
 msgid ""
 "Today, many people in this place are building their lives on careers, family "
 "relationships, reputation, money, influence, and health. These are all "
@@ -2608,7 +2615,7 @@ msgid ""
 "shield, and the horn of my salvation, my stronghold.\""
 msgstr ""
 
-#: admin/prayer-field-content.php:578
+#: admin/prayer-field-content.php:594
 msgid ""
 "Riyadh grew up as a Muslim but came to faith in Christ as a young man. "
 "Despite persecution and losing relationships with family members, he held on "
@@ -2623,7 +2630,7 @@ msgid ""
 "his wife to multiply themselves into many other leaders in this region."
 msgstr ""
 
-#: admin/prayer-field-content.php:579
+#: admin/prayer-field-content.php:595
 msgid ""
 "It started with cheating on exams in school. Then there was lying to parents "
 "and teachers...telling his fiancee what she wanted to hear… cutting corners, "
@@ -2639,7 +2646,7 @@ msgid ""
 "and family also wanting to investigate the teachings of Jesus."
 msgstr ""
 
-#: admin/prayer-field-content.php:580
+#: admin/prayer-field-content.php:596
 msgid ""
 "Obedience brings stability. When we obey Jesus' commandments, we remain in "
 "his love. (John 15:10) This is the foundation, the rock we build upon. The "
@@ -2653,7 +2660,7 @@ msgid ""
 "steadfastness of his love."
 msgstr ""
 
-#: admin/prayer-field-content.php:581
+#: admin/prayer-field-content.php:597
 msgid ""
 "Places of Religion\n"
 "\n"
@@ -2668,7 +2675,7 @@ msgid ""
 "God's Word together and be transformed."
 msgstr ""
 
-#: admin/prayer-field-content.php:584
+#: admin/prayer-field-content.php:600
 msgid ""
 "Have mercy, O God.  We confess that there are those in this area who have "
 "\"forsaken [God], the spring of living water and have dug their own "
@@ -2680,14 +2687,14 @@ msgid ""
 "let them see that your Word is true, that obeying you brings life and rest."
 msgstr ""
 
-#: admin/prayer-field-content.php:588
+#: admin/prayer-field-content.php:604
 msgid ""
 "\"And when Jesus finished these sayings, the crowds were astonished at his "
 "teaching, for he was teaching them as one who had authority, and not as "
 "their scribes.\" (Matthew 7:28-29)"
 msgstr ""
 
-#: admin/prayer-field-content.php:589
+#: admin/prayer-field-content.php:605
 msgid ""
 "Let's pray with one heart that multitudes of Muslims in this area would read "
 "and be astonished by the teachings of Jesus that we have prayed throughout "
@@ -2695,7 +2702,7 @@ msgid ""
 "and respond obediently."
 msgstr ""
 
-#: admin/prayer-field-content.php:590
+#: admin/prayer-field-content.php:606
 msgid ""
 "Yosri grew up without a father for much of his life. He experienced abuse as "
 "a child and unforgiveness had sown deep pain in his heart. When he came "
@@ -2708,7 +2715,7 @@ msgid ""
 "study God's Word through methods like a Discovery Bible Study."
 msgstr ""
 
-#: admin/prayer-field-content.php:591
+#: admin/prayer-field-content.php:607
 msgid ""
 "Holy Spirit, please keep hovering over the people of this land. Reveal to "
 "them, Jesus.  Let them meet believers who teach obedience to everything "
@@ -2716,7 +2723,7 @@ msgid ""
 "them receive it with humility and faith and follow him."
 msgstr ""
 
-#: admin/prayer-field-content.php:592
+#: admin/prayer-field-content.php:608
 msgid ""
 "Together, Lord Jesus, we pray that we and your children among this people "
 "group would humbly submit to your authority. Let no arrogance of education "
@@ -2726,7 +2733,7 @@ msgid ""
 "stripped away and that your children obey you."
 msgstr ""
 
-#: admin/prayer-field-content.php:593
+#: admin/prayer-field-content.php:609
 msgid ""
 "Places of Education\n"
 "\n"
@@ -2740,7 +2747,7 @@ msgid ""
 "bring good news to the people around them."
 msgstr ""
 
-#: admin/prayer-field-content.php:598
+#: admin/prayer-field-content.php:614
 msgid ""
 "Lord, we lift our voices together one last time. Thank you for these 31 days "
 "of prayer for our brothers and sisters in this land. Today, we remember our "
@@ -2764,30 +2771,30 @@ msgid ""
 "Amen. Amen."
 msgstr ""
 
-#: admin/prayer-field-content.php:638
+#: admin/prayer-field-content.php:637 migrations/0000-initial.php:91
 msgid "Pray as the Lord leads you as you read today's verse"
 msgstr ""
 
-#: admin/prayer-field-content.php:646
+#: admin/prayer-field-content.php:645 migrations/0000-initial.php:99
 msgid "Praying with insight"
 msgstr ""
 
-#: admin/prayer-field-content.php:657
+#: admin/prayer-field-content.php:656 migrations/0000-initial.php:110
 msgid "For believers"
 msgstr ""
 
-#: admin/prayer-field-content.php:665
+#: admin/prayer-field-content.php:664 migrations/0000-initial.php:118
 msgid "For the lost"
 msgstr ""
 
-#: admin/prayer-field-content.php:673
+#: admin/prayer-field-content.php:672 migrations/0000-initial.php:126
 msgid "For the church"
 msgstr ""
 
-#: admin/prayer-field-content.php:682
+#: admin/prayer-field-content.php:681 migrations/0000-initial.php:135
 msgid "For areas of influence"
 msgstr ""
 
-#: admin/prayer-field-content.php:690
+#: admin/prayer-field-content.php:689 migrations/0000-initial.php:143
 msgid "Declaration of the scripture"
 msgstr ""
