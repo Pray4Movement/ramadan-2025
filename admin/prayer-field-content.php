@@ -50,6 +50,22 @@ class P4_Ramadan_2025_Content {
         return $installed;
     }
 
+    public static function bullet_list_to_html( $message ){
+        //https://stackoverflow.com/questions/2344563/a-regex-that-converts-text-lists-to-html-in-php
+        $message = preg_replace( '/^-+(.*)?/im', '<ul><li>$1</li></ul>', $message );
+        return preg_replace( '/(<\/ul>\n(.*)<ul>*)+/', '', $message );
+    }
+
+    public static function ramadan_format_message( $message, $fields = [] ) {
+        $message = make_clickable( $message );
+//            $message = str_replace( '[in location]', !empty( $fields['in_location'] ) ? $fields['in_location'] : '[in location]', $message );
+//            $message = str_replace( '[of location]', !empty( $fields['of_location'] ) ? $fields['of_location'] : '[of location]', $message );
+//            $message = str_replace( '[location]', !empty( $fields['location'] ) ? $fields['location'] : '[location]', $message );
+//            $message = str_replace( '[people_group]', !empty( $fields['ppl_group'] ) ? $fields['ppl_group'] : '[people_group]', $message );
+        $message = self::bullet_list_to_html( $message );
+        return nl2br( $message );
+    }
+
     public static function content( $language, $names, $from_translation = 'en_US' ) {
 
         $fields = $names;
@@ -521,9 +537,8 @@ Only God sees the heart. We do not. Free Christians in this land from the pressu
             //day 27
             [
                 __( '“So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets. Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few." (Matthew 7:12-14) ESV', 'ramadan-2025' ),
-                __( 'For those praying today who live in this area, take a moment to imagine what it would look like if everyone would do to others what they would have done unto them. Pray for those Kingdom realities to come
-
-For those praying today who do not live in this area, pray for Christians to bring meals to the sick, give rides to the carless, listen well to those with burdens, visit those in the hospital, and to share with those in need. May the name of Jesus be exalted in these actions.', 'ramadan-2025' ),
+                __( 'For those praying today who live in this area, take a moment to imagine what it would look like if everyone would do to others what they would have done unto them. Pray for those Kingdom realities to come.', 'ramadan-2025' ),
+                __( 'For those praying today who do not live in this area, pray for Christians to bring meals to the sick, give rides to the carless, listen well to those with burdens, visit those in the hospital, and to share with those in need. May the name of Jesus be exalted in these actions.', 'ramadan-2025' ),
                 __( 'We pray today for believers who have chosen the hard, narrow way that leads to life. When they are tempted to be jealous of those who get to "do as they like" on the easy, wide way, may they stop and remember the cross. Thank you, Jesus, for coming to reveal God and the way of the cross that loves and sacrifices. We pray that believers will deliberately choose to honor others, to forgive, to offer hospitality, and to serve with humility, giving their lives for Jesus\' sake, calling others to the narrow way.', 'ramadan-2025' ),
                 __( 'Adil sat in the back of an old church building in the middle of the week, full of questions about Christianity.  It was forbidden for him to come when foreign Christians gathered there for worship, but he came when a small group practiced for choir. Tears streamed down his face, and he said apologetically, "I feel such peace here. I can\'t stop crying." Then he asked, "Is it okay for me to choose Jesus and still continue [in this sin that I love]?" A brother told him that we all come as we are to God, and he is the one who cleanses us, but he tells us to "Repent, for the kingdom of God is near."  Adil wanted life but was unwilling to turn away from the wide way of destruction to the narrow, hard, holy way. Lord, we pray for those who want you but want their old life, too. Please, stir their souls to repent and live.', 'ramadan-2025' ),
                 __( 'Pray that God would give grace to the church in this region to live out Jesus\' Golden Rule, “Do to Others”,  teaching with one another. Pray for simple house churches to model this kind of love to each other and those around them. Pray for believers to proactively serve, visit the sick, listen to the wounded, grieve with the hurting, and show compassion to the weak...instead of waiting to be served, visited, or listened to.
@@ -602,23 +617,6 @@ Amen. Amen.', 'ramadan-2025' ),
             ],
         ];
 
-
-        function bullet_list_to_html( $message ){
-            //https://stackoverflow.com/questions/2344563/a-regex-that-converts-text-lists-to-html-in-php
-            $message = preg_replace( '/^-+(.*)?/im', '<ul><li>$1</li></ul>', $message );
-            return preg_replace( '/(<\/ul>\n(.*)<ul>*)+/', '', $message );
-        }
-
-        function ramadan_format_message( $message, $fields ) {
-            $message = make_clickable( $message );
-//            $message = str_replace( '[in location]', !empty( $fields['in_location'] ) ? $fields['in_location'] : '[in location]', $message );
-//            $message = str_replace( '[of location]', !empty( $fields['of_location'] ) ? $fields['of_location'] : '[of location]', $message );
-//            $message = str_replace( '[location]', !empty( $fields['location'] ) ? $fields['location'] : '[location]', $message );
-//            $message = str_replace( '[people_group]', !empty( $fields['ppl_group'] ) ? $fields['ppl_group'] : '[people_group]', $message );
-            $message = bullet_list_to_html( $message );
-            return nl2br( $message );
-        }
-
         $content = [];
         foreach ( $data as $index => $d ){
 
@@ -633,25 +631,25 @@ Amen. Amen.', 'ramadan-2025' ),
 //            }
 
             $content[] = [
-                'excerpt' => wp_kses_post( ramadan_format_message( $d[0], $fields ) ),
+                'excerpt' => wp_kses_post( self::ramadan_format_message( $d[0], $fields ) ),
                 'content' => [
                     '<!-- wp:heading {"level":3} -->',
                     '<h3><strong>' . __( 'Pray as the Lord leads you as you read today\'s verse', 'ramadan-2025' ) . '</strong></h3>',
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
-                    '<p>' . wp_kses_post( ramadan_format_message( $d[0], $fields ) ) . '</p>',
+                    '<p>' . wp_kses_post( self::ramadan_format_message( $d[0], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:heading {"level":3} -->',
                     '<h3><strong>' . __( 'Praying with insight', 'ramadan-2025' ) . '</strong></h3>',
                     '<!-- /wp:heading -->',
                     '<!-- wp:paragraph {"style":{"typography":{"fontSize":"11px"}}} -->',
-//                    '<p style="font-size:11px"><em>' . esc_html( ramadan_format_message( __( 'Each of us who comes to Christ must repent of and renounce every pact, promise, or identity we held before faith in Christ. Join us in praying for our brothers and sisters in Christ from a Muslim background as they repent of their former identity as Muslims. This prayer is inspired by chapter 7 and 8 of Liberty to the Captives by Mark Durie', 'ramadan-2025' ), $fields ) ) . '</em></p>',
+//                    '<p style="font-size:11px"><em>' . esc_html( self::( __( 'Each of us who comes to Christ must repent of and renounce every pact, promise, or identity we held before faith in Christ. Join us in praying for our brothers and sisters in Christ from a Muslim background as they repent of their former identity as Muslims. This prayer is inspired by chapter 7 and 8 of Liberty to the Captives by Mark Durie', 'ramadan-2025' ), $fields ) ) . '</em></p>',
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:paragraph -->',
-                    '<p>' . wp_kses_post( ramadan_format_message( $d[1], $fields ) ) . '</p>',
+                    '<p>' . wp_kses_post( self::ramadan_format_message( $d[1], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:heading {"level":3} -->',
@@ -659,7 +657,7 @@ Amen. Amen.', 'ramadan-2025' ),
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
-                    '<p>' . wp_kses_post( ramadan_format_message( $d[2], $fields ) ) . '</p>',
+                    '<p>' . wp_kses_post( self::ramadan_format_message( $d[2], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:heading {"level":3} -->',
@@ -667,7 +665,7 @@ Amen. Amen.', 'ramadan-2025' ),
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
-                    '<p>' . wp_kses_post( ramadan_format_message( $d[3], $fields ) ) . '</p>',
+                    '<p>' . wp_kses_post( self::ramadan_format_message( $d[3], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:heading {"level":3} -->',
@@ -675,7 +673,7 @@ Amen. Amen.', 'ramadan-2025' ),
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
-                    '<p>' . wp_kses_post( ramadan_format_message( $d[4], $fields ) ) . '</p>',
+                    '<p>' . wp_kses_post( self::ramadan_format_message( $d[4], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
 
 
@@ -684,7 +682,7 @@ Amen. Amen.', 'ramadan-2025' ),
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
-                    '<p>' . wp_kses_post( ramadan_format_message( $d[5], $fields ) ) . '</p>',
+                    '<p>' . wp_kses_post( self::ramadan_format_message( $d[5], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
 
                     '<!-- wp:heading {"level":3} -->',
@@ -692,7 +690,7 @@ Amen. Amen.', 'ramadan-2025' ),
                     '<!-- /wp:heading -->',
 
                     '<!-- wp:paragraph -->',
-                    '<p>' . wp_kses_post( ramadan_format_message( $d[6], $fields ) ) . '</p>',
+                    '<p>' . wp_kses_post( self::ramadan_format_message( $d[6], $fields ) ) . '</p>',
                     '<!-- /wp:paragraph -->',
                 ]
             ];

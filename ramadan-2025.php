@@ -71,6 +71,18 @@ add_filter( 'dt_plugins', function ( $plugins ){
 });
 
 /**
+ * Run migrations after theme is loaded
+ */
+add_action( 'init', function (){
+    try {
+        require_once( plugin_dir_path( __FILE__ ) . '/migrations/class-migration-engine.php' );
+        DT_Ramadan_2025_Migration_Engine::migrate( DT_Ramadan_2025_Migration_Engine::$migration_number );
+    } catch ( Throwable $e ) {
+        new WP_Error( 'migration_error', 'Migration engine failed to migrate.' );
+    }
+} );
+
+/**
  * Singleton class for setting up the plugin.
  *
  * @since  0.1
