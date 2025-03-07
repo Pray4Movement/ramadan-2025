@@ -170,6 +170,13 @@ class Ramadan_2025 {
         load_plugin_textdomain( $domain, false, trailingslashit( dirname( plugin_basename( __FILE__ ) ) ). 'languages' );
     }
 
+    public static function get_url_path(){
+        return trailingslashit( plugin_dir_url( __FILE__ ) );
+    }
+    public static function get_dir_path(){
+        return trailingslashit( plugin_dir_path( __FILE__ ) );
+    }
+
     /**
      * Magic method to output a string if trying to use the object as a string.
      *
